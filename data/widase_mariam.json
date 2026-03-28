@@ -1,0 +1,2041 @@
+{
+  "book_name": {
+    "en": "Widase Mariam",
+    "am": "ውዳሴ ማርያም",
+    "gez": "ውዳሴሃ ለእግዝእትነ ማርያም ወላዲተ አምላክ",
+    "de": "Lobpreis der Heiligen Maria"
+  },
+  "full_title": "Wéddase égzéýténä Maryam déngél wäladitä amlak (Praise of our Lady Mary, the virgin genitrix of God)",
+  "about": {
+    "description": "Wéddase Maryam (Praise of Mary) is a significant liturgical office within the Ethiopian Orthodox Täwahédo Church (EOTC). It constitutes one of three major offices dedicated to Saint Mary, alongside the Anqäsä bérhan and Argänonä Maryam. It comprises blessings and praise of the Mother of God and intercessions to her, organized into seven sections corresponding to each weekday.",
+    "origins": "Ethiopian tradition attributes the work to either Ephrem the Syrian (d. 373) or Simeon the Potter, a Syrian poet from the 5th-6th century. However, scholars find these ascriptions questionable. The actual lineage traces through Coptic sources. A Bohairic Theotokion (hymn to Mary) containing influences from Ephrem's compositions and Greek-Byzantine models served as the original template. An Arabic intermediary translation preceded the Ethiopic version, likely produced during the second half of the 14th century by abba Sälama the Translator.",
+    "manuscript_tradition": "The work achieved considerable popularity, with abundant manuscripts existing across libraries. It frequently appears in Psalter appendices alongside Biblical canticles and other liturgical texts. The Mééraf included the composition in its second section. Educational significance remained substantial, as andémta (interpretive commentary) developed around it as required teaching material in mäshaf bet (church schools).",
+    "theological_significance": "The Wéddase Maryam's theological importance profoundly shaped subsequent liturgies, including the Anaphora of Pseudo-Cyriacus of Behnesa and related Marian liturgical texts."
+  },
+  "chapters": [
+    {
+      "chapter": "daily",
+      "chapter_name": {
+        "en": "Daily Prayer",
+        "am": "የዘወትር ጸሎት",
+        "gez": "ጸሎት ዘዘወትር",
+        "de": "Tägliche Gebete"
+      },
+      "sections": [
+        {
+          "section": 1,
+          "text": {
+            "en": null,
+            "am": "በጌታዬ በኢየሱስ ክርስቶስ ትምህርተ መስቀል ፊቴንና መላ ሰውነቴን ሶስት ጊዜ አማትባለሁ። በስመአብ ወወልድ ወመንፈስ ቅዱስ አሃዱ አምላክ አሜን (፫) ጊዜ። አንድ አምላክ በሚሆን በአብ በወልድ በመንፈስ ቅዱስ ስም ንጹህ ልዩ ክቡር ጽሩይ በሆኑ በሶስትነት ወይም በሥላሴ እያመንኩና እየተማጸንኩ ጠላቴ ሰይጣንን እክድሃለሁ። በዚች በእናቴ በቤተክርስቲያን ፊት ቆሜ እክድሃለሁ። ለዚህ ምስክሬ ማርያም ናት በዚህም ዓለም በወዳኛውም ዓለም እርሷን አምባ መጠጊያ አድርጌ እክድሃለሁ።",
+            "gez": "አዐትብ ገጽየ ወኩለንታየ በትእምርተ መስቀል። በስመ አብ ወወልድ ወመንፈስ ቅዱስ አሐዱ አምላክ በቅድስት ሥላሴ እንዘ አአምን ወእትመኅፀን እክሕደከ ሰይጣን በቅድመ ዛቲ እምየ ቅድስት ቤተ ክርስትያን እንተ ይእቲ ስምዕየ ማርያም ጽዮን ለዓለም ዓለም።",
+            "de": "Ich bekreuzige mein Gesicht und meinen ganzen Körper mit dem Zeichen des Kreuzes."
+          }
+        },
+        {
+          "section": 2,
+          "text": {
+            "en": null,
+            "am": "አቤቱ እናመሰግንሃለን አቤቱ እናከብርሃለን አቤቱ እንገዛልሃለን አቤቱ ቅዱስ ስምህን እናመሰግናለን ፤ ጉልበት ሁሉ የሚሰግድልህ አቤቱ እንሰግድልሃለን አንደበት ሁሉ ላንተ ይገዛል የአምላኮች አምላክ የጌቶች ጌታ የንጉሶችም ንጉስ አንተ ነህ። የስጋም የነፍስም ፈጣሪ አንተ ነህ። እናንተስ በምትጸልዩበት ጊዜ እንዲህ ብላችሁ ጸልዩ ብሎ ቅዱስ ልጅህ እንዳስተማረን እንጠራሃለን።",
+            "gez": "ነአኩተከ እግዚኦ ወንሴብሐከ ንባርከከ እግዚኦ ወንትአምነከ ንስእለከ እግዚኦ ወናስተበቍዓከ። ንገኒ ለከ እግዚኦ ወንትቀነይ ለስምከ ቅዱስ። ንሰግድ ለከ ኦ ዘለከ ይሰግድ ኩሉ ብርክ ወለከ ይትቀነይ ኩሉ ልሳን። አንተ ውእቱ አምላከ አማልክት ወእግዚእ አጋእዝት ወንጉሠ ነገሥት አምላክ አንተ ለኩሉ ዘሥጋ ወለኩሉ ዘነፍስ ወንጼውዓከ በከመ መሃረነ ቅዱስ ወልድከ እንዘ ይብል አንትሙሰ ሶበ ትጼልዩ ከመዝ በሉ።",
+            "de": "Im Namen des Vaters, und des Sohnes, und des Heiligen Geistes, ein Gott, ich glaube an und begebe mich in die Obhut der Heiligen Dreifaltigkeit, und ich weise dich, Satan, zurück, im Angesicht meiner Mutter, der heiligen Kirche, mit Maria von Zion als meine Zeugin, für immer."
+          }
+        },
+        {
+          "section": 3,
+          "text": {
+            "en": null,
+            "am": "አባታችን ሆይ አባታችን ሆይ በሰማያት የምትኖር ስምህ ይቀደስ መንግስትህ ትምጣ ፈቃድህ በሰማይ እንደሆነች እንዲሁም በምድር ትሁን የዕለት እንጀራችንን ስጠን ዛሬ በደላችንንም ይቅር በለን እኛም የበደሉንን ይቅር እንደምንል አቤቱ ወደ ፈተናም አታግባን ከክፉ ሁሉ አድነን እንጂ መንግስት ያንተ ናትና ኃይል ክብር ምስጋና ለዘለዓለሙ አሜን። እመቤታችን ቅድስት ድንግል ማርያም ሆይ በመልዓኩ በቅዱስ ገብርኤል ሰላምታ ሰላም እንልሻለን በሃሳብሽ ድንግል ነሽ በሥጋሽም ድንግል ነሽ የአሸናፊ የእግዚአብሔር እናት ሆይ፤ ሰላምታ ላንቺ ይገባሻል ከሴቶች ሁሉ ተለይተሽ አንቺ የተባረክሽ ነሽ የማኅፀንሽም ፍሬ የተባረከ ነው ጸጋን የተመላሽ ድንግል ሆይ ደስ ይበልሽ እግዚአብሔር ካንቺ ጋር ነውና ከተወደደው ልጅሽ ከጌታችን ከመድኃኒታችን ከኢየሱስ ክርስቶስ ዘንድ ይቅርታና ምህረትን ለምኝልን ኃጢአታችንን ያስተሰረይልን ዘንድ ለዘላዓለሙ አሜን።",
+            "gez": "አቡነ ዘበሰማያት ይትቀደስ ስምከ ትምጻእ መንግሥትከ ወይኩን ፈቃድከ በከመ በሰማይ ከማሁ በምድር ሲሳየነ ዘለለ ዕለተነ ሀበነ ዮም ኅድግ ለነ አበሳነ ወጌጋየነ ከመ ንሕነኒ ንኅድግ ለዘአበሰለነ ኢታብአነ እግዚኦ ውስተ መንሱት አላ አድኅነነ ወባልሐነ እምኩሉ እኩይ እስመ ዚአከ ይእቲ መንግሥተ ኃይል ወስብሐት ለዓለም ዓለም በሰላም ቅዱስ ገብርኤል መልአክ ኦ እግዝእትየ ማርያም ሰላም ለኪ ድንግል በሕሊናኪ ወድንግል በሥጋኪ እመ እግዚአብሔር ጸባዖት ሰላም ለኪ ቡርክት አንቲ እምአንስት ወቡሩክ ፍሬ ከርሥኪ ተፈሥሒ ፍሥሕት ኦ ምልእተ ጸጋ እግዚአብሔር ምስሌኪ ሰአሊ ወጸልዩ በእንቲአነ ኅበ ፍቁር ወልድኪ ኢየሱስ ክርስቶስ ከመ ይሥረይ ለነ ኃጣውኢነ አሜን",
+            "de": "Wir danken Dir, Oh Herr, und wir ehren Dich, wir preisen Dich, Oh Herr, und wir verlassen uns auf Dich, wir ersuchen Dich, Oh Herr, und wir unterwerfen uns Dir, wir dienen Dir, Oh Herr, und verehren Deinen heiligen Namen. Wir verneigen uns vor Dir, Oh Du vor dem sich alle Knie beugen, und dem alle Zungen dienen, Du bist Gott über den Göttern, Herr über den Herren, König über den Königen, und der Gott allen Fleisches und aller Seelen. Wir rufen Dich an wie uns dein heiliger Son gelehrt hat, als er sagte: “So sollt ihr beten:“"
+          }
+        },
+        {
+          "section": 4,
+          "text": {
+            "en": null,
+            "am": "የሃይማኖት መሰረት ሁሉን የፈጠረ አንድ አምላክ በሚሆን በእግዚአብሔር አብ እናምናለን። ሰማይንና ምድርን የፈጠረ የሚታየውንና የማያታየውን ዓለም ሳይፈጠር ከእርሱጋር በነበረ አንድ የአብ ልጅ በሚሆን በአንድ ጌታ በኢየሱስ ክርስቶስ እናምናለን። ከብርሃን የተገኘ ብርሃን ከእውነተኛ አምላክ የተገኘ እውነተኛ አምላክ የተወለደ እንጂ ያልተፈጠረ በባህሪው ከአብ ጋር የሚተካከል ሁሉ በርሱ የሆነ በሰማይም ካለው በምድርም ካለው ያለርሱ ምንም ምን የሆነ የለም። ስለኛ ስለሰዎች እኛን ለማዳን ከሰማይ ወረደ በመንፈስ ቅዱስ ግብር ከቅድስት ድንግል ማርያም ፍጹም ሰው ሆነ ደግሞም ስለእኛ ተሰቀለ በጰንጤላዊው በጲላጦስ ዘመን እርሱ መከራን ተቀበለ ሞተ ተቀበረ በሶስተኛውም ቀን ከሙታን ተለይቶ ተነሳ። በቅዱሳት መጻህፍት እንደተጻፈ በክብር በምስጋና ወደሰማይ አረገ። በአባቱም ቀኝ ተቀመጠ ዳግመኛም በህያዋንና በሙታን ለመፍረድ በምስጋና ይመጣል ለመንግስቱም ፍጻሜ የለውም። በመንፈስ ቅዱስም እናምናለን እርሱም ጌታ ህይወትን የሚሰጥ ከአብ የሠረፀ ከአብ ከወልድ ጋር በአንድነት እንሰግድለታለን እናመሰግነዋለን። እርሱም በነብያት አድሮ የተናገረ ነው። ከሁሉም በላይ በምትሆን ሐዋርያት በሰበሰቧት በአንዲት ክብርት ቤተክርስቲያን እናምናለን። ኃጢአት በሚሠረይባት በአንዲት ጥምቀት እናምናለን ፤ የሙታንን መነሳት ተስፋ እናደርጋለን የሚመጣውንም ህይወት ለዘለዓለሙ አሜን።",
+            "gez": "ጸሎት ሃይማኖት ጸሎት ሃይማኖት ነአምን በአሐዱ አምላክ እግዚአብሔር አብ አኃዜ ኩሉ ገባሬ ሰማያት ወምድር ዘያስተርኢ ወዘኢያስተርኢ። ወነአምን በአሐዱ እግዚእ ኢየሱስ ክርስቶስ ወልደ አብ ዋሕድ ዘህልው ምስሌሁ እምቅድመ ይፈጠር ዓለም ብርሃን ዘእምብርሃን አምላክ ዘእምአምላክ ዘበአማን ዘተወልደ ወአኮ ዘተገብረ ዘዕሩይ ምስለ አብ በመለኮቱ ዘቦቱ ኩሉ ኮነ ወዘእንበሌሁሰ አልቦ ዘኮነ ወኢምንትኒ ዘበሰማይኒ ወዘበምድርኒ ዘበእንቲአነ ለሰብእ ወበእንተ መድኃኒትነ ወረደ እምሰማያት ተሰብአ ወተሠገወ ወእመንፈስ ቅዱስ ወእማርያም እምቅድስት ድንግል ኮነ ብእሴ ወተሰቅለ በእንቲአነ በመዋዕለ ጲላጦስ ጴንጤናዊ ሐመ ወሞተ ወተቀብረ ወተንሥአ እሙታን አመ ሣልስት ዕለት በከመ ጽሑፍ ውስተ ቅዱሳት መጻሕፍት ዐርገ በስብሐት ውስተ ሰማያት ወነበረ በየማነ አቡሁ ዳግመ ይመጽእ በስብሐት ይኮንን ሕያዋነ ወሙታነ ወአልቦ ማኅለቅት ለመንግሥቱ ወነአምን በመንፈስ ቅዱስ እግዚእ ማሕየዊ ዘሰረፀ እምአብ ንሰግድ ሎቱ ወንሰብሖ ምስለ አብ ወወልድ ዘነበበ በነቢያት ወነአምን በአሐቲ ቅድስት ቤተ ክርስቲያን እንተ ላዕለ ኩሉ ጉባኤ ዘሐዋርያት ወነአምን በአሐቲ ጥምቀት ለሥርየተ ኃጢአት። ወንሴፎ ትንሣኤ ሙታን ወሕይወተ ዘይመጽእ ለዓለመ ዓለም።",
+            "de": "Unser Vater im Himmel, geheiligt werde Dein Name. Dein Reich komme. Dein Wille geschehe, wie im Himmel, so auf Erden. Unser tägliches Brot gib uns heute, und erlaß uns unsere Schulden, wie auch wir sie unseren Schuldnern erlassen haben. Und führe uns nicht in Versuchung, sondern erlöse und rette uns von allem bösen. Denn Dein ist das Reich und die Kraft und die Herrlichkeit, in Ewigkeit. Mit dem Gruß des Engels St. Gabriel, O meine Jungfrau Maria, grüße ich dich, Jungfrau im Geiste und Jungfrau im Fleisch. Mutter des Gottes der Heerscharen, gegrüßet seist Du. Gesegnet bist du unter den Frauen, und gesegnet ist die Frucht deines Leibes. Freue dich, Oh du voller Freude, Oh du voller Gnade, Gott ist mit dir, ersuche und bete zu deinem geliebten Sohn Jesus Christ, dass er Abunä sїmkä mängistkä.uns unsere vergeben möge."
+          }
+        },
+        {
+          "section": 5,
+          "text": {
+            "en": null,
+            "am": "አሸናፊ እግዚአብሔር ሆይ ቅዱስ ቅዱስ ቅዱስ ተብለህ ትመሰገናለህ ምስጋናህም በሰማይና በምድር የመላ ነው። ክርስቶስ ለአንተ እንሰግድልሃለን። ሰማያዊ ከሚሆን ከቸር አባትህ ጋራ አዳኝ ከሚሆን ከመንፈስ ቅዱስ ጋራ እንሰግድልሃለን። ወደዚህ ዓለም መጥተህ አድነኸናልና።",
+            "gez": "ቅዱስ ቅዱስ ቅዱስ እግዚአብሔር ጸባዖት ፍጹም ምሉእ ሰማያተ ወምድረ ቅድሳተ ስብሐቲከ። ንሰግድ ለከ ክርስቶስ ምስለ አቡከ ኄር ሰማያዊ ወመንፈስከ ቅዱስ ማሕየዊ እስመ መጻእከ ወአድኀንከነ።",
+            "de": "Gebet des Glaubens (Apostolisches Glaubensbekenntnis) Wir glauben an den einen Gott, den Vater, den Allmächtigen, der alles geschaffen hat, Himmel und Erde, die sichtbare und die unsichtbare Welt. Und an den einen Herrn Jesus Christus, Gottes einge- borenen Sohn, aus dem Vater geboren vor aller Zeit: Gott von Gott, Licht vom Licht, wahrer Gott vom wahren Gott, gezeugt, nicht ge- schaffen, eines Wesens mit dem Vater; durch ihn ist alles geschaffen. Für uns Menschen und zu unserem Heil ist er vom Himmel gekommen, hat Fleisch angenommen durch den Heiligen Geist von der Jungfrau Maria und ist Mensch geworden. Er wurde für uns gekreuzigt unter Pontius Pilatus, hat gelitten und ist begraben worden, ist am dritten Tage auferstanden nach der Schrift und aufgefahren in den Himmel. Er sitzt zur Rechten des Vaters und wird wieder kommen in Herrlichkeit, zu richten die Lebenden und die Toten; seiner Herrschaft wird kein Ende sein. Wir glauben an den Heiligen Geist, der Herr ist und lebendig macht, der aus dem Vater hervorgeht, der mit dem Vater und dem Sohn angebetet und verherr- licht wird, der gesprochen hat durch die Propheten, und die eine, heilige, katholische, und apostolische Kirche. Wir bekennen die eine Taufe zur Vergebung der Sünden. Wir erwarten die Auferstehung der Toten und das Leben der kommenden Welt. Amen."
+          }
+        },
+        {
+          "section": 6,
+          "text": {
+            "en": null,
+            "am": "ለአብ ለወልድ ለመንፈስ ቅዱስ አንዲት ስግደት እሰግዳለሁ (፫ ጊዜ) አንድ ሲሆን ሦስት ሦስት ሲሆኑ አንድ በአካል ሶስት ሲሆኑ በመለኮት አንድ ለሚሆን አምላክ እሰግዳለሁ። አምላክን ለወለደች ለእመቤታችን ለድንግል ማርያም እሰግዳለሁ ፤ ዓለምን ሁሉ ለማዳን ሲል ኢየሱስ ክርስቶስ ለተሰቀለበት መስቀልም እሰግዳለሁ። መስቀል ሃይላችን ነው ፤ ሃይላችን መስቀል ነው የሚያጸናን መስቀል ነው መስቀል ቤዛችን ነው መስቀል የነፍሳችን መዳኛ ነው። አይሁድ ይክዱታል እኛ ግን እናምነዋለን ያመነውም እኛ በመስቀሉ እንድናለን ድነናልም።",
+            "gez": "እሰግድ ለአብ ወወልድ ወመንፈስ ቅዱስ አሐተ ስግደተ /፫ ጊዜ/ እንዘ አሐዱ ሠለስቱ ወእንዘ ሠለስቱ አሐዱ ይሤለሱ በአካላት ወይትወሐዱ በመለኮት እሰግድ ለእግዝእትነ ማርያም ድንግል ወላዲተ አምላክ እሰግድ ለመስቀለ እግዚእነ ኢየሱስ ክርስቶስ ዘተቀደሰ በደሙ ክቡር መስቀል ኃይልነ መስቀል ጽንዕነ መስቀል ቤዛነ መስቀል መድኃኒተ ነፍስነ አይሁድ ክሕዱ ንሕነሰ አመነ ወእለ አመነ በኃይለ መስቀሉ ድኅነ።",
+            "de": "Heilig, heilig, heilig ist der Herr der Heerscharen! Die ganze Erde ist erfüllt mit seiner Herrlichkeit! We beten Dich an, Oh Christus, gemeinsam mit Deinem guten himmlischen Vater and Deinem Heiligen Geist, dem Lebensspender, denn Du kamst und hast uns errettet. Ich verbeuge mich vor dem Vater, Sohn, und Heiligem Geist mit einer Verbeugung (x3), Drei in Einem, und Einer in Drei, Drei Personen, und Eine Gottheit. Ich verbeuge mich vor unserer Jungfrau Maria, der jungfräulichen Mutter Gottes. Ich verbeuge mich vor dem Kreuz unseres Herrn Jesus Christus, das durch Sein wertvolles Blut geweiht wurde. Das Kreuz ist unsere Macht, das Kreuz ist unsere Stärke, das Kreuz ist unsere Erlösung, das Kreuz ist die Rettung unserer Seele. Die Juden leugneten es, aber wir glaubten es, und derjenige, der an die Macht des Kreuzes glaubte, wurde errettet."
+          }
+        },
+        {
+          "section": 7,
+          "text": {
+            "en": null,
+            "am": "ለአብ ምስጋና ይገባል ለወልድ ምስጋና ይገባል ለመንፈስ ቅዱስም ምስጋና ይገባል (፫ ጊዜ) አምላክን ለወለደች ለእመቤትችን ለቅድስት ድንግል ማርያም ምስጋና ይገባል ለኢየሱስ ክርስቶስ መስቀልም ምስጋና ይገባል ክርስቶስ በቸርነቱ ያስበን ዘንድ ዳግመኛም በመጣ ጊዜ እንዳያሳፍረን ስሙን ለማመስገን ያነቃን ዘንድ እሱንም በማምለክ ያጸናን ዘንድ እመቤታችን ጸሎታችንን አሳርጊልን ኃጢያታችንንም አስተሥርዪልን በጌታችን መንበር ፊት ጸሎታችንን አሳርጊልን ይህንን ህብስት ላበላን ይህንንም ጽዋ ላጠጣን ልብሳችንን ላዘጋጀልን ኃጢአታችንንም ሁሉ ለታገሰልን ክቡር ደሙን ቅዱስ ሥጋውን ለሰጠን እስከዚህችም ሰዓት ላደረሰን ለእርሱ ለልዑል እግዚአብሔር ፍጹም ምስጋና ይገባል ለወለደችው ለድንግልም ምስጋና ይገባል ለክቡር መስቀሉም ምስጋና ይገባል የእግዚአብሔር ስሙ ፈጽሞ ይመሰገን ዘንድ ዘወትር በየጊዜያቱና በየሰዓቱ ምስጋና ይገባል።",
+            "gez": "ስብሐት ለአብ ስብሐት ለወልድ ስብሐት ለመንፈስ ቅዱስ /፫ ጊዜ/ ስብሐት ለእግዝእትነ ማርያም ድንግል ወላዲተ አምላክ ስብሐት ለመስቀለ እግዚእነ ኢየሱስ ክርስቶስ ክርስቶስ በምሕረቱ ይዘከረነ አመ ዳግመ ምጽአቱ ኢያስተኃፍረነ ለሰብሖተ ስሙ ያንቅሐነ ወበአምልኮቱ ያጽንአነ እግዝእትነ ማርያም ድንግል ወላዲተ አምላክ አእርጊ ጸሎትነ ወአስተስርዪ ኩሎ ኅጢአተነ ቅድመ መንበሩ ለእግዚእነ ለዘአብልአነ ዘንተ ኅብስተ ወለዘአስተየነ ዘንተ ጽዋዐ ወለዘሠርዐ ለነ ሲሳየነ ወዐራዘነ ወለዘተዓገሰ ለነ ኩሎ ኃጢአተነ ወለዘወሀበነ ሥጋሁ ቅዱሰ ወደሞ ክቡረ ወለዘአብጽሐነ እስከ ዛቲ ሰዓት ነሀብ ሎቱ ስብሐተ ወአኰቴተ ለእግዚአብሔር ልዑል ወለወላዲቱ ድንግል ወለመስቀሉ ክቡር ይትአኰት ወይሰባሕ ስሙ ለእግዚአብሔር አምላክነ ወትረ በኩሉ ጊዜ ወበኩሉ ሰዓት።",
+            "de": "Ehre dem Vater, Ehre dem Sohn, Ehre dem Heiligen Geist (x3). Gemeinde: Es ist recht für den Vater, Sohn, und Heiligen Geist. (x3). Ehre unserer Jungfrau Maria, der jungfräulichen Mutter Gottes. Gemeinde: Es ist recht für unsere Jungfrau Maria, der jungfäulichen Mutter Gottes. Ehre dem Kreuz unseres Herrn Jesus Christus. Gemeinde: Es ist recht für das Kreuz unseres Herrn Jesus Christus. Möge Christus sich an uns in Seiner Gnade erinnern. Gemeinde: Amen. Möge Er uns bei Seinem zweiten Kommen nicht beschämen. Gemeinde: Amen. Möge er uns zur Lobpreisung Seines Namens erwecken. Gemeinde: Amen. Möge er uns in Seiner Anbetung stärken. Gemeinde: Amen. Unsere Jungfrau Maria, hebe unsere Gebete empor. Gemeinde: Amen. Und mach, dass all unsere Sünden vergeben sind. Gemeinde: Amen. Vor dem Thron unseres Herrn. Gemeinde: Amen. Ihn, Der uns dieses Brot essen lässt. Gemeinde: Denn seine Gnade währt ewig! Ihn, Der uns diesen Kelch trinken lässt. Gemeinde: Denn seine Gnade währt ewig! Ihn, Der uns unser Essen und unsere Kleidung bereitet. Gemeinde: Denn seine Gnade währt ewig! Ihn, Der uns all unsere Sünden vergibt. Gemeinde: Denn seine Gnade währt ewig! Ihn, Der uns Sein heiliges Fleisch und Sein heiligies Blut gegeben hat. Gemeinde: Denn seine Gnade währt ewig! Ihn, Der uns zu dieser Stunde gebracht hat. Gemeinde: Lasset uns Ihn preisen und Dank geben, dem höchsten Gott, Seiner Mutter, und wunderbaren Möge dem Gottes immer Lobpreis und Dank sein, zu allen Zeiten, und in jeder Stunde."
+          }
+        },
+        {
+          "section": 8,
+          "text": {
+            "en": null,
+            "am": "እናታችን ማርያም ሆይ ሰላም ላንቺ ይሁን እያልን እንሰግድልሻለን እንማልድሻለን ከክፉ አውሬ ታድኝን ዘንድ ተማፅነንብሻል ስለእናትሽ ስለሃና ብለሽ ስለአባትሽ ስለ ኢያቄም ብለሽ ድንግል ማህበርችንን ዛሬ ባርኪልን።",
+            "gez": "ሰላም ለኪ እንዘ ንሰግድ ንብለኪ ማርያም እምነ ናስተበቁዐኪ እምአርዌ ነአዊ ተማኅጸነ ብኪ በእንተ ሐና እምኪ ወኢያቄም አቡኪ ማኅበረነ ዮም ድንግል ባርኪ።",
+            "de": "Möge Friede mit dir sein, wir verbeugen uns und ersuchen dich, unsere Mutter Maria, wir haben Zuflucht bei dir gefunden vor dem Biest. Für deine Mutter Hannah (Anna) und deinen Vater Joachim, segne unsere Versammlung an diesem Tag, O Jungfrau."
+          }
+        },
+        {
+          "section": 9,
+          "text": {
+            "en": null,
+            "am": "አምላክን በድንግልና የወለደች የእመቤታችን የማርያም ጸሎት። (ሉቃስ ፩ ፥ ፵፮- ፶፮) ማርያምም አለች ነፍሴ እግዚአብሔርን ታላቅ ታደርገዋለች መንፈሴም በመድኃኒቴ በእግዚአብሔር ደስ ይላታል የባሪያዪቱን መዋረድ አይቷልና። እነሆ ከዛሬ ጀምሮ ትውልድ ሁሉ ያመሰግኑኛል። እርሱ ብርቱ የሚሆን ታላቅ ሥራን ለእኔ አድርጓልና። ስሙም ቅዱስ ነው ለሚፈሩትም ምህረቱ ለልጅ ልጅ ነው። ኃይልን በክንዱ አደረገ በልባቸው ሃሳብ የሚኮሩ ትዕቢተኞችን በታተናቸው ብርቱዎችንም ከዙፋናቸው አዋረዳቸው የተዋረዱትንም ከፍ ከፍ አደረጋቸው የተራቡትንም በቸርነቱ አጠገባቸው ባለጠጎችንም ባዶ እጃቸውን ሰደዳቸው። ምህረቱን እንዲያስብ እስራኤል ባርያውን ተቀበለ። ለአባቶቻችን ለአብርሃምና ለዘሩም እስከዘላለም እንደተናገረው።",
+            "gez": "ጸሎተ እግዝእትነ ማርያም ድንግል ወላዲተ አምላክ። ሉቃስ ፩፡፵፮-፶፭። ታዐብዮ ነፍስየ ለእግዚአብሔር ወትትኃሠይ መንፈስየ በአምላኪየ ወመድኃንየ፤ እስመ ርእየ ሕማማ ለዓመቱ ናሁ እምይእዜሰ ያስተበፅዑኒ ኩሉ ትውልድ እስመ ገብረ ሊተ ኃይለ ዐቢያተ ወቅዱስ ስሙ ወሣህሉኒ ለትውልድ ትውልድ ለእለ ይፈርህዎ ወገብረ ኃይለ በመዝራዕቱ ወዘረዎሙ ለእለ ያዐብዩ ሕሊና ልቦሙ ወነሠቶሙ ለኃያላን እመናብርቲሆሙ አዕበዩሙ ለትሑታን ወአጽገቦም እምበረከቱ ለርኁባን ወፈነዎሙ ዕራቆሙ ለብዑላን ወተወክፎ ለእስራኤል ቍልዔሁ ወተዘከረ ሣህሎ ዘይቤሎም ለአበዊነ ለአብርሃም ወለዘርኡ እስከ ለዓለም። ስብሐት ለአብ ወወልድ ወመንፈስ ቅዱስ ለዓለም ወለዓለመ ዓለም አሜን።",
+            "de": "Das Gebet unserer Jungfrau Maria, der Mutter Gottes Meine Seele erhebt den Herrn, und mein Geist hat gejubelt über Gott, meinen Heiland. Denn er hat hingeblickt auf die Niedrigkeit seiner Magd; denn siehe, von nun an werden mich glückselig preisen alle Geschlech- ter. Denn Großes hat der Mächtige an mir getan, und heilig ist sein Name. Und seine Barmherzigkeit ist von Geschlecht zu Geschlecht über die, welche ihn fürchten. Er hat Macht geübt mit seinem Arm; er hat zerstreut, die in der Gesinnung ihres Herzens hochmütig sind. Er hat Mächtige von Thronen hinabgestoßen und Niedrige erhöht. Hung- rige hat er mit Gütern erfüllt und Reiche leer fortgeschickt. Er hat sich Israels, seines Knechtes, angenommen, um der Barmherzigkeit zu geden- ken wie er zu unseren Vätern geredet hat - gegenüber Abraham und seinen Nachkommen in Ewigkeit. (Lukas 1:46-55)"
+          }
+        }
+      ]
+    },
+    {
+      "chapter": "monday",
+      "chapter_name": {
+        "en": "A Hymn of Praise for the Second Day of the Week (Monday)",
+        "am": "ሶርያዊው ቅዱስ ኤፍሬም የደረሰው ሰኞ የሚጸለይ አምላክን የወለደች የድንግል ማርያም ምስጋና",
+        "gez": "ውዳሴሃ ለእግዝእትነ ማርያም ድንግል ወላዲተ አምላክ ዘይትነበብ በዕለተ ሠኑይ።",
+        "de": "Die Lobpreisung Unserer Jungfrau Maria, der Mutter Gottes, die am Montag Gelesen Wird."
+      },
+      "sections": [
+        {
+          "section": 1,
+          "text": {
+            "en": "God wished to set free Adam, Who was sad at heart and sorrowful, and in the greatness of His compassion and mercy to bring him back to the state wherein he was formerly.",
+            "am": "ጌታ ልቡ ያዘነና የተከዘ አዳምን ነፃ ያወጣውና ወደ ቀድሞ ቦታው ይመልሰው ዘንድ ወደደ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ፈቀደ እግዚእ ያግዕዞ ለአዳም ኅዙነ ወትኩዘ ልብ ወያግብኦ ኅበ ዘትካት መንበሩ። ሰአሊ ለነ ቅድስት።",
+            "de": "Gott war willens Adam, der trauerte und schweren Herzens war, Freiheit zu geben, [und] ihn zu seinem früheren hohen Ansehen [Platz] zurückzubringen. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 2,
+          "text": {
+            "en": "He rose up in flesh of the Virgin without the seed of man. He came, He saved us. God passed the decree of judgment upon Eve whom the serpent led astray, saying, \"I will multiply greatly thy pain and thy suffering\" (Genesis iii. 16). Nevertheless, His heart inclined to love for man, and He set him free. He hath appeared.",
+            "am": "ከድንግል ያለወንድ ዘር በሥጋ ተወለደና አዳነን ከይሲ(ዲያብሎስ) ያሳታት ሔዋንን እግዚአብሔር ምጥሽንና ጻዕርሽን አበዛዋለሁ ብሎ ፈረደባት ሰውን ወደደና ነፃ አደረጋት። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ሠረቀ በሥጋ እምድንግል ዘእንበለ ዘርአ ብእሲ ወአድኃነነ ለሔዋን እንተ አስሐታ ከይሲ ፈትሐ ላዕሌሃ እግዚአብሔር እንዘ ይብል ብዙኃ አበዝኆ ለሕማምኪ ወለፃዕርኪ ሠምረ ልቡ ኀበ ፍቅረ ሰብእ ወአግዐዛ። ሰአሊ ለነ ቅድስት።",
+            "de": "Er stieg auf in Menschengestalt von der Jungfrau, ohne den Samen eines Mannes, und erlöste uns. Eva, die die Schlange auf Abwege geleitet hatte, wurde von Gott verurteilt, indem er sagte, “Ich werde eine Sorgen und dein Leiden vervielfachen” (vgl. Gen. 3:16); Sein Herz erfreute sich an der Liebe für die Menschen, and Er machte uns frei. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 3,
+          "text": {
+            "en": "Jesus Christ, the Word Who became incarnate, and He dwelt with us, and we saw His glory like the glory of the Only-begotten of His Father (John i.14), He hath been pleased to show compassion upon us. He hath appeared.",
+            "am": "ሰው የሆነና በእኛ ያደረ ቃል ኢየሱስ ክርስቶስ ነው። ክብሩንም ለአባቱ አንድ እንደመሆኑ ክብር አየን። ይቅር ይለን ዘንድ ወደደ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ኢየሱስ ክርስቶስ ቃል ዘተሰብአ ወኃደረ ላዕሌነ ወርኢነ ስብሐቱሁ ከመ ስብሐተ አሐዱ ዋሕድ ለአቡሁ ሠምረ ይሣሃለነ። ሰአሊ ለነ ቅድስት።",
+            "de": "Jesus Christus, das Wort, wurde Mensch und wohnte unter uns (vgl. Jn. 1:14), und wir sahen seine Herrlichkeit, eine Herrlichkeit als des eingebornen Sohnes vom Vater; es gefiel Ihm, uns Sein Mitgefühl zu zeigen. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 4,
+          "text": {
+            "en": "Isaiah the Prophet in the spirit of prophecy saw the mystery of Emmanuel, and therefore he cried out, saying, \"A Child is born unto us, a Son is given unto us\" (Isaiah ix. 6). He hath appeared.",
+            "am": "ነቢዩ ኢሳይያስ በመንፈስ ቅዱስ የአማኑኤልን ምስጢር አየ ስለዚህም ሕጻን ተወለደልን ወልድም ተሰጠልን ብሎ አሰምቶ ተናገረ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ርእየ ኢሳይያስ ነቢይ በመንፈሰ ትንቢት ምሥጢሮ ለአማኑኤል ወበእንተዝ ጸርሐ እንዘ ይብል ሕፃን ተወልደ ለነ ወልድ ተውህበ ለነ። ሰአሊ ለነ ቅድስት።",
+            "de": "Jesaja, der Prophet, sah im Geiste einer Prophezeiung das Geheimnis von Emmanuel, und rief deshalb aus, und sagte, “Denn uns ist ein Kind geboren, ein Sohn ist uns gegeben” (Jes. 9:6). Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 5,
+          "text": {
+            "en": "Rejoice and be glad, O race of the children of men, for God hath loved the world, and given His only Son that all who believes in Him may have everlasting life (John iii. 16). The Most High hath sent unto us His arm. He hath appeared.",
+            "am": "ሰው ሆይ ፈጽመህ ደስ ይበልህ እግዚአብሔር ዓለሙን ወዶታልና አንድ ልጁንም የሚያምንበት ሁሉ እስከ ዘለዓለም ፈጽሞ ይድን ዘንድ አሳልፎ ሰጥቷልና ልዑል ክንዱን ሰደደልን። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ተፈሣሕ ወተኀሠይ ኦ ዘመደ እጓለ እምሕያው እስመ አፍቀሮ እግዚአብሔር ለዓለም ወመጠወ ወልዶ ዋሕደ ከመ ይሕየው ኩሉ ዘየአምን ቦቱ እስከ ለዓለም ፈነወ ለነ መዝራዕቶ ልዑል። ሰአሊ ለነ ቅድስት።",
+            "de": "Freue dich und sei froh, Oh Rasse der Menschenkinder, denn Gott hat die Welt so sehr geliebt, daß er seinen einzigen Sohn hingab, damit jeder, der an ihn glaubt, für immer leben wird (Jn. 3:16); der Herr hat uns Seinen Arm geschickt. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 6,
+          "text": {
+            "en": "He Who was and shall be, He Who came and shall come again, is Jesus Christ, the Word Who became incarnate without any change. He was a perfect man, without division and without separation, in all His work the Only-begotten, but with one form, one being, and one divinity (or,Godhead)—God the Word. He hath appeared.",
+            "am": "የነበረው የሚኖረው የመጣው ዳግመኛም የሚመጣው ቃል ኢየሱስ ክርስቶስ ያለመለወጥ ፍጹም ሰው ሆነ። አንዱ ወልድ በስራው ሁሉ አልተለየም የእግዚአብሔር ቃል መለኮት አንድ ነው እንጂ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ዘሀሎ ወይሄሉ ዘመጽአ ወካዕበ ይመጽእ ኢየሱስ ክርስቶስ ቃል ዘተሰብአ ዘእንበለ ውላጤ ኮነ ፍጹም ሰብአ ኢተበዐደ ወኢተፈልጠ በኩሉ ግብሩ ወልድ ዋሕድ አላ አሐዱ ራዕይ ወአሐዱ ህላዌ ወአሐዱ መለኮት ዘእግዚአብሔር ቃል። ሰአሊ ለነ ቅድስት።",
+            "de": "Er der war und sein wird, Der kam und ein zweites Mal kommen wird, ist Jesus Christus, das Wort das Mensch wurde, ohne Veränderung; Er wurde vollkommen Mensch, ohne Veränderung, ohne Teilung, in all Seinem Tun der Eingeborene, eine Form, eine Essenz, eine Göttlichkeit, das Wort Gottes. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 7,
+          "text": {
+            "en": "Rejoice, O Bethlehem, the town of the Prophets, for in thee was orn Christ, the second Adam, so that He might bring the first Adam from the earth into the Garden (i.e. Paradise), and destroy the doom of death. O Adam, dust thou art and to dust shalt thou return. Where sin abounded there the grace of God abounded likewise (Romans v.20). He hath appeared.",
+            "am": "የነቢያት ሀገራቸው ቤተልሔም ሆይ ደስ ይበልሽ ሁለተኛው አዳም ክርስቶስ በአንቺ ዘንድ ተወልዷልና የቀድሞውን ሰው አዳምን ከምድር (ከሲኦል)ወደ ገነት ይመልሰው ዘንድ አዳም ሆይ መሬት ነበርክና ወደ መሬት ትመለሳለህ ብሎ የፈረደበት ንም የሞት ፍርድ ያጠፋለት ዘንድ። ብዙ ኃጢአት ባለችበት የእግዚአብሔር ጸጋ ትበዛለች። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ተፈሥሒ ኦ ቤተልሔም ሀገሮሙ ለነቢያት እስመ በኀቤኪ ተወልደ ክርስቶስ ዳግማይ አዳም ከመ ያግብኦ ለአዳም ቀዳሚ ብእሲ እምድር ውስተ ገነት ይሥዐር ፍትሐ ሞት ኦ አዳም መሬት አንተ ወትገብእ ውስተ መሬት ኅበ ሀለወት ብዝኅት ኃጢአት በህየ ትበዝኅ ጸጋ እግዚአብሔር። ሰአሊ ለነ ቅድስት።",
+            "de": "Freue dich, oh Bethlehem, Land der Propheten, der in dir war Christus geboren, der zweite Adam, um den ersten Mann, Adam, von Erden ins Paradies zurück zubringen, und das Todesurteil zu zerstören. Oh Adam, denn Staub bist du, und zum Staub mußt du zurück (Gen. 3:19). In seiner Gegenwart, wo die Sünde zugenommen hat, ist auch die Gnade Gottes überreich geworden (Röm. 5:20). Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 8,
+          "text": {
+            "en": "Let all souls of men rejoice and be glad with the angles, and let them praise Christ, the Kind, and cry out and say, \"Glory to God in the heavens, and peace on the earth, [and] His good will to men\" (Luke ii. 14). He hath abolished the things of old, and overthrown the plot of the Enemy, and torn in pieces the bill of indictment (Ephesians ii. 15) of Adam and Eve and set them free, He Who was born for us in the city of David our Redeemer, Jesus Christ hath done this. He hath appeared.",
+            "am": "የሰው ሁሉ ሰውነት ደስ ይላታል። በሰማይ ለእግዚአብሔር ምስጋና ይሁን በምድርም ሰላም ለሰውም እርሱ በሚፈቅደው እያሉ አሰምተው ንጉሥ ክርስቶስን ከመላእክት ጋር ያመሰግ ኑታል። የቀድሞውን እርግማን አጥፍቷልና የጠላትን ምክሩን አፈረሰበት። ለአዳምና ለሔዋን የእዳ ደብዳቤያቸውን ቀደደላቸው፤ በዳዊት ሀገር የተወለደ መድኃኒታችን ኢየሱስ ክርስቶስ አዳምንና ሔዋንን ነጻ አደረጋቸው። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ትትፌሣሕ ወትትሐሠይ ኩሉ ነፍስተ ሰብእ ምስለ መላእክት ይሴብሕዎ ለክርስቶስ ንጉስ ይጸርሑ ወይብሉ ስብሐት ለእግዚአብሔር በሰማያት ወሰላም በምድር ሥምረቱ ለሰብእ እሰመ ሠዐረ ዘትካት ወነሠተ ምክሮ ለጸላኢ ወሠጠጠ መጽሐፈ ዕዳሆሙ ለአዳም ወለሔዋን ወረሰዮሙ አግዓዝያነ ዘተወልደ ለነ በሀገረ ዳዊት መድኃኒነ ኢየሱስ ክርስቶስ። ሰአሊ ለነ ቅድስት።",
+            "de": "Lass all die Seelen der Menschen sich freuen und froh sein, und lass sie mit den Engeln Christus den König lobpreisen, indem sie laut rufen und sagen, “Ehre sei Gott in der Höhe und Friede auf Erden und den Menschen ein Wohl- gefallen!” (Lk. 2:14); den Er hat die früheren [Dinge] zerstört, und die Versuchung des Feindes überworfen. Und Er hat die Schriften der Schuld Adams und Evas (vgl. Eph. 2:15), und ihnen für uns die Freiheit gegeben, Er, der für uns geboren wurde, in der Stadt Davids, unser Erlöser Jesus Christus. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 9,
+          "text": {
+            "en": "Thou Light, Who in truth illuminest all men who dwell in the world, because of Thy love for man Thou hast come into the world, because of Thy love for man Thou hast come into the world. All created things rejoiced at Thy coming, because Thou didst deliver Adam from his error, and didst set free Eve from the suffering of death, and hast given unto us the soul of prophecy. We bless Thee with Thine angles. [Rubric]. On fast days thou shalt say thus; Christ hath risen up in the flesh of the Virgin: He fasted forty days and forty nights in order that He might deliver us.",
+            "am": "በዚህ ዓለም ለሚኖሩ ሰዎች ሁሉ የምታበራ እውነተኛ ብርሃን ስለ ሰው ፍቅር ወደ ዓለም የመጣህ ፍጥረት ሁሉ በመምጣትህ ደስ አለው አዳምን ከስህተት አድነኸዋልና ሔዋንንም ከሞት ጻዕረኝነት ነጻ አድርገኻታልና የምንወለድበትን መንፈስ(ረቂቁን ልደት)ሰጠኸን ከመላእክት ጋርም አመሰገንህ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ብርሃን ዘበአማን ዘያበርህ ለኩሉ ሰብእ ለእለ ይነብሩ ውስተ ዓለም በእንተ ፍቅረ ሰብእ መጸእከ ውስተ ዓለም ወኩሉ ፍጥረት ተፈሥሐ በምጽአትከ እስመ አድኃንኮ ለአዳም እምስሕተት ወረሰይካ ለሔዋን አግዓዚተ እምፃዕረ ሞት ወወሀብከነ መንፈሰ ልደት ባረክናከ ምስለ መላእክቲከ። ሰአሊ ለነ ቅድስት።",
+            "de": "Das Licht wahrlich schein für alle Menschen, die in der Welt leben. Aufgrund Deiner Liebe für die Menschen bist Du auf die Welt gekommen, und die gesamte Schöpfung freute sich über Dein Kommen, denn Du hast Adam vor seinem Fehler bewahrt, und hast Eva von der Qual des Todes befreit, und uns den Geist einer [neuen] Geburt gegeben. Wir segnen Dich mit Deinen Engeln. Heilige [Jungfrau], bete für uns."
+          }
+        }
+      ]
+    },
+    {
+      "chapter": "tuesday",
+      "chapter_name": {
+        "en": "A Hymn of Praise for the Third Day of the Week (Tuesday)",
+        "am": "ማክሰኞ የሚጸለይ አምላክን የወለደች የድንግል ማርያም ምሥጋና ሁለተኛ ክፍል",
+        "gez": "ውዳሴሃ ለእግዝእትነ ማርያም ድንግል ወላዲተ አምላክ ዘይትነበብ በዕለተ ሠሉስ።",
+        "de": "Die Lobpreisung Unserer Jungfrau Maria, der Mutter Gottes, die am Dienstag Gelesen Wird."
+      },
+      "sections": [
+        {
+          "section": 1,
+          "text": {
+            "en": "The crown of our glory and the origin of our deliverance (or, alvation) and the foundation of our sanctification came into being in Mary the Virgin, who brought for us God the Word, Who became incarnate for our salvation. And after He became man of a certainty He was perfect God. And for this reason she gave birth to Him being a virgin. The power of her bringing forth is a marvellous thing that cannot be described. Of His own free will, and by the good pleasure of His Father and the Holy Spirit, He came forth and hath delivered us.",
+            "am": "የመመኪያችን ዘውድ የድኅነታችን መጀምሪያ የንጽሕናችንም መሠረት እኛን ስለማዳን ሰው የሆነ የእግዚአብሔርን ቃል በወለደችልን በድንግል ማርያም ተገኘልን። ሰው ከሆነ በኋላም ፍጹም አምላክ ነው ስለዚህም በድንግልና ወለደችው ድንቅ የሆነ የመውለድዋ ችሎታ የማይመረመር/ሊነገር የማይቻል/ ነው። ቅድስት ሆይ ለምኝልን።",
+            "gez": "አክሊለ ምክሕነ ወቀዳሚተ መድኃኒትነ ወመሰረተ ንጽሕነ ኮነ በማርያም ድንግል እንተ ወለደት ለነ ዘእግዚአብሔር ቃለ ዘኮነ ሰብአ በእንተ መድኃኒትነ እምድኀረ ኮነ ሰብአ ጥዩቀ አምላክ ፍጹም ውእቱ ወበእንተዝ ወለደቶ እንዘ ድንግል ይእቲ መንክር ኃይለ ወሊዶታ ዘኢይትነገር። ሰአሊ ለነ ቅድስት።",
+            "de": "Die Krone unserer Ehre, und der Usprung unserer Erlösung, und das Fundament unserer Reinheit kam durch die Jungfrau Maria, die uns das Wort Gottes gebar, Das für unsere Erlösung Mensch wurde. Nachdem Er Mensch wurde war er sicherlich vollkommener Gott, und deswegen gebar sie Ihn als Jungfrau. Die Macht, dass sie Ihn gebar, ist so wundervoll, dass sie nicht ausgesprochen warden kann. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 2,
+          "text": {
+            "en": "Great is the praise of thy virginity, O Mary, thou perfect (or, absolute) virgin. Thou didst receive grace, God was with thee. Thou art the Ladder which Jacob saw reaching from earth to heaven, with the angles of God ascending and descending upon it (Genesis xxviii. 12). So Then",
+            "am": "በእርሱ ፈቃድ በአባቱ ፈቃድ በመንፈስ ቅዱስ ፈቃድ መጥቶ አዳነን። በድንግልና ፍጽምት የሆንሽ ማርያም ሆይ የድንግልናሽ ምስጋናና ክብር ታላቅ ነው። እግዚአብሔር ከአንቺ ጋር ቢሆን ባለሟልነትን አግኝተሻልና። ያዕቆብ ከምድር እስከ ሰማይ ደርሳ የእግዚአብሔር መላእክት ሲወጡባትና ሲወርዱባት ያያት መሰላል አንቺ ነሽ ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "እስመ በፈቃዱ ወበሥምረተ አቡሁ ወመንፈስ ቅዱስ መጽአ ወአድኃነነ። ዐቢይ ውእቱ ስብሐተ ድንግልናኪ ኦ ማርያም ድንግል ፍጽምት ረከብኪ ሞገሰ እግዚአብሔር ምስሌኪ አንቲ ውእቱ ሰዋስው ዘርእየ ያዕቆብ እምድር ዘይበጽሕ እስከ ሰማይ ወመላእክተ እግዚአብሔር የዐርጉ ወይወርዱ ውስቴታ። ሰአሊ ለነ ቅድስት።",
+            "de": "Durch Seinen eigenen Willen, und durch den Willen des Vaters und des Heiligen Geistes, kam er und erlöste uns. Groß ist die Lobpreisung deiner Jungfräulichkeit, Oh Jungfrau Maria, die perfekte [Jungfrau]; du hast Gnade gefunden, Gott ist mit dir. Du bist die Leiter, die Jakob von der Erde bis zum Himmel hinaufreichen sah, und die Engel Gottes stiegen darauf hinauf und herab (vgl. 1 Mos. 28:12). Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 3,
+          "text": {
+            "en": "Thou art the Bush which Moses saw blazing with fire, and the wood thereof was not consumed (Exodus iii.2). It was the son of God Who dwelt in thy womb, and the fire of His divinity did not consume thy flesh. So then",
+            "am": "ሙሴ በነደ እሳት ሳትቃጠል ያያት ዕፅ አንቺ ነሽ። ይኽውም መጥቶ በማሕጸንሽ ያደረው የእግዚአብሔር ልጅ ነው። የመለኮቱ እሳትነት ሥጋሽን አላቃጠለውም። ቅድስት ሆይ ለምኝልን።",
+            "gez": "አንቲ ውእቱ ዕፅ ዘርዕየ ሙሴ በነደ እሳት ወኢትውዒ ዘውእቱ ወልደ እግዚአብሔር መጽአ ወኀደረ ውስተ ከርስኪ ወእሳተ መለኮቱ ኢያውዓየ ሥጋኪ። ሰአሊ ለነ ቅድስት።",
+            "de": "Du bist das Holz [der Busch] den Moses in einem brennenden Feuer sah, und es verbrannte nicht (2 Mos. 3:2). Er war der Sohn Gottes; Er kam und verweilte in deinem Leib, und das Feuer der Göttlichkeit verbrannte dein Fleisch nicht. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 4,
+          "text": {
+            "en": "Thou art that Field wherein no seed was sown, and yet there went forth from thee the Fruit of Life. Thou art that Treasure-house which Joseph bought, and he found therein a Pearl, a precious gem, that is to say, or Redeemer Jesus Christ. Thou didst carry it in thy womb and didst bring Him forth into the world. So then",
+            "am": "ዘር ያልተዘራባት እርሻ አንቺ ነሽ። የሕይወት ፍሬ ከአንቺ ወጣ ዮሴፍ የዋጃትና የከበረ እንቁን ያገኘባት ሣጥን አንቺ ነሽ። ይኽውም መድኃኒታችን ኢየሱስ ክርስቶስ ነው። በማሕጸንሽ አደረ በዚህ ዓለምም ወለድሽው። ቅድስት ሆይ ለምኝልን።",
+            "gez": "አንቲ ውእቱ ገራህት ዘኢተዘርአ ውስቴታ ዘርእ ወዕአ እምኔኪ ፍሬ ሕይወት አንቲ ውእቱ መዝገብ ዘተሣየጠ ዮሴፍ ወረከበ በውስቴታ ባሕርየ ዕንቈ ወክቡረ ዘውእቱ መድኃኒነ ኢየሱስ ክርስቶስ ተፀውረ በከርሥኪ ወወለድኪዮ ውስተ ዓለም። ሰአሊ ለነ ቅድስት።",
+            "de": "Du bist das Feld, in dem nichts angesät wurde, kein Samen; [aber] aus dir kam die Frucht des Lebens hervor. Du bist die Schatzkammer die Josef kaufte, und darin war ein wunderbarer Edelstein, unser Erlöser Jesus Christus; du trugst Ihn in deinem Leib, und gebarst Ihn in die Welt hinein. Heilige [Jung- frau], bete für uns."
+          }
+        },
+        {
+          "section": 5,
+          "text": {
+            "en": "Rejoice thou, O God-bearer, thou joy of the angels. Rejoice thou, who wast the woman foretold by the Prophets. Rejoice thou, for thou didst find favour, God was with thee. Rejoice thou, for thou hast received the voice of the Angel [Gabriel], the joy of all the world. Rejoice thou, O Bearer of the Creator of all the world. So then",
+            "am": "የመላእክት ደስታቸው የሆነ ጌታን የወለድሽ ሆይ ደስ ይበልሽ። የነቢያት ዜናቸው ንጽሕት ሆይ ደስ ይበልሽ። እግዚ አብሔር ከአንቺ ጋር ቢሆን ባለሟልነትን አግኝተሻልና ደስ ይበልሽ። የዓለም(የሰው)ሁሉ ደስታ የሆነ የመልአኩን ቃል ተቀብለሻልና ደስ ይበልሽ። ዓለምን ሁሉ የፈጠረ ጌታን የወለድሽ ሆይ ደስ ይበልሽ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ተፈሥሒ ኦ ወላዲተ እግዚእ ኃሤቶሙ ለመላእክት ተፈሥሒ ኦ ንጽሕት ዜናሆሙ ለነቢያት ተፈሥሒ እስመ ረከብኪ ሞገሰ እግዚአብሔር ምስሌኪ ተፈሥሒ እስመ ተወከፍኪ ቃሎ ለመልአክ ፍስሐ ኩሉ ዓለም ተፈሥሒ ኦ ወላዲተ ፈጣሬ ኩሉ ዓለም። ሰአሊ ለነ ቅድስት።",
+            "de": "Freue dich, Oh Mutter Gottes, die Freude der Engel; freue dich, Oh du reine, der Spruch der Propheten. Freue dich, den du hast Gnade gefunden, Gott ist mit dir. Freue dich, den du hast die Stimme des Engels vernommen, die Freude der ganzen Welt. Freue dich, Oh Mutter des Schöpfers der ganzen Welt. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 6,
+          "text": {
+            "en": "Rejoice thou because it is meet that thou shouldst be called, \"Bearer of God\". Rejoice thou, O thou woman who deliveredst Eve. Rejoice thou, for thou didst suckle Him Who suckleth all creation. Rejoice thou, O holy woman, the mother of all living beings. We lift our eyes to thee with entreaty that thou wilt pray on our behalf. So then,",
+            "am": "በሚገባ የአምላክ እናት ተብለሻልና ደስ ይበልሽ። የሔዋን መድኃኒትዋ ሆይ ደስ ይበልሽ። ፍጥረቱን ሁሉ የሚመግበውን እሱን ጡትሽን አጥብተሽዋልና ደስ ይበልሽ። የሕያዋን (የጻድቃን)ሁሉ እናታቸው ቅድስት ሆይ ደስ ይበልሽ። ትለምኝልን ዘንድ ወደ አንቺ እናንጋጥጣለን። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ተፈሥሒ እስመ ድልወ ተሰመይኪ ኦ ወላዲተ አምላክ ተፈሥሒ ኦ መድኃኒታ ለሔዋን ተፈሥሒ እንተ አጥበውኪ ሐሊበ ለዘይሴስዮ ለኩሉ ፍጥረት ተፈሥሒ ኦ ቅድስት እሞሙ ለኩሎሙ ሕያዋን ናንቀዐዱ ኀቤኪ ትስአሊ በእንቲአነ። ሰአሊ ለነ ቅድስት፡፡",
+            "de": "Freue dich, denn es ist recht dass du “Oh Mutter Gottes” genannt wirst. Freue dich, Oh Retterin Evas. Freue dich, den du hast Ihn mit Milch genährt, Ihn, der alle Schöpfung unterhält. Freue dich, oh Heilige, die Mutter aller Lebenden; wir heben unsere Augen empor zu dir, damit du für uns beten mögest. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 7,
+          "text": {
+            "en": "Virgin, O Saint, O Bearer of God, since thou didst bring forth the King, a marvellous mystery dwelt upon thee for our salvation. We will hold our peace, for we are unable to search into the matter completely, as the greatness thereof rquireth, and will describe that Doer of good things, through the exceedingly great wonder of the manifestation. So then",
+            "am": "ድንግል ሆይ ቅድስት ሆይ ጌታን የወለድሽ ሆይ እኛን ለማዳን ድንቅ ምሥጢር/ተዋሕዶ/በአንቺ ቢደረግ ንጉሥን ወልደሽልናልና ፍጥረታትን በልዩ ልዩ መልክ የፈጠረ የእር ሱን የገናንነቱን ነገር ፈጽመን መናገር አይቻለንምና ዝም እንበል። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ኦ ድንግል ኦ ቅድስት ኦ ወላዲተ እግዚእ እስመ ወለድኪ ለነ ንጉሠ መንክር ምሥጢር ኃደረ ላዕሌኪ ለመድኃኒተ ዚአነ። ናርምም እስመ ኢንክል ፈጽሞ ጥንቁቀ ነጊረ በእንተ ዕበዩ ለውእቱ ገባሬ ሠናያት በብዙኀ መንክር ራዕይ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Oh Jungfrau, Oh Heilige, Oh Mutter des Herrn, du hast uns wunderbaren geboren, einen König ein Mysterium; Er verweilte in dir für unsere Erlösung. Lasst uns still sein, denn hinsichtlich Seiner Größe, Der viele wundervolle Dinge in großartiger Sicht tut, können wir nicht genau sein. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 8,
+          "text": {
+            "en": "He was the Living Word of the Father Who came down on Mount Sinai, and gave the Law to Moses (Exodus xix. 16 ff.) whilst the top of the mountain was covered with mist, and with smoke, and with darkness, and with storm, and with the terrifying blasts of trumpets. He admonished those who were standing there in fear, So then",
+            "am": "ወደ ደብረ ሲና የወረደ ለሙሴ ሕግን የሰጠ የተራራውን ራስ በጽጋግ በጢስ በጨለማና በነፋስ የሸፈነ ፈርተው የቆ ሙትንም በነጋሪቶች ድምጽ የገሰጸ የአብ አካላዊ ቃል ነው። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ቃለ አብ ሕያው ዘወረደ ውስተ ደብረ ሲና ወወሀበ ሕገ ለሙሴ ወከደነ ርእሰ ደብር በጊሜ ወጢስ ወጽልመት ወነፋስ ወበድምፀ ቃለ አቅርንት ይጌሥፅ ለእለ ይቀውሙ በፍርሃት፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Er ist das lebendige Wort des Vaters, das auf dem Berg Sinai hernieder ging. Und Er gab Moses die Gesetze (2. Mos. 19:16), und die Spitze des Berges war bedeckt mit Nebel und Rauch, mit Dunkelheit und Sturm, und mit dem Klang der Trompeten; Er wies diejenigen zurecht, die dort in Furcht standen. Heilige [Jung- frau], bete für uns."
+          }
+        },
+        {
+          "section": 9,
+          "text": {
+            "en": "It was He Who came down to thee, O rational mountain, in the humility of the Lover of men. Without any change He became incarnate of thee, and took a perfect body, endowed with reason and like unto ourselves, through the spirit of wisdom. God took up His abode on her and became perfect man so that He might deliver Adam, and forgive him his sin, and make him to dwell in heaven, and bring him back to his former state in His abundant compassion and mercy. So then",
+            "am": "በትሕትና የተናገርሽ ተራራ ሆይ ይኸውም ወደ አንቺ የወረደው ነው። ሰውን የወደደ እርሱ ያለመለወጥ በአንቺ ሰው ሆነ እንደ እኛ በሚናገር ሥጋ ፍጹም ሆኖ አምላክ በመንፈስ ቅዱስ በማሕጸንዋ አደረና ፍጹም ሰው ሆነ። አዳምን ያድነው ዘንድ ኃጢአቱንም ያስተሠርይለት ዘንድ በሰማያት(በሰማያዊ መዓርግ)ያኖረው ዘንድ በቸርነቱና በይቅርታው ብዛት ወደ ቀድሞ ቦታው ይመልሰው ዘንድ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ውእቱኬ ዘወረደ ኅቤኪ ኦ ደብር ነባቢት በትሕትና መፍቀሬ ሰብእ ተሰብአ እምኔኪ ዘእንበለ ውላጤ ፍጹመ ሥጋ ነባቢ ዘከማነ በመንፈሰ ጥበብ አምላክ ኃደረ ላዕሌሃ ኮነ ፍጹም ስብአ ከመ ያድኅኖ ወይሥረይ ኃጢአቶ ለአዳም ወያንብሮ ውስጠ ሰማያት ወያግብኦ ኅበ ዘትካት መንበሩ በዕበይ ሣህሉ ወምሕረቱ። ሰአሊ ለነ ቅድስት።",
+            "de": "Er war es, der auf dich hernieder kam, Oh sprechender Berg; mit Unterwürfigkeit und aus Liebe zu den Menschen wurde Er Mensch, ohne Veränderung, nahm einen perfekten Körper an, mit Verstand, der wie unserer war, durch den Geist der Weisheit. Gott verweilte in ihr, und wurde perfekter Mensch, um Adam zu erlösen, und seine Sünden zu vergeben. Und Er wird ihn im Himmel wohnen lassen, und ihn, in Seinem"
+          }
+        },
+        {
+          "section": 10,
+          "text": {
+            "en": "It is impossible for any to describe the greatness of the Virgin. For God chose her, and He came and dwelt upon her. He Who dwelt in the light, Whom none could approach, was carried in her womb nine months. He Who is invisible, He Who is incomprehensible did Mary bring forth, being a virgin. So then",
+            "am": "የድንግል ገናንነቷ ሊናገሩት አይቻልም ጌታ መርጧታልና የሚቀርበው በሌለ ብርሃን ውስጥ የሚኖር እርሱ መጥቶ አደረባት። ዘጠኝ ወር በማኅጸንዋ አደረ። የማይታይና የማይመረመር(ታይቶ የማይታወቅ)እርሱን በድንግልና ወለደችው። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ዕበያ ለድንግል ኢይትከሃል ለተነግሮ እስመ እግዚእ ኃረያ መጽአ ወኃደረ ላዕሌሃ ዘየኀድር ውስተ ብርሃን ኅበ አልቦ ዘይቀርቦ ተዐውረ በከርሣ ፱ተ አውራኀ ዘኢይትረአይ ወዘኢይትዓወቅ ወለደቶ ማርያም እንዘ ድንግል ይእቲ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Großen Mitgefühl und Seiner Gnade, zu seinem früheren hohen Rang zurückbringen. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 11,
+          "text": {
+            "en": "This is the stone which Daniel the prophet saw, which was hewn from a high mountain, without hands (Daniel ii. 34, 35), that is to say, the Word Who went forth from the Father. He came and became incarnate of the Virgin without seed of men, and delivered us. So then",
+            "am": "ነቢዩ ዳንኤል ያየው ያለ እጅ ከረጅም ተራራ የተፈነቀለው ያ ደንጊያ ከአብ ዘንድ የወጣው ቃል ነውና። መጥቶ ያለ ወንድ ዘር ከድንግል ተወልዶ አዳነን። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ዘውእቱ ዕብን ዘርእየ ዳንኤል ነቢይ ዘተበትከ እምደብር ነዋኅ ዘእንበለ እድ ዘውእቱ ቃል ዘወፅአ እምኅበ አብ መጽእ ወተሰብአ እምድንግል ዘእንበለ ዘርአ ብእሲ ወአድኃነነ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Es ist unmöglich, von der Großartigkeit der Jungfrau zu sprechen, denn der Herr hat sie auserwählt. Er kam und verweilte in ihr, Er, Der im Licht wohnte, [und] Dem sich niemand nähern konnte. Er wurde in ihrem Leib für neun Monate getragen, Er, Der unsichtbar und unvorstellbar ist. Er wurde geboren von Maria, die eine Jungfrau war. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 12,
+          "text": {
+            "en": "Thou art the pure twig and the right vessel of the True Faith of the saints our Fathers. O thou pure God-bearer, O thou sealed Virgin, thou didst bring forth for us the Word of the Father, Jesus Christ. He came and He hath delivered us. So then",
+            "am": "እንደ ንጹሕ ጫፍ ሆንሽ የሃይማኖትም መገኛ ነሽ የቀናች የቅዱሳን አባቶቻችን ሃይማኖታቸው ነሽ አምላክን የወለድሽና በድንግልና የታተምሽ ንጽሕት ሆይ የአብን ቃል ወለድሽልን ኢየሱስ ክርስቶስ እኛን ለማዳን መጣ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ኮንኪ ዓፅቀ ንጹሐ ወሙዳየ አሚን ርትዕት ሃይማኖቶሙ ለቅዱሳን አበዊነ ኦ ንጽሕት ወላዲተ አምላክ ድንግል ኅትምት ወለድኪ ለነ ቃለ አብ ኢየሱስ ክርስቶስ መጽአ ለመድኀኒትነ። ሰአሊ ለነ ቅድስት።",
+            "de": "Er ist der Stein, den der Prophet Daniel sah, der von einem hohen Berg abgebrochen wurde, ohne Hände; dies ist das Word, Das vom Vater kam; Er kam und wurde Mensch von der Jungfrau, ohne Samen eines Mannes, und Er erlöste uns. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 13,
+          "text": {
+            "en": "Thou art the Mother of the Glorious Light, O God-bearer. Thou didst carry the Word Who is invisible, and after thou hadst brought Him forth thou didst continue to be a virgin. With praise and blessing shall men magnify thee. So then",
+            "am": "የከበርሽ ጌታን የወለድሽ ሆይ የማይታይ ቃልን የተሸከምሽው የብርሃን እናቱ አንቺ ነሽ እሱን ከወለድሽው በኋላ በድንግልና ኖረሻልና በፍጹም ምስጋና ያገኑሻል። ቅድስት ሆይ ለምኝልን።",
+            "gez": "አንቲ እሙ ለብርሃን ክብርት ወላዲተ እግዚእ እንተ ፆርኪዮ ለቃል ዘኢይትረአይ እምድኅረ ወለድኪ ኪያሁ ነበርኪ በድንግልና በስብሐት ወባርኮት የዐብዩኪ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Du bist die reine Einfriedung und das wahre Gefäß des wahren Glaubens unserer heiligen Väter. Oh reine Jungfrau, Mutter Gottes, die versiegelt ist, du hast für uns das Wort des Vaters geboren, Jesus Christus; Er kam für unsere Erlösung. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 14,
+          "text": {
+            "en": "What tongue is able to proclaim that which should be declared concerning thee, O thou pure Virgin, Mother of the Light, the Word of the Father? Thou wast the throne of the King Whom the Cherubim carry. We ascribe blessings unto thee, O blessed woman, and we will remember thy name from generation to generation, O Beautiful Dove, Mother of our Lord Jesus Christ. So then",
+            "am": "የአብ ቃል እናቱ ንጽሕት ድንግል ሆይ ስለአንቺ የሚነገረውን ነገር መናገር የሚቻለው ምን አንደበት ነው? ኪሩቤል ለሚሸከሙት ንጉሥ ዙፋኑ/ማደሪያው/ ሆንሽ የተከበርሽ ሆይ እናመሰግንሻለን የጌታችን ኢየሱስ ክርስቶስ እናቱ መልካሟ ርግብ ሆይ ስምሽን በልጅ ልጅ እንጠራለን። ቅድስት ሆይ ለምኝልን።",
+            "gez": "አይ ልሳን ዘይክል ነቢበ ዘይትነገር በእንቲአኪ ኦ ድንግል ንጽሕት እሙ ለቃለ አብ ኮንኪ መንበሮ ለንጉሥ ለዘይፀውርዎ ኪሩቤል ናስተበፅዐኪ ኦ ቡርክት ወንዘክር ስምኪ በኩሉ ትውልድ ትውልድ ኦ ርግብ ሠናይት እሙ ለእግዚእነ ኢየሱስ ክርስቶስ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Du bist die Mutter des wunderbaren Lichts, die Mutter Gottes, da Du das Wort, welches unsichtbar ist, [in Dir] getragen hast. Nachdem Du Ihn geboren hattest, lebtest Du [weiterhin] in Jungfräulichkeit. Mit Lobpreis und Segen wirst Du verherrlicht werden. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 15,
+          "text": {
+            "en": "Rejoice thou, O Mary, Mother and Maid, for unto Him Who is in thy bosom the angles bring praises, and the Cherubim bow down and worship Him in fear, and the Seraphim spread out their wings, and say concerning Him ceaselessly, \"This is the King of Glory.\" He came to forgive the sins of the world in the greatness of His compassion",
+            "am": "እናትና ገረድ ማርያም ሆይ ደስ ይበልሽ። የታቀፍሽውን መላእክት ያመሰግኑታልና ኪሩቤልም በፍርሃት ይሰግዱለታልና ሱራፌልም ያለማቋረጥ ክንፋቸውን ዘርግተው የሚመሰገን ንጉሥ/የክብር ባለቤት/ይህ ነው በይቅርታው ብዛት የዓለምን ኃጢአት ያሥተሰርይ ዘንድ የመጣው ይህ ነው ይላሉ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ተፈሥሒ ኦ ማርያም እም ወአመት እስመ ለዘውስተ ሕፅንኪ ይሴብሕዎ መላእክት ወኪሩቤል ይሰግዱ ሎቱ በፍርሃት ወሱራፌል ዘእንበለ ጽርዓት ይሰፍሑ ክነፈሆሙ ወይብሉ ዝንቱ ውእቱ ንጉሠ ስብሐት መጽአ ይሥረይ ኃጢአተ ዓለም በዕበየ ሣህሉ፡፡ ሰአሊ ለነ ቅድስት፡፡",
+            "de": "Welche aller Sprachen kann genau sein hinsichtlich dem, was über dich gesagt warden soll, Oh reine Jungfrau, die Mutter des Wortes Gottes? Du wurdest zum Thron des Königs, Den die Cherubime tragen. Wir schreiben dir Gnade zu, Oh Gesegnete, wir warden uns deines Namens in allen Generationen erinnern. Wunderschöne die Mutter Herrn Jesus Christus. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 16,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": null,
+            "de": "Freue dich, Oh Maria, Mutter und Dienering. Denn zu Ihm in deinem Leib bringen die Engel Lobpreis, und die Cherubime verbeugen sich vor Ihm in Ehrfurcht, und die Seraphime ohne Unterlass breiten ihre Flügel aus, und sagen, “Er ist der König der Ehre.“ Er kam, die Sünden der Welt mit Seinem großen Mitleid zu vergeben. Heilige [Jungfrau], bete für uns."
+          }
+        }
+      ]
+    },
+    {
+      "chapter": "wednesday",
+      "chapter_name": {
+        "en": "A Hymn of Praise for the Fourth Day of the Week (Wednesday)",
+        "am": "ረቡዕ የሚጸለይ አምላክን የወለደች የድንግል ማርያም ምስጋና ሦስተኛ ክፍል",
+        "gez": "ውዳሴሃ ለእግዝእትነ ማርያም ድንግል ወላዲተ አምላክ ዘይትነበብ በዕለተ ረቡዕ።",
+        "de": "Die Lobpreisung Unserer Jungfrau Maria, der Mutter Gottes, die am Mittwoch Gelesen Wird."
+      },
+      "sections": [
+        {
+          "section": 1,
+          "text": {
+            "en": "All the hosts of the heavens say, \"Blessed art thou, O thou second heaven upon the earth, Door of the sunrise (or, the East), Mary the Virgin, thou pure Bride-chamber of the Holy Bridegroom. The Father looked down from heaven, and found none like unto thee; He sent His only One, and He became incarnate of thee. All generations shall ascribe blessings unto thee, thou who alone art our Lady, the Bearer of God.\"",
+            "am": "የምድር ሁለተኛ የሆንሽ ሰማይ ሆይ የሰማያት ሠራዊት /መላእክት/ ንዕድ ነሽ ይላሉ፤ ድንግል ማርያም የምሥራቅ ደጅ ናት። ሙሽራዋ ንጹሕ የሆነ ንጽሕት የሰርግ ቤት ናት። አብ በሰማይ አይቶ እንዳንቺ ያለ አላገኘምና አንድ ልጁን ላከው በአንቺም ሰው ሆነ። ቅድስት ሆይ ለምኝልን ።",
+            "gez": "ኩሉ ሠራዊተ ሰማያት ይብሉ ብፅዕት አንቲ ሰማይ ዳግሚት ዲበ ምድር ኆኅተ ምሥራቅ ማርያም ድንግል ከብካብ ንጹሕ ወመርዓ ቅዱስ ነፀረ አብ እምሰማይ ወኢረከበ ዘከማኪ ፈነወ ዋሕዶ ወተሰብአ እምኔኪ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "All die Heerscharen des Himmels sagen, “Gesegnet bist du, der zweite Himmel über der Erde, die Tür des Ostens, Maria die Jungfrau, das reine Brautgemach, und die heilige Wand. Der Vater sah herunter vom Himmel, und fand niemanden wie dich. Er sandte Seinen Einzigen [Sohn], und Er wurde Mensch durch dich. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 2,
+          "text": {
+            "en": "Great and wonderful things have [the Prophets] prophesied concerning thee, O City of God, for thou art the abode of all those who rejoice. All the kings of the earth walk in thy light and [all] the nations in thy splendour (Isaiah lx. 3). O Mary, all generations shall ascribe blessings unto thee, and shall worship Him Who was brought forth by thee, and shall magnify Him. All [of them].",
+            "am": "አምላክን የወለድሽ እመቤታችን ሆይ ትውልድ ሁሉ አንቺን ብቻ ያመሰግኑሻል። የእግዚአብሔር ሀገር /ከተማ/ ሆይ ነቢያት ድንቅ ድንቅ ነገርን ተናገሩልሽ ደስ የተሰኙ የጻድቃን ማደሪያ ሆነሻልና የምድር ነገስታት ሁሉ በብርሃንሽ ይሔዳሉ ሕዝቡም/ሠራዊቶቻቸውም በብርሃንሽ ይሔዳሉ ማርያም ሆይ ትውልድ ሁሉ ያመሰግኑሻል ከአንቺ ለተወለደውም ይሰግዱለታል ያገኑታልም። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ኩሉ ትውልድ ያስተበፅዑኪ ለኪ ለባሕቲትኪ ኦ እግዝእትነ ወላዲተ አምላክ። ተነበዩ ላዕሌኪ ዐቢያተ ወመንክራተ ኦ ሀገረ እግዚአብሔር እስመ ኮንኪ አንቲ ማኅደረ ለፍሡሐን ኩሎሙ ነገስተ ምድር የሐውሩ በብርሃንኪ ወአሕዛብኒ በፀዳልኪ ኦ ማርያም ኩሉ ትውልድ ያስተበፅዑኪ ወይሰግዱ ለዘተወልደ እምኔኪ ወያዐብዩዎ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Alle Generationen werden dir Gnade zuschreiben, dir allein, Oh unsere Jungfrau, die verbeugen Ihm in und die ohne Mutter Großartige wundervolle sind für dich prophezeit Gottes. Und [Dinge] worden, Oh Land Gottes, den du wurdest zum Domizil aller, die sich erfreuen. Alle Könige der Erde wandeln in deinem Licht, und die Nationen in deinem Glanz (Isa. 9:2). Oh Maria, alle Generationen werden dir Gnade zuschreiben, und sich vor Dem, Der von dir geboren wurde, verbeugen, und Ihn lobpreisen. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 3,
+          "text": {
+            "en": "Thou art in very truth the Cloud, and thou hast shown us the water of the rain, the sign of the Only-begotten. The Father established thee, the Holy Ghost took up His abode on thee, and the power of the Most High overshadowed thee, O Mary, and verily thou didst bring forth the Word, the Son of God, Who endureth for ever. He came and hath delivered us from sin. Great was the honour that was bestowed upon thee, O Gabriel, the Angel of the Annunciation with the joyful face. Thou didst proclaim unto us the birth of the Lord, Who hath come to us, and thou didst announce Him to Mary, the spotless Virgin, and didst say unto her, \"Rejoice thou, O thou who art full of grace, God is with thee\" (Luke i. 28). All [of them].",
+            "am": "የዝናም ውሃ የታየብሽ የእውነት ደመና አንቺ ነሽ ። አብ የልጁ ምልክት አደረገሽ መንፈስ ቅዱስ አደረብሽ የልዑል ኃይል ጋረደሽ ማርያም ሆይ ለዘለዓለም የሚኖር የአብን ልጅ ቃልን የወለድሽልን መጥቶም ከኃጢአት አዳነን። ደስ የተሰኘህ ሆነህ ምሥራችን የተናገርክ መልአኩ ገብርኤል ሆይ የተሰጠህ ክብር ታላቅ ነው ወደ እኛ የመጣ የጌታን ልደት ነገርኽን ለድንግል ማርያም ጸጋን የተመላሽ ሆይ እግዚአብሔር ካንቺ ጋር ነውና ደስ ይበልሽ ብለህ አበሰርካት። ቅድስት ሆይ ለምኝልን።",
+            "gez": "አንቲ ዘበአማን ደመና እንተ አስተርአይኪ ለነ ማየ ዝናም ትእምርተ ዋሕዱ ረሰየኪ አብ መንፈስ ቅዱስ ኃደረ ላዕለኪ ወኃይለ ልዑል ጸለለኪ ኦ ማርያም አማን ወልድኪ ቃለ ወልደ አብ ዘይነብር ለዓለም መጽአ ወአድኃነነ እምኃጢአት ዓቢይ ውእቱ ክብር ዘተውህበ ለከ ኦ ገብርኤል መልአክ ዜናዊ ፍሡሐ ገጽ ሰበከ ለነ ልደተ እግዚእ ዘመጽአ ኀቤነ ወአብሠርካ ለማርያም ድንግል ዘእንበለ ርስሐት ወትቤላ ተፈሥሒ ኦ ምልእተ ጸጋ እግዚአብሔር ምስሌኪ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Du bist wahrlich die Worlke, den du hast uns das Wasser des Regens gezeigt, das Zeichen des Eingeborenen; der Vater hat dich auserwählt. Der Heilige Geist ruhte in dir, und die Macht des Herrn überschattete dich, Oh Maria, du hast wahrlich das Wort, den Sohn Gottes geboren, Der ewig fortwährt; Er kam und erlöste uns von der Sünde. Groß ist die Ehre, die wir dir erweisen, Oh Gabriel, der Engel der Verkündigung, mit einer freudvollen Erscheinung. Er verkündete uns die Geburt des Herrn, Der zu uns kam. Und er brachte gute Nachrichten zu der Jungfrau Maria, die ohne Unreinheit ist, und sagte zu ihr, “Freue dich, Oh du voll der Gnade, Gott ist mit dir” (Lk. 1:28). Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 4,
+          "text": {
+            "en": "Thou didst find grace, the Holy Spirit dwelt upon thee, and the power of the Most High overshadowed thee, O Mary. Verily thou didst bring forth the Holy Saviour for all the world. He came and He hath delivered us. All [of them].",
+            "am": "ጸጋን አገኘሽ መንፈስ ቅዱስ አደረብሽ የልዑል ኃይልም ጋረገሽ /ጸለለብሽ/ ማርያም ሆይ በእውነት ቅዱስን ወለድሽ። ዓለምን ሁሉ የሚያድን መጥቶ አዳነን። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ረከብኪ ጸጋ መንፈስ ቅዱስ ኃደረ ላዕሌኪ ወኃይለ ልዑል ጸለለኪ ኦ ማርያም አማን ወለድኪ ቅዱሰ መድኅኑ ለኩሉ ዓለም፡ መጽአ ወአድኃነነ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Du hast Gnade gefunden; der Heilige Geist ruhte auf dir, und die Macht des Herrn überschattete dich, Oh Maria, du hast wahrlich den [heiligen] Erlöser der ganzen Welt geboren; Er kam und erlöste uns. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 5,
+          "text": {
+            "en": "Our tongue this day praiseth the work of the Virgin. We praise Ary, the God-bearer, because our Lord and Redeemer Jesus Christ was born of her in the city of David. Come, O all ye nations, and let us ascribe blessing unto Mary, for she is at once mother and virgin. Rejoice, O pure Virgin, in whom there is no blemish, to whom came the Word of the Father, Who was incarnate of her. Rejoice, O Vessel unblemished, perfect, and spotless Woman. Rejoice thou, O Garden endowed with reason, thou Abode of Christ, Who became the Second Adam because of the First Adam, the man. Rejoice thou, O woman who borest the Only-begotten, Who, having gone forth from the bosom of His Father, suffered no change. Rejoice, O thou pure Bride-chamber, who art adorned with all the beauty of praise, He came and was not consumed by the fire of the Godhead. Rejoice thou, O Mother and Maid, Virgin, thou second heaven, who didst carry in thy body Him Who is borne aloft by the Cherubim and Seraphim. And because of this we rejoice, and we sing with the holy angels with joy and gladness, and we say, \"Glory to God in the heavens, and peace upon earth, His good will to men\" (Luke ii. 14). For He unto Whom belong glory and praise for ever and ever is well-pleased with thee. Amen. All [of them].",
+            "am": "አንደበታችን የድንግልን ሥራ ያመሰግናል ጌታችንና መድኀኒታችን ኢየሱስ ክርስቶስ በዳዊት አገር ከእርሷ ስለተወለደ አምላክን የወለደች ማርያምን ዛሬ እናመስግናት አሕዛብ ኑ ማርያምን እናመስግናት እናትና ድንግልን ሁለቱንም ሆናለችና ርኩሰት የሌለብሽና የአብ ቃል መጥቶ ከአንቺ ሰው የሆነ ንጽሕት ድንግል ሆይ ደስ ይበልሽ፤ ነውር የሌለብሽ ፍጽም ትና ጉድፍ የሌለብሽ ሙዳይ ሆይ ደስ ይበልሽ፤ ስለቀደመ ሰው አዳም ሁለተኛ አዳም የሆነ የክርስቶስ ማደሪያው የምትናገርው ገነት ሆይ ደስ ይበልሽ፤ ከአባቱ ያልተለየ አንድ እሱን የተሸከምሽ ሆይ ደስ ይበልሽ፤ በክብር ጌጽ ሁሉ እርሱ መጥቶ ሰው የሆነብሽ ንጽሕት የሠርግ ቤት ሆይ ደስ ይበልሽ የመለኮት እሣት /ባሕርይ/ ያላቃጠለሽ ዕፀ ጳጦስ ሆይ ደስ ይበልሽ፤ በኪሩቤል ላይ የሚቀመጠውን ሰማያዊ /መለኮትን/ በስጋ የተሸከምሽ ገረድና እናት ድንግልና ሰማይ ሆይ ደስ ይበልሽ፤ ስለዚህ ንጹሃን ከሆኑ መላእክት ጋራ በፍጹም ደስታ ደስ ተሰኝተን እናመስግን በሰማይም ለእግዚአብሔር ምስጋና ይሁን በምድርም እርቅ ይሁን እንበል ክብርና ምሥጋና /ጌትነት/ ያለው እርሱ አንቺን ወዷልና። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ግብረ ድንግል ይሴብሕ ልሳንነ ዮም ንወድሳ ለማርያም ወላዲተ አምላክ በእንተ ዘተወልደ እምኔሃ በሀገረ ዳዊት እግዚእነ ወመድኃኒነ ኢየሱስ ክርስቶስ ንዑ ኩልክሙ አሕዛብ ናስተብፅዓ ለማርያም እስመ ኮነት እመ ድንግል ወፅሙረ ተፈሥሒ ኦ ድንግል ንጽሕት እንተ አልባቲ ርኩስ ዘመጽአ ቃለ አብ ወተሰብአ እምኔሃ ተፈሥሒ ኦ ሙዳይ እንተ አልቦቲ ነውር ፍጽምት ዘአልባ ርስሐት ተፈሥሒ ኦ ገነት ነባቢት ማኅደሩ ለክርስቶስ ዘኮነ ዳግማይ አዳም በእንተ አዳም ቀዳሚ ብእሲ ተፈሥሒ ኦ ፀዋሪቱ ለዋሕድ ለዘኢተፈልጠ እምኅፅነ አቡሁ ተፈሥሒ ኦ ከብካብ ንጹሕ ሥርግው በኩሉ ስነ ስብሐት መጽአ ወተሰብአ እምኔኪ ተፈሥሒ ኦ ዕፀ ጳጦስ እንተ ኢያውዓያ እሳተ መለኮት ተፈሥሒ ኦ አመት ወእም ድንግል ወሰማይ ሰማያዌ እንተ ፆረት በሥጋ ዘይፄዐን ዲበ ኪሩቤል ወበእንተዝ ንትፈሣሕ ወንዘምር ምስለ መላእክት ቅዱሳን በፍሥሐ ወበሐሤት ወንበል ስብሐት ለእግዚአብሔር በሰማያት ወሰላም በምድር ሥምረቱ ለሰብእ እስመ ኪያኪ ሠምረ ዘሎቱ ክብር ወስብሐት፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Unsere Zunge preist heute das Wirken der Jungfrau; wir lobpreisen Maria, die Mutter Gottes, den von ihr ward in der Stadt Davids unser Herr und Erlöser Jesus Christus geboren. Kommt, all ihr Völker, und last uns Maria Gnade zuschreiben, den sie wurde Mutter und Jungfrau zur selben Zeit. Freue dich, Oh reine Jungfrau, den du bist ohne Tadel, zu der das Wort des Vaters kam, und Mensch von ihr wurde. Freue dich, Oh Gefäß ohne Tadel, völlig ohne Makel. Freue dich, Oh Paradies mit Verstand, das Domizil Christus, Der für den ersten Adam, den Menschen, zum zweiten Adam wurde. Freue dich, Oh du, die den Eingeborenen geboren hat, vom Vater betraut, ohne Veränderung. Freude dich, Oh reines Brautgemach, geschmückt mit all der Schönheit der Lobpreisung; Er kam und wurde von dir zum Menschen. Freue dich, Oh Holz des Busches, denn das Feuer der Göttlichkeit verbrannte dich nicht. Freue dich, Oh Dienering und Jungfrau Mutter, [du bist] der himmlische Himmel, den du hast Ihn im Fleisch geboren Der auf den Cherubimen reitet; last uns uns also freuen und mit den heiligen Engeln singen, in Freude und Frohsinn, und lasst uns sagen, “Ehre sei Gott in der Höhe, und Frieden auf Erden, den Menschen ein Wohlgefallen” (Lk. 2:14). Denn Er, dem Ruhm und Lobpreis zustehen, ist zufrienden mit dir. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 6,
+          "text": {
+            "en": "The glory of Mary is greater than that of all the saints, for she was worthy to receive the Word of the Father. Him Who maketh the angels to be afraid, Him Whom the Watching Angels in heaven praise, did Mary the Virgin carry in her womb. She is greater than the Cherubim, and superior to the Seraphim, for she was the Ark (or, Tabernacle) of One of the Holy Trinity. She is Jerusalem, the city of the Prophets, and she is the habitation of the joy of all the saints. On the people who sat in darkness and the shadow of death hath a great Light risen. God Who resteth in His holiness became incarnate of a virgin for our salvation. Come ye and look upon this marvellous thing, and sing ye His song because of the mystery that hath been revealed unto us. For He Who was became a man, the Word mingled [with our nature], He Who had no beginning [assumed] a beginning for Himself, and He Who had no days [reckoned] to Himself days, and He Who could not be known became revealed, and He Who was invisible showed Himself; the Son of the Living God became a man indeed, Jesus Christ, yesterday, to-day, and forever (Hebrews xiii. 8), One Nature, Him do we worship and praise. All [of them].",
+            "am": "ከቅዱሳን ክብር የማርያም ክብር ይበልጣል የአብን ቃል ለመቀበል በተገባ ተገኝታለችና መላእክት የሚፈሩትን ትጉሆች በሰማያት የሚያመሰግኑትን ድንግል ማርያም በማሕጸኗ ተሸከመችው። ይህች ከኪሩቤል ትበልጣለች ከሱራፌልም ትበልጣለች።ከሦስቱ አካል ለአንዱ ማደሪያ ሆናለችና የነቢያት ሀገራቸው ኢየሩሳሌም ይህች ናት። ለቅዱሳን ሁሉ የደስታቸው ማደሪያ ናት በጨለማና በሞት ጥላ ውስጥ ለሚኖሩ ሰዎች ታላቅ ብርሃን ወጣላቸው በቅዱሳን ላይ የሚያድር እግዚአብሔር እኛን ለማዳን ልዩ ከሆነች ድንግል ሰው ሆኗልና ኑ ይህን ድንቅ እዩ ስለተገለጠልን ምሥጢር ምስጋና አቅርቡ ሰው የማይሆን ሰው ሆኗልና ቃል ተዋህዷልና ጥንት የሌለው ስጋ ጥንታዊ ቀዳማይ ሆነ ዘመን የማይቆጠርለት /መለኮት/ ዘመን ተቆጠረለት የማይታወቅ ተገለጠ የማይታይ ታየ የሕያው የእግዚአብሔር ልጅ በእርግጥ ሰው ሆነ። ትላንት የነበረው ዛሬም ያለው መቼም የሚኖረው ኢየሱስ ክርስቶስ እንሰግድለትና እናመሰግነው ዘንድ አንድ ባሕርይ ነው። ቅድስት ሆይ ለምኝልን።",
+            "gez": "የዐቢ ክብራ ለማርያም እምኩሎሙ ቅዱሳን እስመ ድልወ ኮነት ለተወክፎ ቃለ አብ ዘይፈርህዎ መላእክት ወየአኩትዎ ትጉሃን በሰማያት ፆረቶ ማርያም ድንግል በከርሣ ይእቲ ተዐቢ እምኪሩቤል ወትፈደፍድ እምሱራፌል እስመ ኮነት ታቦተ ለአሐዱ ዘእምቅድስት ሥላሴ ዛቲ ይእቲ ኢየሩሳሌም ሀገሮሙ ለነቢያት ወማኅደረ ፍሥሐሆሙ ለኩሎም ቅዱሳን ሕዝብ ዘይነብር ውስተ ጽልመት ወጽላሎተ ሞት ብርሃን ዐቢይ ሠረቀ ላዕሌሆሙ እግዚአብሔር ዘየዐርፍ በቅዱሳኒሁ ተሰብአ እምድንግል ለመድኃኒተ ዚአነ ንዑ ርእዩ ዘንተ መንክረ ወዘምሮ ዘምሩ በእንተ ምሥጢር ዘተከሥተ ለነ እስመ ዘኢይሰባእ ተሰብአ ቃል ተደመረ ወዘአልቦ ጥንት ኮነ ቅድመ ወለዘአልቦ መዋዕል ኮነ ሎቱ መዋዕል ዘኢይትዐወቅ ተከስተ ወኢይትረአይ ተርእየ ወልደ እግዚአብሔር ሕያው ጥዩቀ ኮነ ሰብአ ኢየሱስ ክርስቶስ ዘትማልም ወዮም ወክመ ውእቱ እስከ ለዓለም አሐዱ ህላዌ ሎቱ ንስግድ ወንሰብሕ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Die Ehre von Maria ist größer als die aller Heiligen, den sie war würdig, das Wort des Vaters zu empfangen, Das von den Engeln gefürchtet war, und von den Beobachtern im Himmel verehrt wurde. Die Jungfrau Maria trug Ihn in ihrem Leib. Sie steht höher als die Cherubime und die Seraphime, den sie wurde zur Arche für Einen der Heiligen Dreifaltigkeit; sie ist Jerusalem, die Stadt der Propheten, und das Domizil der Freude all der Heiligen. Denn ein großartiges Licht ist für die Menschen, die in Dunkelheit und Ihm Schatten des Todes lebten, erschienen. Gott, Der in Seinen Heiligen ruhte, wurde zum Menschen durch die Jungfrau, für unsere Erlösung; komm und sehe diese wundervolle [Sache]. Und sing Sein Lied, den ein Mysterium wurde für uns enthüllt, den Er, Der kein Mensch war, wurde zum Menschen, das Wort vereinte sich [mit unserem Wesen]. Und Er, Der keinen Anfang hat, nahm einen Anfang, und Er, der keine Tage kannte, nahm sich Tage [auf dieser Erde]. Er, Den man nicht kannte, wurde bekannt, und Er, der nicht sichtbar war, wurde gesehen. Der Sohn des lebendigen Gottes wahrlich wurde zum Menschen, Jesus Christus, gestern, heute, und immer (vgl. Heb. 13:8). Eine Wesensart. Lasst uns uns vor Ihm verbeugen und Ihn lobpreisen. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 7,
+          "text": {
+            "en": "Ezekiel the Prophet testified concerning her and said, \"I see a sealed door in the East, sealed with a great and wonderful seal, and no one save the God of the mighty ones hath gone in through it. He went in and He came out\" (Ezekiel xliii. 4; xliv, 1, 2). All [of them].",
+            "am": "ነቢዩ ሕዝቅኤል ስለ እርሷ መሰከረ ድንቅ በሆነ ታላቅ ቁልፍ የተዘጋች ደጅ ከምሥራቅ አየሁ አለ ከኃያላን ጌታ በቀር ወደ እርሷ ገብቶ የወጣ የለም። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ሕዝቅኤል ነቢይ ኮነ ስምዐ በእንቲአሃ ወይቤ ርኢኩ ኆኅተ በምስራቅ ኅቱም በዐቢይ መንክር ማኅተም አልቦ ዘቦአ ዘእንበለ እግዚአ ኃያላን ቦአ ውስቴታ ወወጽአ። ሰአሊ ለነ ቅድስት።",
+            "de": "Hesekiel der Prophet hörte von ihr, und sagte, “Ich see ein geschlossenes Tor im Osten, mit einem großartigen und wundervollem Siegel, und keiner außer dem Herrn der Mächtige ist durch dieses Tor eingetreten oder heraus gekommen” (Hese. 43:4, 44:1,2). Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 8,
+          "text": {
+            "en": "This door is the Virgin who brought forth for us the Redeemer. She brought Him forth, and she remained in her virginity after she had brought Him forth. Blessed is the Fruit of thy womb, O God-bearer, Who came and delivered us out of the hand of the Enemy who was merciless, Complete art thou and blessed; thou hast found grace with the King of Glory, the God in truth. Majesty and glory belong to thee more than to all those who dwell upon the earth. The Word of the Father came and was incarnate of thee, and walked about with men, for He is compassionate and a Lover of men. He delivered our souls by His holy coming.",
+            "am": "ኆኅትም /ደጅም/ መድኃኒታችንን የወለደች ድንግል ናት። እርሱን ከወለደች በኋላ እንደ ቀድሞው በድንግልና ኖራለችና መጥቶ ምሕረት ከሌለው ጠላት እጅ ያዳነን ጌታን የወለድሽ ሆይ የማኅፀንሽ ፍሬ የተባረከ ነው። አንቺ ፍጽምትና የተባረክሽ ነሽ የእውነት አምላክ በሆነ በክብር ባለቤት ዘንድ ባለሟ ልነትን አግኝተሻልና በምድር ላይ ከሚኖሩ ሁሉ ይልቅ ገናንነትና ክብር ለአንቺ ይገባል የአብ ቃል መጥቶ በአንቺ ሰው ሆነ ከሰው ጋርም ተመላለሰ፤መሓሪ ይቅር ባይ ሰውን ወዳጅ ነውና በልዩ አመጣጡ አዳነን ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ኆኅትሰ ድንግል ይእቲ እንተ ወለደት ለነ መድኃነ እምድኅረ ወለደት ኪያሁ ነበረት በድንግልና ከመ ትካት ቡሩክ ውእቱ ፍሬ ከርሥኪ ኦ ወላዲተ እግዚእ ዘመጽአ ወአድኃነነ እምእድ ጸላኢ ዘአልቦ ምሕረት አንቲ ፍጽምት ወቡርክት ረከብኪ ሞገሰ በኅበ ንጉሠ ስብሐት አምላክ ዘበአማን ለኪ ይደሉ ዕበይ ወክብር እምኩሎሙ እለ ይነብሩ ዲበ ምድር ቃለ አብ መጽአ ወተሰብአ እምኔኪ ወአንሶሰወ ምስለ ሰብእ፡ እስመ መሐሪ ውእቱ ወመፍቀሬ ሰብእ አድኃነ ነፍሳቲነ በምጽአቱ ቅዱስ ሰአሊ ለነ ቅድስት።",
+            "de": "Dieses Tor ist die Jungfrau, die uns unseren Erlöser geboren hat; nachdem sie Ihn geboren hatte, verblieb sie wie zuvor in ihrer Jungfräulichkeit. Gesegnet ist die Frucht deines Leibes, oh Mutter des Herrn, Der kam und uns aus der Hand des Feines, der ohne Gnade war, erlöste. Du bist vollkommen und gesegnet. Du hast Gnade vor dem König der Ehre gefunden, dem wahren Gott; Ehrhabenheit und Ehre stehen dir mehr als allen zu, die auf der Erde leben. Das Wort des Vaters kam und wurde durch dich zum Menschen. Und Er wandelte mit den Menschen. Denn Er ist barmherzig und liebt die Menschen; Er errettete unsere Seelen durch Sein heiliges Kommen. Heilige [Jungfrau], bete für uns."
+          }
+        }
+      ]
+    },
+    {
+      "chapter": "thursday",
+      "chapter_name": {
+        "en": "A Hymn of Praise for the Fifth Day of the Week (Thursday)",
+        "am": "ሐሙስ የሚጸለይ አምላክን የወለደች የእመቤታችን የድንግል ማርያም ምስጋና አራተኛ ክፍል",
+        "gez": "ውዳሴሃ ለእግዝእትነ ማርያም ድንግል ወላዲተ አምላክ ዘይትነበብ በዕለተ ሐሙስ።",
+        "de": "Die Lobpreisung Unserer Jungfrau Maria, der Mutter Gottes, die am Donnerstag Gelesen Wird."
+      },
+      "sections": [
+        {
+          "section": 1,
+          "text": {
+            "en": "The Bush which Moses saw in flaming fire in the desert the wood of which was not consumed is a similitude of Mary, the Virgin who was spotless. The Word of the Father became incarnate of her, and the fire of His Godhead did not consume the Virgin, and after she had brought Him forth her virginity was maintained, and His Godhead was unchanged. Our God, Who verily is God, became a man; He came and delivered us. We all magnify thee, O our Lady, the God-bearer, that thy compassion may be over us all.",
+            "am": "ርኩሰት የሌለባት ድንግል ማርያም ሙሴ በበረሃ በነደ እሳት ጫፎቿ ሳይቃጠሉ ያያት ዕፅን ትመስላለች የአብ ቃል በርስዋ ሰው ሆኗልና እሳተ መለኮቱ /የመለኮቱ ባህርይ/ አላቃጠላትምና ከወለደችውም በኋላ ድን ግልናዋ አልተለወጠምና ሰውም ቢሆን መለኮቱ አልተ ለወጠም በእውነት አምላክ ነውና በእውነት አምላክ የሆነ መጥቶ አዳነን። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ዕፀ እንተ ርእየ ሙሴ በነደ እሳት ውስተ ገዳም ወአዕፁቂሃ ኢትውዒ ትመስል ማርያም ድንግል ዘእንበለ ርኩስ ተሰብአ እምኔሃ ቃለ አብ ወኢያውዐያ እሳት መለኮቱ ለድንግል እምድኅረ ውለደቶ ድንግልናሃ ተረክበ ወመለኮቱ ኢተወለጠ ኮነ ወልደ ዕጓለ እምሕያው አምላክ ዘበአማን መጽአ ወአድኃነነ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Der Busch, den Moses im brennenden Feuer in der Wüste sah, dessen Holz nicht verbrannte, ähnelt der Jungfrau Maria, die untadelig war. Das Wort des Vaters wurde Mensch durch sie, und das Feuer Seiner Göttlichkeit verbrannte die Jungfrau nicht, und nachdem sie Ihn geboren hatte, blieb ihre Jungfräulichkeit bestehen; und Seine Göttlichkeit war unverändert. Er, Der der Sohn des Allmächtigen und Ewigen ist, ist wahrer Gott, und kam und erlöste uns. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 2,
+          "text": {
+            "en": "The Virgin Mary, the God-bearer, hath become the object of the boast of all of us, because through her was destroyed the curse of olden time, which rested upon our race, through the wickedness which the woman committed [when] she ate [of] the tree. Through Eve was the door of the Garden shut fast, and because of Mary the Virgin it hath been opened to us again. It is allotted to us to eat of the ree of Life, that is to say, the Body of Christ and His precious Blood. Because of His love for us He came and delivered us. What understanding, and What language, and What hearing is able to comprehend this mystery, which must be proclaimed to be wonderful, \"God is the lover of men?\" One is He Alone, the Word of the Father, Who existed before the world in His incorruptible God-head, from One, the Father. The Only-begotten Son came and was incarnate of the holy woman His mother, and after she brought Him forth her virginity perished not, and because of this it became manifest that she was the Bearer of God. O deep is the richness of the wisdom of God! The womb which He decreed should bring forth children in pain, and suffering, and sorrow of heart, hath become the fountain of life, and hath brought forth without the seed of man Him Who removed the curse from our race. And for this reason we will praise Him, saying, \"Glory be unto Thee, O Thou Good Friend of man, the Redeemer of our souls.\" We will magnify thee [,O Mary].",
+            "am": "አምላክን የወለድሽ እመቤታችን ሆይ ሁላችን እናገንሻለን ይቅርታሽ ለሁላችን ይሆን ዘንድ ነውና። ሔዋን እንጨት በልታ ባደረገችው ዓመፅ በባሕርያችን ያደረ የቀድሞው እርግማን በእርስዋ የጠፋልን አምላክን የወለደች ድንግል ማርያም የሁላችን መመኪያ ናት። ስለ ሔዋን የገነት ደጅ ተዘጋ ዳግመኛም ስለ ድንግል ማርያም ተከፈተልን ከዕፀ ሕይወት እንበላ ዘንድ አደለን ይኽውም እኛን ስለመውደድ መጥቶ ያዳነንየክርስቶስ ክቡር ሥጋው ክቡር ደሙነው ሰለ እርሷድንቅ ሆኖ የሚነገረውን ይህን ምስጢር ማወቅ የሚቻለው ምን ልቡና ነው? መናገር የሚቻለው ምን አንደበት ነው? መስማት የሚቻለው ምን ጆሮ ነው? ሰውን የሚወድ እግዚአብሔር አንድ ብቻ የሆነ አምላክነቱ ሳይለወጥ ከዓለም በፊት የነበረ የአብ ቃል ከአብ ዘንድ መጥቶ ልዩ ከሆነች እናቱ ሰው ሆነ ከወለደ ችው በኋላም ድንግልናዋ አልተለወጠም ስለዚህም አምላክን የወለደች እንደሆነች ታወቀች እግዚአብሔር የጥበቡ ስፋት ምን ይጠልቅ? በጻእር በምጥ በልብ ጋር ትወልድ ዘንድ የፈረደባት ማኅፀን የሕይወት መገኛ ሆነች ከባሕርያችን እርግማንን የሚያጠፋልንን ያለ ወንድ ዘር ወለደችልን ስለዚህም ሰውን የምትወድ ሆይ ክብር ላንተ ይገባል ቸርና የሰውነታችንም መድኃኒት ነህ እያልን እናመስግነው ቅድስት ሆይ ለምኝልን።",
+            "gez": "ናዐብየኪ ኩልነ ኦ እግዝእትነ ወላዲተ አምላክ እስመ ሣህልኪ ይኩን ላዕለ ኩልነ። ትምክሕተ ኩልነ ድንግል ማርያም ወላዲተ አምላክ ዘበእንቲአሃ ተሥዕረ ዘቀዳሚ መርገም እንተ ኃደረት ዲበ ዘመድነ በዕልወት ዘገብረት ብእሲት በልዐት እምዕፅ ወበእንተ ሔዋን ተዐፅወ ኆኅተ ገነት ወበእንተ ማርያም ድንግል ተርኅወ ለነ ዳግመ ከፈለነ ንብላዕ እምዕፀ ሕይወት ዘውእቱ ሥጋሁ ለክርስቶስ ወደሙ ክቡር በእንተ ፍቅረ ዚአነ መጸአ ወአድኃነአነ አይ ልቡና ወአይ ነቢብ ወአይ ሰሚዕ ዘይክል አእምሮ ዝንቱ ምሥጢር መንክራተ ዘይትነበብ ላዕሌሃ እግዚአብሔር መፍቀሬ ሰብእ ፩ዱ ውእቱ ባሕቲቱ ቃለ አብ ዘሀሎ እምቅድመ ዓለም በመለኮቱ እንበለ ሙስና እም፩ዱ አብ መጽአ ወተሰብአ ወልድ ዋሕድ እምቅድስት እሙ እምድኅረ ወለደቶ ኢማሰነ ድንግልናሃ ወበእንተዝ ግህደ ኮነት ከመ ወላዲተ አምላክ ይእቲ ኦ ዕሙቅ ብዕለ ጥበቡ ለእግዘአብሔር ከርሥ ዘፈትሐ ላዕሌሃ ትለድ በፃዕር ወሕማም ወኃዘነ ልብ ወኮነት ፈልፈለ ሕይወት ወወለደት ዘእንበለ ዘርአ ብእሲ ዘይስዕር መርገመ እምዘመድነ ወበእንተዝ ንስብሖ እንዘ ንብል ስብሕት ለከ ኦ መፍቀሬ ሰብእ ኄር ወመድኃኔ ነፍሳቲነ። ሰአሊ ለነ ቅድስት።",
+            "de": "Wir alle rühme dich, Oh unsere Jungfrau, die Mutter Gottes, damit deine Barmherzigkeit mit uns allen sein möge. Die Jungfrau Maria, die Mutter Gottes, ist unser aller Stolz geworden, denn durch sie wurde der bisherige Fluch, der auf unserer Rasse lag, zerstört, durch die Bosheit, die die Frau beging, als sie von dem Baum aß. Durch Eva wurde die Tür zum Paradies verschlossen, und durch die Jungfrau Maria wurde sie wieder für uns geöffnet. Es steht uns frei, vom Baum des Lebens zu essen, der das Fleisch Christi und sein kostbares Blut ist; aufgrund Seiner Liebe zu uns kam Er und erlöste uns. Welches Verständnis, welche Sprache, und welches Gehör kann dieses Mysterium verstehen, welches so wundervoll verkündet wird: “Gott liebt die Menschen“? Nur Er ist der Eine, das Wort des Vaters, das existierte bevor es die Welt [gab], in Seiner unzerstörbaren Göttlichkeit, von Einem, dem Vater, der Eingeborene Sohn kam, und wurde Mensch durch die heilige Mutter. Nachdem sie ihn geboren hatte, wurde ihre Jungfräulichkeit nicht zerstört.Aufgrund dessen stand es fest, dass sie die Mutter Gottes verstehe Weisheit geht. Der Leib, von dem war. Oh, dass die Gottes tief Er beschlossen hatte, dass er in Schmerzen und Leid, und Sorge des Herzens, gebären sollte, wurde zur Quelle des Lebens, und brachte, ohne den Samen eines Mannes, Ihn hervor, der den Fluch von unserer Rasse hinwegnahm. Dafür lasst Ihn uns preisen und sagen,“Ehre sei Dir, Der die Menschen liebt, Barmherziger, Retter unserer Seelen”. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 3,
+          "text": {
+            "en": "O how wonderful and mighty in power was the womb of the Virgin, which brought forth God without seed! And of this the angel who appeared unto Joseph was a witness when he spake, saying, \"That which shall be born of her is of the Holy Spirit\" (Matthew i. 20). It was the Word of God Who became incarnate without change. Mary brought Him forth a second time. And Gabriel rejoiced and said unto her, \"Thou shalt bring forth a Son and shalt call His Name Emmanuel, which is, being interpreted, God with us. And moreover, He shall be called Jesus, Who shall save His people from their sins\" (Matthew i. 20, 24). And may He save us also be His power, and forgive our sins, because we have known in truth that He is the God Who became man. Praise be unto Him forever and ever. O how wonderful is the birth of God by Mary, the Holy Virgin! She completed the Word of the Father; seed did not precede His Birth, and her virginity was not destroyed by His Birth. The Word went forth from the Father without weariness and was born of the Virgin without suffering (or, pain). The wise men worshipped Him, and brought unto Him incense because He was God, and gold because He was the King, and myrrh, which was given for His death which gave life [unto men]. And for ur sakes He accepted [death] of His own free will. He alone is the Good Being and the Lover of men. We will magnify thee [, O Mary].",
+            "am": "ያለ ወንድ ዘር አምላክን የወለደች ድንግል የማኅፀንዋ ሥራ ምን ይደንቅ? ለዮሴፍ የታየው መልአኩ ከእርስዋ በመንፈስ ቅዱስ የሚወለደው ያለ መለወጥ ሰው የሚሆ ነው የእግዚአብሔር ቃል ነው ብሎ መስክሯልና ማርያም የዚህ ደስታ ዕፅፍ የሆነ እርሱን ወለደችው መልአኩ ልጅ ትወልጃለሽ ስሙም አማኑኤል ይባላል አላት። ትርጓሜውም እግዚአብሔር ከእኛ ጋር ሆነ ማለት ነው። ዳግመኛ ወገኖቹን ከኀጢአታቸው የሚያድናቸው ኢየሱስ ይባላል በችሎታው /በኃይሉ/ ያድነን ዘንድ ኀጢአታችንንም ያስተሠርይልን ዘንድ ለዘላለም ክብር ይግባውና ሰው የሆነ እርሱን አምላክ እንደሆነ በተረዳ ነገር አውቀነዋልና ልዩ ከሆነች ድንግል ማርያም ይህ የአምላክ መወለድ ምን ይደንቅ ቃልን ወሰነችው ልደቱንም ዘር አልቀደመውም በመወለዱም ድንግልናዋን አልለወጠውም ቃል ከአብ ያለ ድካም ወጣ ከድንግልም ያለህማም ተወለደ። ሰብአ ሰገል ሰገዱለት አምላክ ነውና ዕጣን አመጡለት ንጉሥም ነውና ወርቅ አመጡለት ስለኛ በፈቃዱ ለተቀበለው መዳኛችን ለሆነ ሞቱም ከርቤ አመጡለት ቸርና ሰውን ወዳጅ የሆነ አንድ እርሱ ብቻ ነው። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ኦ ዝ መንክር ወዕፁብ ኃይለ ከርሣ ለድንግል ወላዲተ አምላክ ዘእንበለ ዘርእ ስምዐ ኮነ መልአክ ዘአስተርአዮ ለዮሴፍ እንዘ ይብል ከመዝ እስመ ዘይትወለድ እምኔሃ እመንፈስ ቅዱስ ቃለ እግዚአብሔር ውእቱ ተሰብአ ዘእንበለ ውላጤ ወለደቶ ማርያም ምክዕቢተ ዝንቱ ፍሥሐ ወይቤ ትወልዲ ወልደ ወይሰመይ አማኑኤል ዘበትርጓሜሁ እግዚአብሔር ምስሌነ ወዓዲ ይሰመይ ኢየሱስሃ ዘይድኅኖም ለሕዝቡ እምኃጢአቶሙ ያድኅነነ በኃይሉ ወይሥረይ ኃጢአተነ እስመ ጥዩቀ አእመርናሁ ከመ አምላክ ውእቱ ዘኮነ ሰብአ ሎቱ ስብሐት እስከ ለዓለም ኦ ዝ መንክር ልደተ አምላክ እማርያም እምቅድስት ድንግል አግመረቶ ለቃል ኢቀደሞ ዘርእ ለልደቱ ወኢአማሰነ በልደቱ ድንግልናሃ እምኅበ አብ ወፅአ ቃል ዘእንበለ ድካም ወእምድንግል ተወልደ ዘእንበለ ሕማም ሎቱ ሰገዱ ሰብአ ሰገል አምጽኡ ዕጣነ ከመ አምላክ ውእቱ ወርቀ እስመ ንጉሥ ውእቱ ወከርቤ ዘይትወሀብ ለሞቱ ማሕየዊ በእንቲአነ ተወክፈ በፈቃዱ ፩ዱ ውእቱ ባሕቲቱ ኄር ወመፍቀሬ ሰብእ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Oh wie wundervoll und großartig in Stärke war der Leib der Jungfrau, die Gott ohne Samen gebar. Höre, der Engel erschien Josef und sagte, “ Das in ihr geboren ist, das ist von dem Heiligen Geist.” (Mt. 1:20). Es war das Wort Gottes, das ohne Veränderung Mensch wurde. Maria brachte Ihn ein zweites Mal hervor, und [Gabriel] erfreute sich daran, und sagte: “Du wirst einen Sohn gebären und seinen Namen Emmanuel nennen, was übersetzt ist: Gott mit uns.” (Mt. 1:23). “Und noch mehr, Er soll Jesus genannt werden,denn Er wird Sein Volk von ihren Sünden erretten” (Mt. 1:21). Möge er uns durch Seine Macht erlösen, und unsere Sünden vergeben. Denn wir haben verstanden, dass Er Gott ist, Der Mensch wurde, Sein Lobpreis sei für immer und immer. Oh wie wundervoll ist die Geburt Gottes durch die heilige Jungfrau Maria, die das Wort in sich trug; Samen ging Seiner Geburt nicht voraus. Und ihre Jungfräulichkeit wurde durch Seine Geburt nicht zerstört. Das Wort entsprang vom Vater ohne Ermüdung, und wurde durch die Jungfrau ohne Schmerzen geboren; die weisen Männer verbeugten sich vor Ihm, und brachten Ihm Weihrauch, denn Er war Gott, und Gold, denn Er war der König, und Myrrhe, die für Seinen Tod, der uns lebendig machen würde, gegeben wurde. Er empfing es mit Seinem eigenen Willen. Er ist der Eine, der einzige Gott, und Er liebt die Menschen. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 4,
+          "text": {
+            "en": "O how wonderful! He took a rib from the side of Adam, and fashioned from it a woman, and the whole creation of the children of men was given to God, the Word of the Father, Who was incarnate of the Holy Virgin, and is called Emmanuel. And because of this we beseech her at all times to strive on our behalf with her beloved Son for the forgiveness of our sins. She was beneficent towards all the saints and the high priests, for she brought to them that for which they waited, and she brought to the Prophets Him concerning Whom they had prophesied, and she brought forth to the Apostles Him in Whose Name they were to preach in all the ends of the world, and from her went forth for the martyrs and believers Him for Whom they were to fight, Jesus Christ. The richness of the grace of His wisdom cannot be fathomed. We will seek after the greatness of His compassion, for He came and delivered us. We will magnify thee [, O Mary].",
+            "am": "ከአዳም ጎን አንዲት ዐፅም መንሣት ምን ይደንቅ? ከእርሱ ሴትን ፈጠረ የሰው ፍጥረትንም ሁሉ ፈጠረ። ጌታ የአብ ቃል ተሰጠ ከልዩ ድንግልም ሰው ሆነና አማኑኤል ተባለ ስለዚህ ሁልጊዜ እርስዋን እንለምን ከተወደደ ልጅዋ ታማልደን ዘንድ። በቅዱሳንና በሊቃነ ጳጳሳት ሁሉ ዘንድ ቸር ናት። ደጅ የሚጠኑትን ወልዳላቸዋለችና ፤ ለነቢያትም ትንቢት የተናገሩለትን ወልዳላቸዋለችና፤ ለሐዋርያትም እስከ ዓለም ዳርቻ በስሙያስተማሩለትን ወልዳላቸዋለችና ሰማዕታትና ምዕመናንም የተጋደሉለት የጥበቡ ጸጋ ብዛት የማይታወቅ ኢየሱስ ክርስቶስ ከእርስዋ ተወልዷልና የይቅርታውን ብዛት መርምረን እንወቅ /እንፈልግ/ መጥቶ አድኖናልና። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ኦ ዝ መንክር ነሥአ ፩ደ ዐፅመ እምገቦሁ ለአዳም ወለሐኮ እምኔሁ ብእሲተ ወኩሎ ፍጥረተ እጓለ እመሕያው ተውህበ እግዚእ ቃለ አብ ተሰብአ እምቅድስት ድንግል ወተሰምየ አማኑኤል ወበእንተዝ ንስአል ኅቤሃ ኩሎ ጊዜ ከመ ታስተሥሪ በእንቲአነ ኀበ ፍቁር ወልዳ ኄርት ይእቲ በኅበ ኩሎሙ ቅዱሳን ወሊቃነ ጳጳሳት እስመ አምጽአት ሎሙ ዘኪያሁ ይጸንሑ ወለነቢያትኒ አምጽአት ሎሙ ለዘበእንቲአሁ ተነበዩ ወለሐዋርያትኒ ወለደት ሎሙ ዘሰበኩ በስሙ ውስተ ኩሉ አጽናፈ ዓለም ለሰማዕት ወለመሃይምናን ወጽአ እምኔሃ ዘተጋደሉ በእንቲአሁ ኢየሱስ ክርስቶስ ብዕለ ጸጋ ጥበቡ ዘኢይትዐወቅ ንኅሥሥ ዕበየ ሣህሉ እስመ መጽአ ወአድኃነነ። ሰአሊ ለነ ቅድስት።",
+            "de": "Oh, wie wundervoll; Er nahm eine Rippe aus der Flanke Adams und schuff daraus eine Frau, und die ganze Schöpfung der Menschheit wurde dem Herrn gegeben, dem Wort des Vaters, der zum Menschen durch die heilige Jungfrau wurde, und Emmanuel genannt wurde; und aufgrund dessen ersuchen wir sie zu allen Zeiten, dass sie für uns bei ihrem geliebten Sohn eintreten möge and. Sie war gut zu allen Heiligen und Erzbischöfen, denn sie brachte ihnen allen, worauf sie gewartet hatten, und sie brachte den Propheten all das, was sie prophezeit hatten. Und sie brachte den Aposteln Ihn, in Dessen Namen sie in allen Ecken der Welt predigen sollten, und aus ihr kam Derjenige hervor, für Den die Märtyrer und Gläubigen kämpfen sollten, Jesus Christus; die Fülle der Gnade Seiner Weisheit kann nicht verstanden werden. Wir werden nach der Erhabenheit Seiner Barmherzigkeit streben, denn Er kam und erlöste uns. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 5,
+          "text": {
+            "en": "God swore unto David in righteousness, and He will not repent, \"Of the fruit of thy belly I will seat upon thy throne\" (2 Samuel vii., 12; Psalm cxxxii. 11). And when that righteous man received it from Him, that Christ should be born of him in the flesh, he wished to seek out and to prepare a dwelling-place for God, the Word of the Father. And he completed it with great effort and then he cried out in the Holy Sprit and said, \"Behold, we have heard it in Efrâtâ and the dwelling-place of the God of Jacob, which is Bethlehem, in which Emmanuel hath chosen to be born in the flesh for our salvation\" (compare Psalm cxxxii.6).",
+            "am": "እግዚአብሔር የባሕርይህን ፍሬ በዙፋንህ ላይ አኖራለሁ ብሎ ለዳዊት በእውነት ማለ አይጸጸትም። ጻድቅ እርሱ ዳዊት ክርስቶስ በሥጋ ከእርሱ እንዲወለድ ባመነ ጊዜ የእግዚአብሔርን ቃል ማደሪያ ፈልጎ ያገኝ ዘንድ ወደደ ይህንንም በታላቅ ትጋት ፈጸመ ከዚህም በኋላ እነሆ በኤፍራታ ሰማነው ብሎ በመንፈስ ቅዱስ አሰምቶ ተናገረ ። ይህቺውም ዐማኑኤል እኛን ለማዳን በሥጋ ይወለድባት ዘንድ የመረጣት የያዕቆብ አምላክ ማደሪያ ናት። ዳግመኛም ከነቢያት አንዱ ሚክያስ አንቺ የኤፍራታ ክፍል የሆንሽ ቤተልሔም ከይሁዳ ነገሥታት መሳፍንት አገር አታንሺም።ወገኖቹ እስራኤልን የሚጠብቃቸው ንጉሥ ካንች ይወጣልና ከዛሬ ጀምሮ እስከ ዘለዓ ለም ድረስ ከቸር አባቱና ከመንፈስ ቅዱስ ጋር ምስጋና ስለተገባው ስለ ክርስቶስ በአንድ መንፈስ ቅዱስ ትንቢት የተናገሩት የነዚህ የሚክያስና የዳዊት ነገር ምን ይረቅ? ቅድስት ሆይ ለምኝልን።",
+            "gez": "መሐለ እግዚአብሔር ለዳዊት በጽድቅ ወኢይኔስሕ እስመ እምፍሬ ከርሥከ አነብር ዲበ መንበርከ ወሶበ ተወክፎ ውእቱ ጽድቅ ከመ እምኔሁ ይትወለድ ክርስቶስ በሥጋ ፈቀደ ይኅሥሥ ወይርከብ ማኅደሮ ለእግዚአብሔር ቃል ወፈጸመ ዘንተ በዐቢይ ትጋህ ወእምዝ ጸርሐ በመንፈስ ወይቤ ናሁ ሰማዕናሁ በኤፍራታ ወማኅደሮ ለአምላከ ያዕቆብ እንተ ይእቲ ቤተልሔም ዘኅረያ አማኑኤል ይትወለድ ውስቴታ በሥጋ ለመድኃኒተ ዚአነ ካዕበ ይቤላ ካልእ እምነቢያት ወአንቲኒ ቤተልሔም ምድረ ኤፍራታ ኢትቴሐቲ እምነገሥተ ይሁዳ እስመ እምኔኪ ይወፅእ ንጉሥ ዘይርዕዮሙ ለሕዝብየ እስራኤል ኦ ዝ ነገር ለእሉ እለ ተነበዩ ዘበ፩ዱ መንፈስ በእንተ ክርስቶስ ሎቱ ስብሐት ምስለ ኄር አብሁ ወመንፈስ ቅዱስ እምይእዜ ወእስከ ለዓለም። ሰአሊ ለነ ቅድስት።",
+            "de": "Gott hat David einen Treueid geschworen, er wird nicht davon abweichen: «Von der Frucht deines Leibes will ich auf deinen Thron setzen. (Psa. 132:11). Und als dieser rechtschaffene es von Ihm erfahren hatte, dass Christus im Fleisch [als Mensch] geboren werden würde, da wünschte er, einen Aufenthaltsort für Gott, das Wort, zu suchen und vorzubereiten. Und er erfüllte es mit großer Anstregung, und rief im Geiste aus: “ Siehe, wir hören es in Ephrata” (Psa. 132:6). Und der Aufenthaltsort des Gottes Jakobs, der in Bethlehem ist, war der, in dem Emmanuel es sich etwählte, als Mensch für unsere Erlösung geboren zu werden. Und ein anderer der Propheten sagte ebenso: “ Und du, Bethlehem Efrata, das du klein unter den Tausendschaften von Juda bist, aus dir wird mir der hervorgehen, der Herrscher über Israel sein soll” (Mic. 5:1). Oh wie wundervoll ist das Wort derjenigen, die einem Sinn von Christus prophezeit haben, Dem Ehre gebührt, mit Seinem gnädigen Vater, und dem Heiligen Geist, from now on and forever. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 6,
+          "text": {
+            "en": "And also another of the prophets hath said it: \"And as for thee, O Bethlehem [of] the land of Efrâtâ, thou shalt not be the least of the kings of Judah, for from thee shall go forth a King Who shall rule My people Israel\" (Micah v.2). O how wonderful is the word of those who prophesied concerning Christ in one Spirit, to Whom be glory, together with His Good Father and the Holy Spirit, henceforth and forever. We will magnify thee [, O Mary].",
+            "am": "ለእስራኤል የነገሠ ዳዊት ጠላቶቹ በተነሱበት ጊዜ ከቤተልሔም ምንጭ ውሃ ይጠጣ ዘንድ ወደደ የጭፍሮቹ አለቆች ፈጥነው ተነሱና በጠላቶቹ ከተማ ተዋግተው ሊጠጣ የወደደውን አመጡለት ጻድቅ ዳዊትግን ጨክነው ሰውነታቸውን ስለ እርሱ ለጦርነት ለሞት አሳልፈው እንደ ሰጡ ባየ ጊዜ ያን ውሃ አፈሰሰ ከእርሱም አልጠጣም። ከዚህ በኋላ ለዘለዓለም ጽድቅ ሆኖ ተቆጠረለት። ሰማዕታት የዚህችን ዓለም ጣዕም በእውነት ናቁ ደማቸውንም ስለእግዚአብሔር አፈሰሱ ስለመንግስተ ሰማያትም መራራ ሞትን ታገሱ እንደ ይቅርታህ ብዛት ይቅር በለን። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ዳዊት ዘነግሠ ለእስራኤል አመ ይትነሥኡ ላዕሌሁ ዕልዋን ፈትወ ይስተይ ማየ እምዓዘቅተ ቤተልሔም ፍጡነ ተንሥኡ መላእክተ ሐራሁ ወተቃተሉ በውስተ ትዕይንተ ዕልዋን ወአምጽኡ ሎቱ ውእተ ማየ ዘፈተወ ይሰተይ ወሶበ ርእየ ውእቱ ጻድቅ ከመ አጥብዑ ወመጠው ነፍሶሙ ለቀትል በእንቲአሁ ከዐወ ውእተ ማየ ወኢሰትየ እምኔሁ ወእምዝ ተኈለቈ ሎቱ ጽድቅ እስከ ለዓለም አማን መነኑ ሰማዕት ጣዕማ ለዛ ዓለም ወከዓው ደሞሙ በእንተ እግዚአብሔር ወተዐገሡ ሞተ መሪረ በእንተ መንግሥተ ሰማያት ተሠሃለነ በከመ ዕበየ ሣህልከ። ሰአሊ ለነ ቅድስት።",
+            "de": "Als böse Männer sich gegen David erhoben, der über Israel herrschte, wollte er Wasser vom Becken in Bethlehem trinken. Sofort erhoben sich die Hauptmänner seiner Armeen, und führten Krieg gegen das Lager der Rebellen. Und dann brachten sie ihm das Wasser, das er trinken wollte. Und als der rechtschaffene Mann sah, dass sie willens gewesen waren, ihre Seelen im Töten für diesen Zweck aufzugeben, goss er das Wasser aus, und trank nicht davon. (cf. 2 Sam. 13:17, 1 Chr. 11:18-19). Und dann wurde ihm Rechtschaffenheit für immer angerechnet. Und wahrlich, so haben die Märtyrer die Sehnsuch nach dieser Welt zurückgewiesen. Und haben ihr Blut für Gott vergossen, und sind bittere Tode für das himmlische Königreich gestorben. Habe Mitleid mit uns, wie es der Großartigkeit Deiner Barmherzigkeit entspricht. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 7,
+          "text": {
+            "en": "When evil men revolted against David who reigned over Israel, he wished to drink water from the pool of Bethelehem, whereupon straightway the captains of his hosts rose up, and waged war in the camp of the rebels, and brought unto him that water which he wished to drink. And when that righteous man saw that they had willingly delivered themselves over to slaughter for this sake, he poured out that water [unto the Lord] and did not drink of it (2 Samuel xxiii. 13-17; 1Chronicles xi. 18, 19). And then righteousness was accounted unto him forever. And verily in like manner have the martyrs rejected the desire of this world, and poured out their blood for God, and have endured bitter death[s] for the sake of the kingdom of heaven. Have compassion upon us according to the greatness of Thy compassion. We will magnify thee [, O Mary].",
+            "am": "ከቅድስት ሥላሴ አንዱ ወልድ መዋረዳችንን አይቶ፤ ከሰማየ ሰማያት ወርዶ፤ ባሕርይውን ዝቅ አደረገና መጥቶ በድንግል ማኅፀን አደረ። ከብቻዋ ከኃጢአት በቀርም እንደኛ ሰው ሆነ ነቢያት ትንቢት እንደ ተናገሩለት በቤተልሔም ተወለደ። ፈጽሞ አዳነን ወገኖቹም አደረገን። ቅድስት ሆይ ለምኝልን።",
+            "gez": "አሐዱ ዘእምቅድስት ሥላሴ ርእዮ ትሕትናነ አጽነነ ሰማየ ሰማያት መጽአ ወኅደረ ውስተ ከርሠ ድንግል ወኮነ ሰብአ ከማነ ዘእንበለ ኃጢአት ባህቲታ ወተወልደ በቤተልሔም በከመ ሰበኩ ነቢያት አድኃነነ ወቤዘወነ ወረስየነ ሕዝበ ዚአሁ። ሰአሊ ለነ ቅድስት።",
+            "de": "Einer der Heiligen Dreifaltigkeit sah unseren demütigen Zustand, und beugte hernieder den höchsten Himmel, Er kam und weilte im Leib der Jungfrau, und wurde ein Mensch wie wir, Er allein ohne Sünde. Und Er wurde in Bethlehem geboren, wie die Propheten es verkündet hatten. Er erlöste uns, und errettete uns, und machte uns zu Seinem Volk. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 8,
+          "text": {
+            "en": "One of the Holy Trinity saw our low estate, bowed the heaven of heavens, came and dwelt in the womb of the Virgin, and became a man like unto us, with the exception of sin alone. And He was born in Bethlehem, according to what the Prophets preached, He delivered us, and redeemed us, and made us His own people forever and ever.",
+            "am": null,
+            "gez": null,
+            "de": null
+          }
+        }
+      ]
+    },
+    {
+      "chapter": "friday",
+      "chapter_name": {
+        "en": "A Hymn of Praise for Sabbath Eve (Friday)",
+        "am": "ዐርብ የሚጸለይ አምላክን የወለደች የእመቤታችን የድንግል ማርያም ምስጋና አምስተኛ ክፍል",
+        "gez": "ውዳሴሃ ለእግዝእትነ ማርያም ድንግል ወላዲተ አምላክ ዘይትነብ በዕለተ ዓርብ።",
+        "de": "Die Lobpreisung Unserer Jungfrau Maria, der Mutter Gottes, die am Freitag Gelesen Wird."
+      },
+      "sections": [
+        {
+          "section": 1,
+          "text": {
+            "en": "Blessed art thou among women, and blessed is the fruit of thy womb, O Mary the Virgin, the spotless God-bearer. From thee hath risen upon us the Sun of righteousness, and He hath drawn us near [to Him] under His wings, for He hath created us. Thou thyself alone, O our Lady, the God-bearer, art the Mother of the Light. We will magnify thee with glorifying and praising. Blessed art thou! Thou art greater than heaven, and more glorious than earth, and exalted above the conception of every mind; who is able to declare thy greatness? There is none who can be compared with thee, O Mary the Virgin. The angels magnify thee, and the Seraphim praise thee, for He Who dwelleth upon the Cherubim and Seraphim came and took up His abode in thy womb. The Lover of men hath brought us nigh unto Himself, the death that belonged to us He hath removed, and hath given unto us the Life that was His, To Him belong glory, and praise. To thee.",
+            "am": "ከሴቶች ተለይተሽ የተባረክሽ ነሽ የማኅፅንሽም ፍሬ የተባረከ ነው ያለ ርኩሰት አምላክን የወለድሽ ድንግል ማርያም ሆይ እውነተኛ ፀሐይ ከአንቺ ወጣልን /ጌታ ተወለደልን/ በክንፈ ረድኤቱም አቀረበን እርሱ ፈጥሮና ልና። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ቡርክት አንቲ እምአንስት ወቡሩክ ፍሬ ከርሥኪ ኦ ማርያም ድንግል ወላዲተ አምላክ ዘእንበለ ርኩስ ሠረቀ ለነ እምኔኪ ፀሐየ ጽድቅ ወአቅረበነ ታሕተ ክነፊሁ እስመ ውእቱ ፈጠረነ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Gesegnet bist du unter den Frauen, und gesegnet ist die Frucht deines Leibes, Oh Jungfrau Maria, die Mutter Gottes, die ohne Unreinheit ist. Von dir aus ist für uns die Sonne der Rechtschaffenheit aufgegangen. Und Er hat uns nahe zu sich gebracht, unter seine Schwingen, denn Er hat uns erschaffen. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 2,
+          "text": {
+            "en": "Blessed art thou, Mary, and blessed is the Fruit of thy womb. O virgin God- bearer, the glory of [all] virgins; He Who existed before the world became incarnate of thee. The Ancient of days came forth from thy womb, He took our flesh, and gave us His Holy Spirit, and in His abundant goodness made us co-equals with Him. Thou art greater than many women who have received grace and honour, O Mary the God-bearer, thou spiritual city wherein God the Most High took up His abode. Him Who sitteth above the Cherubim an Seraphim hast thou clasped with the hand. And He, Who of His abundant goodness feedeth every being of flesh, hath taken thy breast and sucked milk there-from – He Who is our God and the Redeemer of all, He shall shepherd us for ever. Let us worship Him and praise Him, for He hath created us. To thee.",
+            "am": "አምላክን የወለድሽ እመቤታችን ሆይ የብርሃን እናት ነሽና አንቺን ብቻሽን በክብር በምስጋና እናገንሻለን የተባረክሽ አንቺ ከመላእክት ትበልጫለሽ ከደቂቀ አዳምም ትበልጫለሽ ከአሳቦች ሁሉ ትበልጫለሽ ገናንነትሽን መናገር የሚቻለው ማነው አንቺን የሚመ ስል የለምና ማርያም ሆይ መላእክት ያገኑሻል ሱራፌልም ያመሰግኑሻል በኪሩቤልና በሱራፌል ላይ አድሮ የሚኖር ጌታ መጥቶ በማኅጸንሽ አድርዋልና ሰውን የሚወድ ወደ እርሱ አቀረበን ክብር ምስጋና ያለው እርሱ የእኛን ሞት ተቀብሎ የእርሱን ሕይወት ለእኛ ሰጠን። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ለኪ ለባሕቲትኪ ኦ እግዚእትነ ወላዲተ አምላክ እመብርሃን አንቲ ናዐብየኪ በስብሐት ወበውዳሴ። ቡርክት አንቲ ተዐብዩ እምሰማይ ወትከብሪ እምድር ወላዕለ ኩሉ ሕሊናት መኑ ዘይክል ነቢበ ዕበየኪ ወአልቦ ዘይመስል ኪያኪ ኦ ማርያም መላእክት ያዐብዩኪ ወሱራፌል ይሴብሑኪ እስመ ዘይነብር ዲበ ኪሩቤል ወሱራፌል መጽአ ወኅደረ ውስተ ከርሥኪ መፍቀሬ ሰብእ አቅረበነ ኅቤሁ ዘዚአነ ሞተ ነሥአ ወእንቲአሁ ሕይወተ ወሀበነ ዘሎቱ ክብር ወስብሐት። ሰአሊ ለነ ቅድስት።",
+            "de": "Oh unsere Jungfrau, Mutter Gottes, Mutter des Lichts; dich allein ehren wir mit Ruhm und Lobpreis. Du bist gesegnet, großartiger als der Himmel, und ruhmreicher als die Erde, und über dem Verständnis aller. Wer kann deine Erhabenheit verkünden, und niemand ist vergleichbar mit dir, Oh Maria; die Engel preisen dich, und die Seraphime loben dich, denn Er, Der über den Cherubimen und Seraphimen sitzt, kam und weilte in deinem Leib. Er, Der die Menschen liebt, brachte uns zu Ihm selbst. Er hat uns vom Tod emporgehoben, und uns Leben gegeben. Ihm sei Ehre und Lobpreis. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 3,
+          "text": {
+            "en": "Mary the Virgin is the vessel of priceless ointment, the fountain-head (or, spring) of the water of life. The Fruit of her womb hath saved all the world, and abolished the curse which lay upon us, and made peace [to be] among us. By His Cross and by His holy Resurrection hath He brought man back again into the Garden (i.e. Paradise). To thee.",
+            "am": "የደናግል መመኪያቸው አምላክን የወለድሽ ድንግል ማርያምሆይ የተባረክሽ ነሽ የማኅፀንሽም ፍሬ የተባረከ ነው ከዓለም በፊት የነበረ እርሱ ሰው ሆኖዋልና ከአንቺ የተወለደ ሥጋችንን ነሣ/ተዋሐደ/ መንፈስ ቅዱስንም ሰጠን በቸርነቱ ብዛት መሳዮቹ አደረገን ጸጋንና ክብርን ከተቀበሉ ብዙ ሴቶች አንቺ ትበልጫለሽ አምላክን የወለድሽ ማርያም ሆይ ልዑል እግዚአብሔር ያደረብሽ /የከተመብሽ/ ረቂቅ ከተማ ነሽ በኪሩቤልና በሱራፌል ላይ የሚኖረውን ጌታንበመኻል እጅሽ ይዘሺዋልና በቸርነቱ ብዛት ስጋዊ ፍጥረትን ሁሉ የሚመግብ እርሱ ጡትሽን ይዞ ጠባ። ይኸውም ሁሉን የሚያድን አምላካችን ነው ለዘለዓለሙይጠብቀናል እንሰግድለትና እናመሰግነው ዘንድ እርሱ ፈጥሮናልና። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ቡርክት አንቲ ማርያም ወቡሩክ ፍሬ ከርሥኪ ኦ ድንግል ወላዲተ አምላክ ምክሖን ለደናግል ዘእምቅድመ ዓለም ህልው ተሰብአ እምኔኪ ብሉየ መዋዕል ወፅአ እምከርስኪ ሥጋነ ነሥአ ወመንፈሶ ቅዱሰ ወሀበነ ወረሰየነ ዕሩያነ ምስሌሁ በብዝኅ ኂሩቱ አንቲ ተዐብዩ እምብዙኃት አንስት እለ ነሥአ ጸጋ ወክብረ ኦ ማርያም ወላዲተ አምላክ ሀገር መንፈሳዊት ዘኅደረ ላዕሌሃ እግዚአብሔር ልዑል እስመ ዘይነብር ዲበ ኪሩቤል ወሱራፌል በእራኅኪ ሐቀፍኪዮ ወዘይሴሲ ለኩሉ ዘሥጋ በብዝኀ ኂሩቱ አኅዘ አጥባተኪ ወጠበወ ሀሊበ ዘውእቱ አምላክነ መድኃኔ ኩሉ ይርዕየነ እስከ ለዓለም ንስግድ ሎቱ ወንስብሖ እስመ ውእቱ ፈጠረነ። ሰአሊ ለነ ቅድስት።",
+            "de": "Gesegnet seist du, Maria, und gesegnet ist die Frucht deines Leibes. Oh Jungfrau, Mutter Gottes, der Ruhm der Jungfrauen. Er, der vor der Welt existierte, wurde durch dich Mensch, der Ewige Gott kam aus deinem Leib hervor, Er nahm unsere Gestalt an. Er gab uns den Heiligen Geist. In Seiner großen Güte sah Er uns als Ihm zugehörig; du bist großartiger als viele Frauen, denen große Ehre zuteil wurde. Oh Maria, Mutter Gottes, du bist ein geistliches Land in dem Gott, der Herr, verweilte. Ihn, der über den Cherubimen und Seraphimen sitzt, hast du in deiner Hand gehalten, und Er wird alle nähren; Er wird uns bis in alle Ewigkeit bekannt sein – lasst uns uns vor Ihm verbeugen und Ihn verehren. Denn Er hat uns erschaffen. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 4,
+          "text": {
+            "en": "Mary, the pure Virgin, the Bearer of God, prayeth continully with compassion for the children of men. Pray thou for us to thy Son Christ that He may forgive us and have compassion upon us. To thee.",
+            "am": "ድንግል ማርያም የሽቱ መኖሪያና የሕይወት ውሃ ምንጭ ናት የማኅፀንዋ ፍሬ ሰውን ሁሉ አድንዋልና። ከእኛም እርግማንን አጠፋልን። በመካከላችንም ሆኖ በመስቀሉ አስታረቀን በልዩ ትንሳኤውም ሰውን ዳግ መኛ ወደ ገነት መለሰው። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ማርያም ድንግል ሙዳየ ዕፍረት ነቅዐ ፈልፈለ ማየ ሕይወት ፍሬ ከርሣ አድኃነ ኩሎ ዓለመ ወሠዐረ እምኔነ መርገመ ወገብረ ሰላመ ማእከሌነ በመስቀሉ ወበትንሣኤሁ ቅድስት አግብኦ ለብእሲ ዳግመ ውስተ ገነት፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Maria, die Jungfrau, ist das Gefäß des Parfüms, die Quelle, aus der das Wasser des Lebens entspringt; die Frucht ihres Leibes hat die Welt erlöst, und den Fluch aufgehoben, der auf uns lag. Und Er brachte Frieden unter uns. Durch Sein Kreuz und durch Seine heilige Auferstehung hat er den Menschen zurück ins Paradies gebracht. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 5,
+          "text": {
+            "en": "Mary the Virgin cried out in the Sanctuary, saying, \"God knoweth that I know no one and nothing more than the sound of the voice of the angle, who with hnour brought unto me glad tidings, and said unto me, 'Peace be unto thee, O holy Virgin. Thou shalt carry Him Who cannot be carried, and shalt contain Him Who cannot be contained, and Whom nothing can contain.\" Thy praise shall be abundant, O thou who art full of grace and honour, for thou didst become the dwelling-place of the Word of the Father. Thou art the tent that is spread out (i.e. Pitched) and that gathereth together believing Christian folk, and teacheth them to worship the life-giving Trinity.",
+            "am": "ንጽሕት ድንግል ማርያም የታመነች አምላክን የወለደች ናት። ለሰዎች ልጆችም የምሕረት አማላጅ ናት። ኃጢአታችንን ያስተሠርይልን ዘንድ ወደ ልጅሽ ወደ ክርስቶስ ለምኝልን። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ማርያም ንጽሕት ድንግል ወላዲተ አምላክ ማእምንት ሰአሊተ ምሕረት ለውሉደ ሰብእ ሰአሊ ለነ ኅበ ክርስቶስ ወልድኪ ይሥረይ ኃጢአተነ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Maria, die reine Jungfrau, die Mutter Gottes, betet ständig aus Mitgefühl für die Menschenkinder. Bete für uns zu Christus, deinem Sohn, dass Er unsere Sünden vergeben möge. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 6,
+          "text": {
+            "en": "Thou art she who bore the Pillar of fire, which Moses saw, that is to say, the Son of God, Who came and dwelt in thy womb. Thou wast the Ark of the Creator of the heavens and the earth. Thou didst carry Him in thy womb nine months. Thou hadst in trust Him Whom the heavens and the earth cannot contain. Thou wast the Ladder whereby man ascended into heaven. Thy light is greater than the light of the sun.",
+            "am": "ድንግል ማርያም በቤተ መቅደስ አሰምታ ትናገር ነበር መልአኩ ቅድስት ድንግል ሆይ ሰላምታ ይገባሻል ብሎ አክብሮ ከነገረኝ ነገር በቀር ምንም ምን ሌላ የማውቀው ነገር እንደሌለኝ እግዚአብሔር ያውቃል አለች። የማይቻለውን ቻልሽ የማይወሰነውንና ምንም ምን የሚወስነው የሌለውን ወሰንሽ። በክብር ሁሉ ላይ ጸጋን የተመላሽ ሆይ ምስጋናሽ ይበዛል ክብርሽ ፍጹም ነው። የአብ ቃል ማደሪያ ሆነሻልና የክርስቲያን ወገኖች ምዕመናንን የምትሰበስቢያቸውና ማሕየዊ የሚያድኑን ለሆኑ ለሥላሴ ሰጊድን/መስገድን/ የምታስተ ምሪላቸው ሰፊ መጋረጃ ሙሴ ያየውን የእሳት አምድ የተሸከምሽ አንቺ ነሽ ይኸውም መጥቶ በማሕፀንሽ ያደረው የእግዚአብሔር ልጅ ነው። ሰማይንና ምድርን ለፈጠረ ጌታ ማደሪያ ሆንሽ። ዘጠኝ ወር በማሕፀንሽ ተሸከምሽው ሰማይና ምድር ለማይወስኑት የታመንሽ አንቺ ነሽ። ከምድር ወደ ሰማይ ለማረግ መሰላል ሆንሽ። ብርሃንሽ ከፀሐይ ብርሃን ይበልጣል። ቅዱሳን በፍጹም ደስታ ያዩት ኮከብ ከአንቺ የተወለደ ምስራቅ አንቺ ነሽ። ይኸውም በጻዕርና በምጥ ትወልድ ዘንድ በሔዋን የፈረደባት ነው። አንቺ ማርያም ግን ጸጋን የተመላሽ ሆይ ደስ ይበልሽ የሚል ቃልን ሰማሽና መጥቶ ያዳነን የፍጥረት ሁሉ ገዥ የሆነ ንጉሥን ወለድሽልን መሐሪ ነው ሰውንም ወዳጅ ነው። ስለዚህ ማርያም ሆይ የተባረክሽ ነሽ የማሕፀንሽም ፍሬ የተባረከ ነው ጸጋን የተመላሽ ሆይ እግዚአብሔር ከአንቺ ጋር ነውና ደስ ይበልሽ እያልን መልአኩ ገብርኤል እንዳመሰገነሽ እናመሰግንሻለን። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ማርያም ድንግል ትጸርሕ በቤተ መቅደስ ወትብል የአምር እግዚአብሔር ከመ አልብየ ዘየአምር ባዕድ ወኢምንትኒ ዘእንበለ ድምፀ ቃሉ ለመልአክ ዘአብሠረኒ በክብር ወይቤለኒ ሰላም ለኪ ኦ ቅድስት ድንግል ፆርኪ ዘኢይፀወር አግመርኪ ዘይትገመር ወአልቦ ዘያገምሮ ምንትኒ ይበዝኅ ውዳሴኪ ኦ ምልእተ ጸጋ በኩሉ ክብር እስመ ኮንኪ አንቲ ማሕደረ ቃለ አብ አንቲ ውእቱ መንጦላዕት ስፍህት አንተ ታስተጋብኦሙ ለመሃይምናን ሕዝበ ክርስቲያን ወትሜህሮሙ ሰጊደ ለሥሉስ ማሕየዊ አንቲ ውእቱ ዘፆርኪ ዓምደ እሳት ዘርእየ ሙሴ ዘውእቱ ወልደ እግዚአብሔር መጽአ ወኃደረ ውስተ ከርሥኪ ኮንኪ ታቦቶ ለፈጣሬ ሰማያት ወምድር ፆርኪዮ በከርሥኪ ፱ተ አውራኃ አንቲ ማእምንት ለዘኢያገምርዎ ሰማያት ወምድር ኮንኪ ተንከተመ ለዕርገተ ውስተ ሰማይ ብርሃንኪ የዐቢ እምብርሃነ ፀሐይ አንቲ ውእቱ ምስራቅ ዘወፅአ እምኔኪ ኮከብ ብሩህ ዘነፀርዎ ቅዱሳን በፍሥሐ ወበኃሤት ዘፈትሃ ላዕለ ሔዋን ትለድ በፃዕር ወሕማም አንቲሰ ማርያም ሰማዕኪ ዘይብል ተፈሥሒ ኦ ምልእተ ጸጋ ወለድኪ ለነ ንጉሠ እግዚአ ኩሉ ፍጥረት መጽአ ወአድኅነነ እስመ መሐሪ ውእቱ ወመፍቀሬ ሰብእ በእንተዝ ንዌድሰኪ በከመ ገብርኤል መልአክ እንዘ ንብል ቡርክት አንቲ ማርያም ወቡሩክ ፍሬ ከርሥኪ ተፈሥሒ ኦ ምልእተ ጸጋ እግዚአብሔር ምስሌኪ። ሰአሊ ለነ ቅድስት።",
+            "de": "Maria, die Jungfrau, rief im Tempel aus, und sagte, “Gott weiß, dass ich keinen Fremden kenne, und nichts außer der Stimme mit den Worten des Engels, der, mit Ehre, mir gute Nachrichten brachte, und zu mir sagte: “Friede sei mit dir, Oh heilige Jungfrau. Du trägst Ihn, der nicht getragen wird, und die enthältst Ihn, der nicht enthalten wird, und Den nichts enthalten kann.” Lass deinen Lobpreis reichlich sein, Oh du voll der Gnade und Ehre, denn du warst der Wohnort des Wortes des Vaters; du bist das Tabernakel, das über die Gläubigen und die Christenheit ausgebreitet wird, und sie lehrt, sich vor den lebensspendenden/ erlösenden Drei [d.h. Der Dreifaltigkeit] zu verneigen. Du bist diejenige, die die Flammensäule gebar, die Moses sah, die der Sohn Gottes war, Der kam und in deinem Leib verweilte. Du warst die [Bundes]Lade des Schöpfers des Himmels und der Erde. Du trugst Ihn in deinem Leib für neun Monate; du vertrautest Ihm, den die Himmel und die Erde nicht begrenzen können. Du warst die aufsteigende Leiter zum Himmel. Dein Licht is großartiger als das Licht der Sonne; du bist der Osten, und aus dir kam ein leuchtender Stern hervor, den die Heiligen mit Freude und Frohsinn betrachteten, und Der ein Urteil gegen Eva fällte,“Mit Schmerzen und Leid sollst du Kinder gebären”. Aber du, Maria, hörtest ihn, der sagte, “Freue dich, Oh du voll der Gnade. Du hast uns den König und Herrn geboren, der kam und alle Schöpfung erlöste. Er ist der Gnädige, der die Menschen liebt, und deswegen preisen wir dich, wie es der Engel Gabriel tat, und sagen, , “Gesegnet seist du, Maria, und gesegnet ist die Frucht deines Leibes.“ Freue dich, Oh du voll der Gnade, Gott ist mit dir. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 7,
+          "text": {
+            "en": "Thou art the eastern horizon, whereout came the brilliant star which the saints looked upon with joy and gladness. The decree that God passed upon Eve was, \"Thou shalt bring froth children with toil and suffering,\" but thou didst hear a voice, saying, \"Rejoice, O full of grace, thou hast brought forth for us the Word of the Father, the King , the God of all creation.\" He came and delivered us, for He is the Compassionate Lover of men. And because of this we praise thee, even as did the Angel Gabriel, saying, \"Blessed art thou among women, and blessed is the Fruit of thy womb; rejoice, O thou who art full of grace, God is with thee!\"",
+            "am": null,
+            "gez": null,
+            "de": null
+          }
+        }
+      ]
+    },
+    {
+      "chapter": "saturday",
+      "chapter_name": {
+        "en": "A Hymn of Praise for the Six Day (Saturday)",
+        "am": "ቅዳሜ የሚጸለይ አምላክን የወለደች የእመቤታችን ድንግል ማርያም ምስጋና ስድስተኛ ክፍል",
+        "gez": "ውዳሴሃ ለእግዚእትነ ማርያም ድንግል ወላዲተ አምላክ ዘይትነበብ በዕለተ ቀዳሚት ሰንበት።",
+        "de": "Die Lobpreisung Unserer Jungfrau Maria, der Mutter Gottes, die am Samstag, dem Sabbat, Gelesen Wird."
+      },
+      "sections": [
+        {
+          "section": 1,
+          "text": {
+            "en": "Pure and shining, holy and praiseworthy art thou in everything, O thou who hast clasped the Lord in her hand. All creation rejoiceth with her, and crieth out, saying, \"Rejoice, O full of grace, rejoice thou, for thou hast found favour; rejoice thou, for God is with thee.\"",
+            "am": "ንጽሕት ነሽ ብርህትም ነሽ ጌታን በመኻል እጅሽ የያዝሽው ሆይ በሁሉ የተቀደስሽ ነሽ ፍጥረቱ ሁሉ ቅድስት ሆይ ለምኝልን። ብለው እየጮሁ ከአንቺ ጋር ደስ ይላቸዋል። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ንጽሕት ወብርህት ወቅድስት በኩሉ እንተ ሐቀፈቶ ለእግዚእ በእራኃ ወኩሉ ፍጥረት ይትፌሥሑ ምስሌሃ እንዘ ይጸርሑ ወይበሉ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Rein und glänzend und heilig in allem, die den Herrn in ihrer Hand umschlossen hielt, und die gesamte Schöpfung freut sich mit ihr, ruft laut und sagt. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 2,
+          "text": {
+            "en": "We ascribe blessings to thy greatness, O awesome Virgin, and we send to thee joy with the angel Gabriel, for the Fruit of thy womb hath become the salvation of our race, and hath brought us nigh unto God His Father. Rejoice thou.",
+            "am": "ጸጋን የተመላሽ ሆይ ደስ ይበልሽ ባለሟልነትን አግኝተሻልና ደስ ይበልሽ እግዚአብሔር ከአንቺ ጋር ነውና ደስ ይበልሽ ግርማ የለሽ ድንግል ሆይ ገናንነትሽን እናመሰግናለን እናደንቃለን እንደ መልአኩ ገብርኤልም ምስጋና እናቀርብልሻለን የባሕርያችን መዳን በማሕፀንሽ ተገኝቷልና ወደ አባቱ ወደ እግዚአብሔርም አቀረበን። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ተፈስሒ ኦ ምልእተ ጸጋ ተፈስሒ እስመ ረከብኪ ሞገሰ ተፈስሒ እግዚአብሔር ምስሌኪ። ናስተበፅዕ ዕበየኪ ኦ ግርምት ድንግል ወንፌኑ ለኪ ፍሥሐ ምስለ ገብርኤል መልአክ እስመ እምፍሬ ከርሥኪ ኮነ መድኃኒተ ዘመድነ ወአቅረበነ ኅበ እግዚአብሔር አቡሁ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "“Freue dich, Oh [du] voll der Gnade, freue dich, denn du hast Gnade mit Gott gefunden, freue dich, [denn] Gott ist mit dir.” Wir ehren deine Großartigkeit, Oh wun- dervolle Jungfrau, und wir senden dir Freude durch den Engel Gabriel, denn die Frucht deines Leibes war die Erlösung unserer Rasse, und hat uns nahe zu Gott gebracht, Seinem Vater. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 3,
+          "text": {
+            "en": "As at a marriage undefiled the Holy Ghost took up His abode in thee, and the power of the Most High overshadowed thee. O Mary, verily thou hast brought forth for us the Word, the Son of the Father, Who welleth (or, existeth) for ever. He came and saved us from sin. Rejoice thou.",
+            "am": "እንደ ሰርግ ቤት ጉድፍ የሌለብሽ ነሽ መንፈስ ቅዱስ አድሮብሻልና የልዑል ኃይልም ጸልሎሻልና ማርያም ሆይ ለዘለዓለም የሚኖር መጥቶ ከኀጢአት ያዳነን የአብ ልጅ ቃልን በእውነት ወለድሽ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ከመ ከብካብ ዘአልቦ ጥልቀት መንፈስ ቅዱስ ኅደረ ላዕሌኪ ወኃይለ ልዑል ጸለለኪ ኦ ማርያም አማን ወለድኪ ቃለ ወልድ አብ ዘይነብር ለዓለም መጽአ ወአድኅነነ እምኃጢአት፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Wie in einer Ehe ohne Entweihung verweilte der Heilige Geist in dir, und die Macht des Herrn überschattete dich; Oh Maria, du hast wahrlich das Wort geboren, den Sohn des Vater, Der für immer existiert, Er kam und erlöste uns von Sünde. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 4,
+          "text": {
+            "en": "Thou art the young Shoot from the root of David. Thou hast brought forth for us in the flesh our Savior Jesus Christ, the Only-begotten Word, Who was of the Father, Who was hidden before the world, and hiding Himself took from thee the form (or, appearance) of a slave. Rejoice thou.",
+            "am": "ከዳዊት ሥር የተገኘሽ ባሕርይ/ዘር/አንቺ ነሽ መድኃኒታችን ኢየሱስ ክርስቶስን በስጋ ወልደሽልናልና ከአብ የተወለደ ከዓለም በፊት የነበረ አንዱ ቃል ራሱን/ባሕርዩን/ ሰውረ ከአንቺም የተገዥን/የሰውን/ አርአያ ነሣ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "አንቲ ውእቱ ዘመድ ዘእምሥርወ ዳዊት ወለድኪ ለነ በሥጋ መድኃኒነ ኢየሱስ ክርስቶስ ዋሕድ ቃል ዘእምአብ ዘእምቅድመ ዓለም ህልው ኅብአ ርእሶ ወነሥአ እምኔኪ አርአያ ገብር፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Du bist der Nachwuchs vom Samen Davids. Du hast uns im Fleisch unseren Erlöser Jesus Christus geboren, das Eingeborene Wort des Vaters, Das vor der Welt existierte; Er verbarg Seine Überlegenheit, und nahm von uns die Form eines Dieners an. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 5,
+          "text": {
+            "en": "Thou art the Second Heaven over the earth, O spotless God-bearer. From thee hath risen upon us the Sun of righteousness, and thou didst bring Him forth, according to the prophecy of the Prophets, without seed and without defilement. Rejoice thou.",
+            "am": "አምላክን ያለርኩሰት የወለድሽው ሆይ የምድር ፪ተኛ ሰማይን ሆንሽ እውነተኛ ፀሐይ ከአንቺ ወጥቶልናልና እንደ ነቢያት ትንቢትም ያለዘርና ያለመለወጥ ወለድሽው። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ኮንኪ ዳግሚተ ሰማይ ዲበ ምድር ኦ ወላዲተ አምላክ ዘእንበለ ርኩስ ሠረቀ ለነ እምኔኪ ፀሐየ ጽድቅ ወወለድኪዮ በከመ ትንቢተ ነቢያት ዘእንበለ ዘርእ ወኢሙስና፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Du bist der zweite Himmel über der Erde, Oh Mutter Gottes, die ohne Unreinheit ist. Aus dir ist für uns die Sonne der Rechtschaffenheit aufgegangen, und du hast ihn geboren, entsprechend der Prophezeiung der Propheten, ohne Samen, und ohne Schändung. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 6,
+          "text": {
+            "en": "Thou art that Tabernacle which was called \"Holy of Holies\", wherein was the Ark (Tâbôt) which was covered on all sides with plates of gold, and had therein the Table of the Covenant and the pot of gold of the hidden manna, that is to say, the Son of God. He came and dwelt with Mary, the Virgin without blemish. He was incarnate of her, and she brought forth in the world the King of Glory. He came and delivered us. The Garden (i.e. Paradise) shall rejoice, for the Lamb that is endowed with reason, the Son of the Father, Who dwelleth for ever, hath come and delivered us from sin. Rejoice thou.",
+            "am": "ከተለዩ የተለየች የተባልሽ የኪዳን ጽላት ያለብሽ የተሰወረ መና ያለበት የወርቅ መሶብ ያለብሽ ደብተራ ድንኳን አንቺ ነሽ ይኸውም መና የተባለው መጥቶ በድንግል ማርያም ማኅፀን ያደረው የእግዚአብሔር ልጅ ነው የአብ ቃል በእርስዋ ሰው ሆነ መጥቶ ያዳነን የባሕርይ ንጉሥን በዓለም ውስጥ ወለደችው የሚናገር በግ የክርስቶስ እናቱ ገነት ደስ ይላታል ለዘለዓለም የሚኖር የአብ ልጅ እርሱ መጥቶ ከኀጢአት አድኖናልና። ቅድስት ሆይ ለምኝልን።",
+            "gez": "አንቲ ውእቱ ደብተራ እንተ ተሰመይኪ ቅድስተ ቅዱሳን ወውስቴታ ታቦት በወርቅ ልቡጥ እምኩለሄ ወውስቴታ ጽላተ ኪዳን መሶበ ወርቅ እንተ መና ኅቡእ ዘውእቱ ወደ እግዚአብሔር መጽአ ወኅደረ ኅበ ማርያም ድንግል ዘእንበለ ርኩስ ተሰብአ እምኔሃ ቃለ አብ ወወለደቶ ውስተ ዓለም ለንጉሠ ሰብሐት መጽአ ወአድኅነነ ትትፌሣሕ ገነት እመ በግዕ ነባቢ ወልደ አብ ዘይነብር ለዓለም መጽአ ወአድኅነነ እምኃጢአት፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Du bist das Tabernakel, das “Allerheiligste” genannt wurde. Und darin war die [Bundes]Lade, die überall mit goldenen Platten bedeckt war, ud darin waren die Tafeln des Bündnisses. Und das goldene Gefäß, das das versteckte Manna enthielt, welches der Sohn Gottes ist; Er kam und verweilte bei der Jungfrau Maria, die ohne Schande war; Er wurde durch sie Mensch, [als] das Wort des Vaters, und Er wurde als König der Ehre in die Welt hinein geboren; Er kam und erlöste unse; das Paradies soll sich freuen wegen des Lamms, das spricht [d.h. Verständnis hat], dem Sohn des Vaters, der ewig lebt, kam und erlöste uns Sünde. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 7,
+          "text": {
+            "en": "Thou art called the Mother of Christ, the King. After thou didst bring Him forth, thou didst continue in thy spotless virginity through a marvellous mystery. Thou didst bring forth Emmanuel, and because of this thou didst preserve thyself undefiled. Rejoice thou.",
+            "am": "የንጉሥ ክርስቶስ እናቱን ተባልሽ እርሱን ከወለድሽ በኋላ በድንግልና ኖርሽ ድንቅ በሆነ ምሥጢር/ተዋሕዶ/ አማኑኤልን ወለድሽው ስለዚህም ባለመለወጥ አጸናሽ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ተሰመይኪ እመ ለክርስቶስ ንጉስ እምድኅረ ወለድኪ ኪያሁ ነበርኪ በድንግልና በመንክር ምሥጢር ወለድኪዮ ለአማኑኤል ወበእንተዝ ዐቀበኪ እንበለ ሙስና ሰአሊ ለነ ቅድስት።",
+            "de": "Du wirst die Mutter Christi genannt, des Königs. Nachdem du ihn geboren hattest, bestand deine Jungfräulichkeit durch eine wunderbares Mysterium weiter, und du gebarst Emmanuel, und bliebst deswegen ohne Unreinheit. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 8,
+          "text": {
+            "en": "Thou art the Ladder on which Jacob saw the Son of God for thou hast carried in thy sealed womb Him Who could not be touched. Thou hast become for us an intercessor with our Lord Jesus Christ, Who became incarnate of thee for our salvation. Rejoice thou.",
+            "am": "እግዚአብሔር በላይዋ ተቀምጦባት ያዕቆብ ያያት መሰላል አንቺ ነሽ በሁሉ በኩል የማይመረመር እርሱን ተፈትሖ በሌለበት ማኅፀንሽ ተሸክመሽዋልና እኛን ስለማዳን ከአንቺ ሰው በሆነ በጌታችን በኢየሱስ ክርስቶስ ዘንድ አማላጅ ሆንሽን። ቅድስት ሆይ ለምኝልን።",
+            "gez": "አንቲ ውእቱ ሰዋስው ዘርእየ ያዕቆብ እግዚአብሔር ላዕሌሁ እስመ ፆርኪ በከርሥኪ ኅቱም ዘኢይትዓወቅ እምኩለሄ ኮንኪ ለነ ሰአሊተ ኅበ እግዚእነ ኢየሱስ ክርስቶስ ዘተሰብአ እምኔኪ በእንተ መድኃኒትነ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Du bist die Leiter, auf der Jakob Gott sah. Denn du trugst Ihn in deinem versiegelten Leib, Ihn, Der in keiner Weise bekannt war. Du bist eine Fürsprechering für uns bei unserem Herrn Jesus Christus geworden, Der von dir Mensch wurde, für unsere Erlösung. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 9,
+          "text": {
+            "en": "Behold, the Lord came forth from thee, O blessed Lady, thou undefiled Bride-chamber, to save the whole world which He had created in His abundant compassion and mercy. We glorify Him and we praise Him for He is the Beneficent One, the Lover of men. Rejoice thou.",
+            "am": "የተባረክሽና ንጽሕት የሆንሽ አዳራሽ ሆይ እነሆ ጌታ የፈጠረውን ዓለም ሁሉ በይቅርታው ብዛት ያድን ዘንድ ካንቺ ወጣ/ተወለደ/ፈጽመን እናመስግነው ቸርና ሰውን ወዳጅ ነውና። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ናሁ እግዚእ ወፅአ እምኔኪ ኦ ቡርክት ጽርሕ ንጽህት ያድኅን ኩሎ ዓለመ ዘፈጠረ በዕበየ ሣህሉ ንሰብሖ ወንወድሶ እስመ ውእቱ ኄር ወመፍቀሬ ሰብእ። ሰአሊ ለነ ቅድስት።",
+            "de": "Siehe, der Herr kam hervor von dir, Oh gesegnete, das reine Gefäß, um die ganze Welt, die Er in seiner großen Güte erschaffen hatte, zu erlösen; lasst Ihn uns preisen und verehren. Denn Er ist gut, und liebt die Menschen. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 10,
+          "text": {
+            "en": "Rejoice thou, O full of grace. Virgin unblemished, Vessel undefiled, Glory of the world, Light which shall never be extinguished, Shrine that shall never be overthrown. Staff of the Faith, thou never-failing support of the saints, pray thou for us to thy Beneficent Son, our Redeemer, that He may have mercy upon us, and show us compassion, and forgive us our sins in His mercy forever and ever. Amen.",
+            "am": "ያለርኩሰት ድንግል የሆንሽ ጸጋን የተመላሽ ሆይ ደስ ይበልሽ የዓለም ሁሉ መክበሪያ ንጽሕት ጽዋ ነሽ የማትጠፊ ፋና ነሽ የማትፈርሽ መቅደስ ነሽ የቅዱሳን መደገፊያቸው/መጠጊያቸው/ የማትለወጪ የሃይማኖት በትር ነሽ ቸር አዳኛችን ወደ ሆነ ልጅሽ ለምኝልን ፍጽሞ ይቅር ይለንና ይምረን ዘንድ ኀጢአታችንንም ያስተሠርይልን ዘንድ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ተፈሥሒ ኦ ምልእተ ጸጋ ድንግል ዘእንበለ ርኩስ ልሕኩት ንጽሕት ክብረ ኩሉ ዓለም ብርሃን ዘኢትጠፍእ መቅደስ ዘኢትትነሠት በትረ ሃይማኖት ዘኢትጸንን ምስማኮሙ ለቅዱሳን ሰአሊ ለነ ኅበ ወለድኪ ኄር መድኃኒነ ይምሐረነ ወይሣሃለነ ይሥረይ ኃጢአተነ። ሰአሊ ለነ ቅድስት።",
+            "de": "Freue dich, Oh Jungfrau voll der Gnade, ohne Entweihung. Reines Gefäß, Ehre der ganzen Welt, ein nie ausgehendes Licht, ein nie zerstörter Tempel, eine nie nachlassende Stütze des Glaubens. Beistand der Heiligen, bete für uns zu deinem guten Sohn, unserem Erlöser, dass Er uns gnädig sein möge, uns Barmherzigkeit zeigen möge, und uns unsere Sünden vergebe. Heilige [Jungfrau], bete für uns."
+          }
+        }
+      ]
+    },
+    {
+      "chapter": "sunday",
+      "chapter_name": {
+        "en": "A Hymn of Praise for the First Day of the Week (Sunday)",
+        "am": "በሰንበተ ክርስቲያን እሁድ የሚጸለይ አምላክን የወለደች የድንግል ማርያም ምስጋና ሰባተኛ ክፍል",
+        "gez": "ውዳሴሃ ለእግዝእትነ ማርያም ድንግል ወላዲተ አምላክ ዘይትነበብ በዕለተ ሰንበት ክርስቲያን ቅድስት።",
+        "de": "Die Lobpreisung Unserer Jungfrau Maria, der Mutter Gottes, die am Heiligen Christlichen Sabbat (Sonntag) Gelesen Wird."
+      },
+      "sections": [
+        {
+          "section": 1,
+          "text": {
+            "en": "Thou wast named \"Beloved Woman\", O blessed among women. Thou art the second chamber, in that thou wast called \"Holiest of Holies\", and in it was the table of the Covenant and on it were the Ten Words which were written by the fingers of God. He (i.e. The Father) made known this to us first of all by \"Yawtâ\" (i.e. Iota), which is the first [letter] of the Name of our Redeemer Jesus Christ, Who became incarnate of thee without change, and became the mediator of the New Covenant, and by the shedding of His Holy Blood He purified the believers and the people who were pure. And because of this we all magnify thee, O our Lady, thou ever pure God-bearer. We beseech thee and lift our eyes to thee, so that we may find mercy and compassion with the Lover of Men.",
+            "am": "ከሴቶች ይልቅ ተለይተሽ የተባረክሽ ሆይ የተወደድሽ ተባልሽ ከተለዩ የተለየች በውስጧም የኪዳን የህግጽላት ያለባት የምትባይ ሁለተኛ ክፍል አንቺ ነሽ። ኪዳንም በእግዚአብሔር ጣቶች የተጻፉ አሥሩ ቃላት ናቸው። ያለመለወጥ ከአንቺ ሰው የሆነ መድሃኒታችን ኢየሱስ ክርስቶስ ደገኛ ስሙን መጀመሪያስሙን አስቀድሞ በየውጣ ነገረን ለአዲስ ኪዳንም አስታራቂ ሆነ። በከበረ ደሙ ፈሳሽነት ወይም መፍሰስ ያመኑትንና ንጹሃን የሆኑትን ወገኖች አነጻቸው ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ተሰመይኪ ፍቅርተ ኦ ቡርክት እምእንስት አንቲ ውእቱ ዳግሚት ቀመር እንተ ትሰመይ ቅድስተ ቅዱሳን ወውስቴታ ጽላተ ኪዳን ፲ቱ ቃላት እለ ተጽሕፋ በአፃብዒሁ ለእግዚአብሔር ቀዲሙ ዜነወነ በየውጣ እንተ ይእቲ ቀዳሜ ስሙ ለመድኃኒነ ኢየሱስ ክርስቶስ ዘተሰብአ እምኔኪ ዘእንበለ ውላጤ ወኮነ ዓራቄ ለሐዲስ ኪዳን በውኂዘ ደሙ ቅዱስ አንጽሖሙ ለመሃይምናን ወለሕዝብ ንጹሐን፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Du wurdest die Geliebte genannt, Oh du gesegnete unter den Frauen. Du bist der zweite Teil, da du das Allerheiligste genannt wirst, und darin waren die Tafeln des Bündnisses. Die Zehn Gebote waren [darauf] geschrieben durch den Finger Gottes; Er wurde uns zuerst durch das Iota bekannt, welches der erste [Buchstabe] des Namens unseres Erlösers Jesus Christus ist, der durch dich Mensch wurde, ohne Veränderung, und der Fürsprecher des neuen Bündnisses wurde; und durch das Vergießen Seines heiligen Blutes reinigte er die Gläubigen und die reinen Menschen. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 2,
+          "text": {
+            "en": "[Thou art] the Tabôt (i.e. Tabernacle or, Ark) which was covered on all its sides with gold, and was made of the wood that never perisheth, and that foreshadowed for us the Word of God, Who became man without separation and change, the pure and undefiled Deity, the equal of the Father, To thee, as the pure woman, [Gabriel] announced [Him] without seed, And He became like unto us through the might of His wisdom: He Who was incarnate of thee and He Who was spotless mingled His Divinity [without nature]. And because of this—",
+            "am": "ሁልጊዜ ንጽሕት የሆንሽ አምላክን የወለድሽ እመቤታችን ሆይ ሁላሽን ስለዚህ እናገንሻለን ሰውን በሚወድ በጌታ ዘንድ ይቅርታን እናገኝ ዘንድ እንለምንሻለን ወደ አንቺም እናንጋጥጣለን። ከማይነቅዝ እንጨት የተቀረጸ በውስጥና በውጭ በወርቅ የተለበጠ ታቦት ያለመለየትና ያለመለወጥ ሰው የሆነ የእግዚአብሔርን ቃል ይመስልልናል። ይኽውም መለወጥ የሌለበት ንጹሕ መለኮት ነው ከአብ ጋር የተካከለ ነው ። ለንጽሕት በራሱ አበሰራት። በልዩ ጥበቡ ያለ ወንድ ዘር እንደ እኛ ሆነ። መለኮቱን አዋሕዶ ያለ ርኩሰት በአንቺ ሰው ሆነ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ወበእንተዝ ናዐብየኪ ኩልነ ኦ እግዝእትነ ወላዲተ አምላክ ንጽሕት ኩሎ ጊዜ ንስእል ወናንቀዐዱ ኅቤኪ ከመ ንርክብ ሣህለ በኅበ መፍቀሬ ሰብእ። ታቦት በወርቅ ልቡጥ እምኩለሄ ዘግቡር እምዕፅ ዘኢይትነቅዝ ይትሜሰል ለነ ዘእግዚአብሔር ቃለ ዘኮነ ሰብአ ዘእንበለ ፍልጠት ወኢውላጤ መለኮት ንጹሕ ዘአልቦ ሙስና ዘዕሩይ ምስለ አብ ወቦቱ አብሠራ ለንጽሕት ዘእንበለ ዘርእ ኮነ ከማነ በኪነ ጥበቡ ቅዱስ ዘተሰብአ እምኔኪ ዘእንበለ ርኩስ ደመረ መለኮቶ። ሰአሊ ለነ ቅድስት።",
+            "de": "Und deswegen lobpreisen wir dich, Oh unsere Jungfrau, die Mutter Gottes, die ewig reine; wir bitten dich und heben unsere Augen zu dir empor, damit wir Gnade bei Ihm finden, der die Menschen liebt. [Du bist] die [Bundes]Lade, die überall mit Gold bedeckt war, und aus Holz gemacht, das nicht verging, und das für uns dem Wort Gottes ähnelte, Der ohne Teilung und ohne Veränderung Mensch wurde, die reine und unbefleckte Gottheit, dem Vater gleich, und Er verkündete sich der reinen Frau. Er wurde wie wir, ohne Samen, durch die Macht Seiner heiligen Weisheit; Er wurde durch dich Mensch, ohne Unreinheit, Er vereinigte Seine Göttlichkeit [mit unseren Wesen]. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 3,
+          "text": {
+            "en": "[Thou] sanctuary which the Cherubim who are fashioned in the likeness of God surround—the Word, Who was incarnate of thee, O pure woman, without change hath become the Forgiver of our sins and the Destroyer of our transgressions. And because of this",
+            "am": "በእግዚአብሔር ስዕል የተሣሉ ኪሩቤል የሚጋርዱሽ መቅደስ አንቺ ነሽ። ንጽሕት ሆይ ያለመለወጥ ከአንቺ ሰው የሆነው ቃል ኃጢአታችንን የሚያስተሰርይልንና አበሳችንን የሚደመስስልን ሆነ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "መቅደስ ዘይኬልልዋ ኪሩቤል እለ ሥዑላን በሥዕለ እግዚአብሔር ቃል ዘተሰብአ እምኔኪ ዘእንበለ ውላጤ ኮነ ሠራየ ኃጢአትነ ወደምሳሴ አበሳነ። ሰአሊ ለነ ቅድስት።",
+            "de": "Das Heiligtum, das von Cherubimen umgeben ist, die nach dem Abbild Gottes gefertigt wurde, das Wort, Welches von dir Mensch wurde, wurde zu Dem, Der unsere Sünden vergibt, und unsere Fehltritte auslöscht. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 4,
+          "text": {
+            "en": "Thou art the holy golden pot wherein the manna is hidden, the bread which came down from heaven, the giver of life unto all the world. And because of this",
+            "am": "የተሰወረ መና ያለብሽ የንጹሕ ወርቅ መሶብ አንቺ ነሽ መናም ከሰማይ የወረደውና ለዓለም ሁሉ ሕይወትን የሚያድለው ኅብስት ነው። ቅድስት ሆይ ለምኝልን።",
+            "gez": "አንቲ ውእቱ መሶበ ወርቅ ንጹሕ እንተ ውስቴታ መና ኅቡእ ኅብስት ዘወረደ እምሰማያት ወሀቤ ሕይወት ለኩሉ ዓለም። ሰአሊ ለነ ቅድስት።",
+            "de": "Du bist das reine, goldene Gefäß, in dem sich das Manna, das Brot, das vom Himmel kam, befindet, welches Leben für die ganze Welt spendet. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 5,
+          "text": {
+            "en": "Thou art the golden candlestick and dost hold the brilliant Light at all times, the Light which is the Light of the world, the Light of Lights which had no beginning, verily God of God, Who became incarnate of thee without change. And by His coming He shed light upon us, upon those of us who were sitting in the shadow and darkness of death, and He set our feet upon the path of peace, through the mystery of His holy wisdom. And because of this",
+            "am": "ሁልጊዜ ብርሃንነት ያለውን ፋና የተሸከምሽ የወርቅ መቅረዝ አንቺ ነሽ። ይኸውም ፋና የዓለም ብርሃን ነው ጥንት ከሌለው ብርሃንም የተገኘ ብርሃን ነው። ከእውነተኛ አምላክ የተገኘ እውነተኛ አምላክ ነው። ያለመለወጥም ከአንቺ ሰው የሆነው ነው። በመምጣቱም/ሰው በመሆኑም/በጨለማና በሞት ጥላ ውስጥ ለምንኖር ለእኛ አበራልን። በልዩ የጥበቡ ምሥጢር (በሥጋዌ)የልቦናችንን እግር ወደ ሰላም መንገድ አቀናልን። ቅድስት ሆይ ለምኝልን።",
+            "gez": "አንቲ ውእቱ ተቅዋም ዘወርቅ እንተ ፆርኪ ማኅቶተ ፀዳል ኩሎ ጊዜ ዘውእቱ ብርሃኑ ለዓለም ብርሃን ዘእምብርሃን ዘአልቦ ጥንት አምላክ ዘእምአምላክ ዘበአማን ዘተሰብአ እምኔኪ ዘእንበለ ውላጤ ወበምጽአቱ አብርሃ ላዕሌነ ለእለ ንነብር ውስተ ጽልመት ወጽላሎቱ ሞት ወአርትዐ እገሪነ ውስተ ፍኖተ ሰላም በምሥጢረ ጥበቡ ቅዱስ። ሰአሊ ለነ ቅድስት።",
+            "de": "Du bist der goldene Leuchter, der das brennende Licht für alle Zeit hält, welches das Licht der Welt ist, Licht aus Licht ohne Anfang, Gott aus wahrem Got, der von dir Mensch wurde, ohne Veränderung. Und durch Sein Kommen schien Er Sein Licht auf uns, auf die, die in Dunkelheit und dem Schatten des Todes Leben. Und Er setzte unsere Füße auf den Weg des Friedens, durch das Mysterium Seiner heiligen Weisheit. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 6,
+          "text": {
+            "en": "Thou art the censer of gold because thou didst carry the coals of the blessed fire which He took from the sanctuary—He Who forgiveth sin an destroyeth wickedness, He Who is the Word of God, Who became incarnate of thee, and Who offered up to His Father incense and precious offerings. And because of this",
+            "am": "ቡሩክ ከቤተ መቅደስ ይዞሽ የወጣ እሳትነት ያለውን ፍሕም የተሸከምሽ የወርቅ ማዕጠንት አንቺ ነሽ። ፍሕም የተባለውም ኃጢአትን የሚያስተሠርይና በደልን የሚደመስስ ነው። ይኸውም ከአንቺ ሰው የሆነና ራሱን የተወደደ መስዋዕት አድርጎ ያሳረገ የእግዚአብሔር ቃል ነው። ቅድስት ሆይ ለምኝልን።",
+            "gez": "አንቲ ውእቱ ማዕጠንት ዘወርቅ እንተ ፆርኪ ፍሕመ እሳት ቡሩክ ዘነሥአ እመቅደስ ዘይሠሪ ኃጢአተ ወይደመሰስ ጌጋየ ዝ ውእቱ ዘእግዚአብሔር ቃል ዘተሰብአ እምኔኪ ዘአዕረገ ለአቡሁ ርእሶ ዕጣነ ወመሥዋዕተ ሥሙረ። ሰአሊ ለነ ቅድስት።",
+            "de": "Du bist das goldene Räucherfass, welches die Kohlen des gesegneten Feuers enthielt, die Er aus dem Tempel entnahm, Er, Der Sünden vergibt und Fehltritte verzeiht. Dies ist Er, Der das Wort Gottes ist, Der von dir Mensch wurde, Der Seinem höchsten Vater Weihrauch und gefällige Opfer darbrachte. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 7,
+          "text": {
+            "en": "[Thou art] the garden of delight, the garden of joy, which is planted with the trees of Lebanon, and was prepared for the saints before the world was created. [On] a great chariot, which was guarded by Cherubim and Seraphim that were fashioned out of flame of fire, one of the Seraphim visited her from heaven, and said unto her in the sanctuary, \"Blessed art thou among women. The Holy Spirit shall come upon thee, and the power of the Highest shall over-shadow thee, for He Who dwelleth above the Cherubim shall become the Light for all the world.\" Thou art the sweet-scented flower which hath sprung from the foot of Jesse. And because of this",
+            "am": "የእግዚአብሔርን ቃል የወለድሽልን መልካሟ ርግብ ማርያም ሆይ ደስ ይበልሽ ከዕሴይ ሥር የወጣሽ መዐዛሽ ያማረ አበባ አንቺ ነሽ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ተፈሥሒ ኦ ማርያም ርግብ ሠናይት ዘወለድኪ ለነ ዘእግዚአብሔር ቃለ አንቲ ውእቱ ጽጌ መዓዛ ሠናይ እንተ ሠረፀት እምሥርወ ዕሤይ። ሰአሊ ለነ ቅድስት።",
+            "de": "Freue dich, Oh Maria, die wunderschöne Taube, die uns das Wort Gottes geboren hat. Du bist die wunderschöne duftende Blume, die aus dem Samen Isais entsprang. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 8,
+          "text": {
+            "en": "Thou art like unto the rod of Aaron, which, without being planted in the ground and without watering, burst into blossom. In like manner thou, O Bearer of Christ, didst bring forth Christ our God in truth, without seed. He came and delivered us. And because of this",
+            "am": "ሳይተክሏትና ውሃ ሳያጠጧት የለመለመች የአሮን በትር ነበረች። ያለ ዘር ሰው ሆኖ ያዳነን እውነተኛ አምላካችንን ክርስቶስን የወለድሽልን ሆይ አንቺ እንደ እርስዋ ነሽ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "በትረ አሮን እንተ ሠረፀት ዘኢንበለ ተክል ወኢሠቀይዋ ማየ ከማሃ አንቲኒ ኦ ወላዲተ ክርስቶስ አምላክነ ዘበአማን ዘእንበለ ዘርእ መጽአ ወአድኅነነ። ሰአሊ ለነ ቅድስት።",
+            "de": "Aarons Stab, der blühte, ohne gepflanzt und begossen zu werden; so brachtest auch du, Oh Mutter Christi, unseren wahren Gott ohne Samen hervor; Er kam und erlöste uns. Heilige [Jungfrau], bete für uns."
+          }
+        },
+        {
+          "section": 9,
+          "text": {
+            "en": "It is meet for thee, O thou who art full of grace, more than for all the saints to pray on our behalf. Thou art greater than the high-priests, and thou art more honourable than the Prophets; in thee there is majesty of appearance which is greater than the majesty of the Seraphim and Cherubim. Verily thou art the glory of our race, and thou art she who must beg for life for our souls. Pray thou then on our behalf to our Lord and Redeemer Jesus Christ that He may confirm us in the Right Faith, that is to say, faith in Him and the He may graciously bestow upon us His mercy and compassion, and may in His abundant mercy forgive us our sins forever and ever. Amen.",
+            "am": "ጸጋን የተመላሽ ሆይ ከቅዱሳን ሁሉ ይልቅ ትለምኝልን ዘንድ ለአንቺ ይገባሻል። አንቺ ከሊቃነ ጳጳሳት ትበልጫለሽ ከነቢያትም ከመምህራንም ትበልጫለሽ ከሱራፌልና ከኪሩቤል ግርማ የሚበልጥ የመወደድ ግርማ አለሽ። በእውነቱ የባሕርያችን መመኪያ አንቺ ነሽ። ለሰውነታችንም ሕይወትን የምትለምኚ ነሽ። ወደ ጌታችንና ወደ መድሃኒታችን ኢየሱስ ክርስቶስ ለምኝልን። እርሱን በማመን በቀናች ሃይ ማኖት ያጸናን ዘንድ ይቅርታውንና ምህረቱን ይሰጠን ዘንድ በቸርነቱ ብዛት ኃጢአታችንን ያስተሠርይልን ዘንድ። ቅድስት ሆይ ለምኝልን።",
+            "gez": "ለኪ ይደሉ ዘእምኩሎሙ ቅዱሳን ትስአሊ ለነ ኦ ምልእተ ጸጋ አንቲ ተዐብዩ እምሊቃነ ጳጳሳት ወፈድፋደ ትከብሪ እምነቢያት ብኪ ግርማ ራእይ ዘየዐቢ እምግርማ ሱራፌል ወኪሩቤል አንቲ በአማን ምክሐ ዘመድነ ወሰአሊት ሕይወተ ለነፍሳቲነ ሰአሊ ለነ ኅበ እግዚእነ ወመድኃኒነ ኢየሱስ ክርስቶስ ያፅንዐነ በርትዕት ሃይማኖት ውስተ አሚነ ዚአሁ ይጽግወነ ሣህሎ ወምሕረቶ ይሥረይ ኃጢአተነ በብዝኅ ምሕረቱ። ሰአሊ ለነ ቅድስት።",
+            "de": "Es ist recht für dich, Mutter aller Heiligen, dich für uns einzusetzen, Oh [du] voll der Gnade; du stehst höher als die Erzbischöfe. Du solltest mehr verehrt werden, als die Propheten. Du hast eine majestätische Erscheinung, die den Ruhm der Seraphime und Cherubime übersteigt. Wahrlich, du bist der Ruhm unserer Rasse, und diejenige, die um Leben für unsere Seelen bittet. Bete für uns zu unserem Herrn und Erlöser Jesus Christus, damit Er uns im rechten Glauben stärken möge, dem Glauben an Ihn, damit Er uns Seine Gnade gewähre, und Seine Barmherzigkeit, und uns in Seiner großen Gnade unsere Sünden vergeben möge. Heilige [Jungfrau], bete für uns."
+          }
+        }
+      ]
+    },
+    {
+      "chapter": "anqetse_birhan",
+      "chapter_name": {
+        "en": "Anqetse Birhan",
+        "am": "አንቀጸ ብርሃን",
+        "gez": "አንቀጸ ብርሃን",
+        "de": "Das Tor des Lichtes"
+      },
+      "sections": [
+        {
+          "section": 1,
+          "text": {
+            "en": null,
+            "am": "ኢትዮጵያዊው ቅዱስ ያሬድ የደረሰው የአምላክ እናት ምሥጋና ለእውነተኛ ፈራጅ ለአምላክ እናት ምስጋናና አገልግሎት ይገባታል፡፡",
+            "gez": "ውዳሴ ወግናይ ለእመ አዶናይ፡ ቅድስት ወብፅዕት፡ ስብሕት ወቡርክት፡ ክብርት ወልዕልት አንቀጸ ብርሃን፡ መዓርገ ሕይወት ወማኅደረ መለኮት ቅድስተ ቅዱሳን፡ አንቲ ውእቱ ኦ እግዝእትነ ወላዲተ አምላክ ማርያም ድንግል፡ ተሰመይኪ ሥምረተ አብ ወማኅደረ ወልድ፡ ወምጽላለ ዘቅዱስ መንፈስ፡ ኦ ቡርክት እምኩሉ ፍጥረት፡ አንቲ ውእቱ ህየንተ አርያም ዘበሰማያት ዘኮንኪ አርያመ በዲበ ምድር፡ ብኪ አስተማሰሉ ቅዱሳን ነቢያት፡ ካህናት ወነገሥት፡ ገብሩ ሎሙ ቅድስተ ቅዱሳን፡ ወውስቴታ ጽላተ ኪዳን፡ ወልድኪ ሣህሎ ይክፍለነ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Lobpreis und Ehre für die Mutter des Herrn. Du bist die heilige, voller Gnade, lobpreisenswert und gesegnet, verehrt und erhaben, das Tor des Lichtes, die Leiter des Lebens, und der (temporäre) Sitz der Gottheit, das Allerheiligste, Jungfrau Maria, die Mutter Gottes. Man nennt dich die Freude des Vaters, der (temporäre) Sitz des Sohnes, und den Tabernakel des Heiligen Geistes. Oh du, gesegnet von aller Schöpfung, du bist der Teil des höchsten Himmels der der höchste Himmel auf Erden wurde; Heilige, Propheten, Priester und Könige schufen für sich das Allerheiligste und die Tafeln des (göttlichen Versprechens) in deinem Abbild. Heilige [Jung- frau], bete für uns, dass dein Sohn uns Seine Gnade erweist."
+          }
+        },
+        {
+          "section": 2,
+          "text": {
+            "en": null,
+            "am": "ቅድስት ሆይ ብፅዕት ነሽ የተመሰገንሽና የተባረክሽ ነሽ የከበርሽና ከፍ ከፍ ያለሽ ነሽ የብርሃን መውጫ የሕይወት መሰላል ነሽ አምላክን የወለድሽ እመቤታችን ድንግል ማርያም ሆይ ከተለዩ የተለየሽ የመለኮት ማደሪያ ነሽ፡፡ ከፍጥረት ሁሉ ይልቅ የተከበርሽ ሆይ አብ የወደደሽ ወልድ ያደረብሽ መንፈስ ቅዱስ ያረፈብሽ (የጸለለብሽ) ተባልሽ፡፡ በምድር ላይ ከፍተኛ አርያምን የሆንሽ ከሰማያት በላይ ያለ የአርያም የልዑል ስፍራ ምትክ አንቺ ነሽ፡፡ ቅዱሳን ነቢያት ካህናትና ነገሥታት ያንቺ ምሳሌ አድርገው በውስጧ የኪዳን የሕግ ጽላት ያለባት ቅድስተ ቅዱሳን ከተለዩ የተለየችውን ሠሩ፡፡ ቅድስት ሆይ ልጅሽ ይቅርታውን ያድለን ዘንድ ለምኝልን።",
+            "gez": "በእንተ ተሠግዎቱ ለወልደ አምላክ እምኔኪ፡ ወብኪ ቅሩብነ ኮነ እምድር ለማኅደር ውስተ አርያም ብኪ ወበስመ ወልድኪ ቅሩባነ ኮነ ዐሠርቱ ቃላት እለ ተጽሕፋ በአፃብዒሁ ለእግዚአ ኩሉ ፍጥረት፡ ኅደረ ወልደ አምላክ ላዕሌኪ አብ በየማኑ ከደነኪ ወቅዱስ መንፈስ ጸለለኪ ወኃይለ ልዑል አጽንዐኪ፡ ወኢየሱስ ለብሰ ሥጋ ዚአኪ ከልሐ ወይቤ፡ ዘጸምአ ይምጻእ ኅቤየ ወይተይ፡ በከመ ይቤ መጽሐፍ አፍላገ ማየ ሕይወት ዘይውኅዝ እምከርሡ፡ ወልድኪ ሣህሎ ይክፍለነ ሰአሊ ለነ ቅድስት።",
+            "de": "Aufgrund der Inkarnation (Menschwerdung) des Sohn Gottes von dir und in dir kamen wir dem Ort im höchsten Himmel näher als der Erde; durch dich und im Namen des Sohnes sind wir ihm nahe gekommen. Die Zehn Gebote wurden mit dem Finger des Herrn über alle Schöpfung geschrieben. Der Sohn Gottes weilte in dir, der Vater bedeckte dich mit Seiner rechten Hand, und der Heilige Geist überschattete dich, und die Macht des Allerhöchsten stärkte dich, und Jesus nahm sein Fleisch von dir an. Er rief out und sagte, “Wer Durst hat, komme zu mir, und es trinke, wer an mich glaubt. Wie die Schrift sagt: Aus seinem Inneren werden Ströme von lebendigem Wasser fließen.” (Jn. 7:37-38). Heilige [Jungfrau], bete für uns, dass dein Sohn uns Seine Gnade erweist."
+          }
+        },
+        {
+          "section": 3,
+          "text": {
+            "en": null,
+            "am": "የአምላክ ልጅ ካንቺ ሰው ስለመሆኑ ስላንቺም ከምድር ወደ አርያም ወደ መንግሥተ ሰማያት የቀረብን ሆን በአንቺና በልጅሽ ስም የቀረብን ሆን።",
+            "gez": "ቀዳሙ ዜነወነ አብ በየውጣ እንተ ይእቲ ዐሠርቱ ቃላት እለ ተጽሕፋ በአፃብዒሁ ለእግዚአብሔር፡ ወመሀረነ ወልድከ ኢየሱስ ክርስቶስ፡ ከመ አንተ ባሕቲትከ አቡሁ ሎቱ ወውእቱ ባሕቲቱ ወልድ ለከ፡ ከመዝ ነአምን ዘአልቦቱ እም በሰማያት፡ ወአብ በዲበ ምድር፡ ዘወረደ እምሰማያት እንዘ አልቦ ዘየአምር ምጽአቶ ዘእንበለ አቡሁ ባሕቲቱ ወጰራቅሊጦስ መንፈሰ ጽድቅ፡ ኅደረ ውስተ ከርሥኪ ወፆርኪዮ ተስዐተ አውራኃ፡ ተፈሥሑ ሰማያት ወተኃሥየት ምድር በልደቱ ለወልድኪ፤ መልአክ ዜነወ ፍሥሐ ወሐራ ሰማይ ሰብሑ እንዘ ይብሉ ስብሐት ለእግዚአብሔር በሰማያት፡ ወሰላም በምድር ለዕጓለ እመሕያው ሥምረቱ ወኖሎት በቤተልሔም አንከሩ እምዘርእዩ ወሰምዑ፡ ሰብአ ሰገል ርእዮሙ ኮከበ መጽኡ እምርኁቅ ብሔር ከመ ይስግዱ ለወልድኪ ወይግነዩ ለኪ፡ ውእቱ ኮከብ ዘመርሖሙ እምሥራቅ ወአብጽሖሙ እስከ ቤተልሔም ወቆመ መልዕልቴኪ ኅበ ሀሎኪ አንቲ ምስለ ሕፃንኪ፡ ወርእዮሙ እሙንቱ መሰግላን ተፈሥሑ ዐቢየ ፍሥሐ፡ ቦኡ ኅቤሁ ወቆሙ ቅድሜሁ ወወድቁ ዲበ ምድር ወሰገዱ ሎቱ፡ ወአርኅው መዛግብሆሙ። ወአብኡ ሎቱ አምኃ ወርቀ፡ ከርቤ፡ ወስኂነ፡ ወይቤሉ አምኃ አባእነ ለከ፡ ዕጣነ አቅረብነ ለከ፡ እምዚአከ ለክቡር ስምከ፡ ኦ አምላክነ በእንተ ኃጢአተ ሕዝብከ ከመ ትትወከፍ ስእለቶም ወመሥዋዕቶም ዘመጻእከ ከመ ትስረይ ሎሙ ኃጢአቶሙ፡ ወልድኪ ሣህሎ ይክፍለነ ሰአሊ ለነ ቅድስት።",
+            "de": "Der Vater gab Sich selbst uns zuerst duch das Iota zu erkennen, , mittels der Zehn Gebote, die durch den Finger Gottes geschrieben wurden, und uns durch Deinen Sohn, unseren Herrn und Retter Jesus Christus gelehrt wurden, Der sagte dass Du allein Sein Vater bist, und dass Er allein Dein Sohn ist. Deshalb glauben wir dass Er, der vom Himmel kam, keine Mutter im Himmel hat, und keinen Vater auf Erden, und niemand kann Sein Kommen vorhersagen ausser Seinem einzigen Vater und dem Paracletus, dem Geist der Rechtschaffenheit. Er verweilte in deinem Leib, und du trugst Ihn neun Monate lang. Der Himmel jauchzte, und die Erde war voller Freude aufgrund der Geburt deines Sohnes. Die Engel verkündeten Freude, und die Heere des Himmels lobpreisten und sagten, “Ehre sei Gott in der Höhe und Friede auf Erden und den Menschen ein Wohl- gefallen!,” (Lk. 2:14) und die Hirten wunderten sich was sie sahen und hörten. Die Weisen sahen den Stern, und kamen von einem fernen Land, um sich vor deinem Sohn zu verbeugen, und dir Ehre zu erweisen. Dies ist der Stern der sie von Osten her führte, und er brachte sie nach Bethlehem, und stand hoch dort wo du mit deinem Kind warst. Und sie sahen es, und zeigten große Freude. Sie kamen in Seine Gegenwart, und standen vor Ihm, und fielen auf die Erde, und verbeugten sich vor ihm, und öffneten ihre Schatztruhen, und präsentierten Ihm Geschenke aus Gold, Weihrauch und Myrre, und sagten: “Wir haben Dir Weihrach dargeboten, und Dir das angeboten, was Deines ist, in Deinem wunderbaren Namen, Oh unser Gott, für die Sünden Deines Volkes, damit Du ihre Bitten akzeptieren und ihre Opfergaben annehmen mögest, Du Der kam, um ihre Sünden zu vergeben. Heilige [Jungfrau], bete für uns, dass dein Sohn uns Seine Gnade erweist."
+          }
+        },
+        {
+          "section": 4,
+          "text": {
+            "en": null,
+            "am": "ዐሥሩ ቃላት በጣቶቹ የተጻፉ የፍጥረት ሁሉ ጌታ ያውም ያምላክ ልጅ በማኅፀንሽ አደረ፡፡ አብ በሥልጣኑ አጸናሽ መንፈስ ቅዱስም ጸለለብሽ አነጻሽ የልዑል ኃይልም አጸናሽ፡፡ ኢየሱስም ያንችን ሥጋ ለበሰ በታላቅ ቃል ጮኸ መጽሐፍ የሕይወት ውኃ ምንጭ ከሆዱ ይፈልቃል እንዳለ ማንም የተጸማ ቢኖር ወደኔ መጥቶ ይጠጣ አለ፡፡ ቅድስት ሆይ ልጅሽ ይቅርታውን ያድለን ዘንድ ለምኝልን።",
+            "gez": "አንቲ ውእቱ ንጽሕት እምንጹሐን፡ ድንግል ኅሪት ዘነበርኪ ውስተ ቤተ መቅደስ ከመ ታቦት ዘግቡር እምዕፅ ዘኢይነቅዝ፡ ሥርግው በወርቅ ንጡፍ ወልቡጥ በዕንቄ ባሕርይ ዘየኅቱ ዘብዙኅ ሤጡ፡ ከመዝ ነበርኪ ውስተ ቤተ መቅደስ፡ ወመላእክት ያመጽኡ ወትረ ሲሳየኪ፡ ከመዝ ነበርኪ ዐሠርተ ወክልኤተ ዓመተ እንዘ ትትናዘዚ እምኅበ መላእክት ስቴኪኒ ስቴ ሕይወት ውእቱ። ወመብልዕኪኒ ኅብስት ሰማያዊ፡ ዳዊት አቡኪ ዘመረ በመሰንቆ ወኅለየ በመዝሙር እንዘ ይብል በመንፈሰ ትንቢት፡ ስምዒ ወለትየ ወርእዩ ወአጽምዒ ዕዝነኪ፤ ርስዒ ሕዝበኪ ወቤተ አቡኪ እስመ ፈተወ ንጉሥ ስነኪ፡ እስመ ውእቱ እግዚእኪ ወሎቱ ትሰግዲ፡ ወልድኪ ሣህሎ ይክፍለነ ሰአሊ ለነ ቅድስት።",
+            "de": "Du bist die reinste der reinen, auserwählte Jungfrau, die im Tempel verweilte wie die Bundeslade, die aus unzerstörbarem Holz gefertigt war, dekoriert mit purem Gold, und verziert mit vielen wertvollen, schim- mernden Edelsteinen. So lebtest du für zwölf Jahre, umsorgt von Engeln. Dein Trank war der Trank des Lebens, und dein Mahl was das himmlische Brot. Dein Vater David sang mit einer Harfe, und gedachte in einem Psalm, in dem er mit dem Geist einer Prophezeiung sagte, “Höre, Tochter, und sieh, und neige dein Ohr; und vergiß dein Volk und deines Vaters Haus! Und wird der König deine Schönheit begehren, denn er ist dein Herr: so neige dich vor ihm!” (Psa. 45:11-12). Heilige [Jungfrau], bete für uns, dass dein Sohn uns Seine Gnade erweist."
+          }
+        },
+        {
+          "section": 5,
+          "text": {
+            "en": null,
+            "am": "አብ አስቀድሞ በየውጣ ነገረን የውጣ የተባሉ በእግዚአብሔር ጣቶች የተጻፉ ዐሥሩ ቃላት ናቸው፡፡ ልጅህ ጌታችንና መድኃኒታችን ኢየሱስ ክርስቶስ አንተ ብቻ አባቱ እንደ ሆንክ እርሱም ብቻ ልጅህ እንደሆነ አስተማረን፡፡ እንዲሁም በሰማይ እናት በምድር አባት የለም ብለን እናምናለን መምጣቱን ከአባቱና ከእውነት መንፈስ ከጰራቅሊጦስ በቀር የሚያውቅ ሳይኖር ከሰማይ ወረደ ብለን እናምናለን በማኅፀንሽ አደረና ዘጠኝ ወር ተሸከምሽው ሰማያት ደስ ተሰኙ ምድርም ደስ ተሰኘች፡፡ በልጅሽ መወለድ መልአክ ምሥራች ተናገረ፡፡ የሰማይ ጭፍሮችም መላእክትም ምስጋና በሰማይ ለእግዚአብሔር ይሁን በምድርም ላይ ሰላይ በሰውም እርሱ በሚፈቅደው እያሉ አመሰገኑ፡፡ እረኞችም በቤተልሔም ካዩትና ከሰሙት የተነሣ አደነቁ የጥበብ ሰዎች ብልሆች ሰዎች ለልጅሽ ሊሰግዱና አንቺን ሊያገለግሉ ኮከብን አይተው ከሩቅ አገር መጡ፡፡ ከምሥራቅ ጀምሮ መርቶ እስከ ቤተልሔም ያደረሳቸው ያ ኮከብ አንቺ ከሕጻንሽ ጋር ባለሽበት ቦታ ላይ ቆመ፡፡ እነዚያ ብልሆች ሰዎች አይተው በታላቅ ደስታ ደስ ተሰኙ ወደ እርሱ ወደ ሕጻንሽ ገቡና በፊቱ ቆሙ በምድር ላይ ወድቀው ሰገዱለት ሣጥናቸውንም ከፈቱና ወርቅ ዕጣን ከርቤን እጅ መንሻ አድርገው አገቡለት የወገኖችህን ልመናቸውንና መሥዋዕታቸውን ትቀበል ዘንድ ኃጢአታቸውንም ታስተሠርይላቸው ዘንድ የመጣህ አምላካችን ሆይ እጅ መንሻ አገባንልህ ለከበረ ስምህም ካንተ የተገኘውን ዕጣን አቀረብንልህ አሉት፡፡ ቅድስት ሆይ ልጅሽ ይቅርታውን ያድለን ዘንድ ለምኝልን።",
+            "gez": "ገብርኤል መልአክ እመላእክት ንጹሐን ዘአልቦ ሙስና፡ እመላእክት ቀደምት ዘይቀውም ቅድመ እግዚአ ኩሉ አብሠረኪ ወይቤለኪ ተፈሥሒ ፍሥሕት እግዚአብሔር ምስሌኪ ቡርክት አንቲ እምአንስት ረከብኪ ሞገሰ በኅበ እግዚአ ኩሉ ወናሁ ትፀንሲ ወትወልዲ ወልደ፡ ወትሰምዪዮ ስሞ ኢየሱስ፡ ውእቱ ዓቢይ ወይሰመይ ወልደ ልዑል ወይሁቦ እግዚአብሔር አምላክ መንበረ ዳዊት አቡሁ፡ ወይነግሥ ለቤተ ያዕቆብ ለዓለም፡ ወአልቦ ማኅለቅት ለመንግሥቱ፡ መንፈስ ቅዱስ ይመጽእ ላዕሌኪ፡ ወኃይለ ልዕል ይጸልለኪ፡ ዘኒ ይትወለድ እምኔኪ፡ ቅዱስ ውእቱ ወይሰመይ ወልደ እግዚአ ኩሉ ዘተወልደ እምኔኪ፤ ሣህሎ ይክፍለነ ሰአሊ ለነ ቅድስት።",
+            "de": "Gabriel, ein Engel der reinen Engel, in dem keine Korruption wie der früheren Engel ist, der vor dem Herrn aller stehet, verkündete dir die gute Nachricht, und sagte, “Sei gegrüßt, du Begnadigte! Der Herr ist mit dir, du Gesegnete unter den Frauen! Und siehe, du wirst empfangen und einen Sohn gebären; und du sollst ihm den Namen Jesus geben. (Lk. 1:28,31). Dieser wird groß sein und Sohn des Höchsten genannt werden; und Gott der Herr wird ihm den Thron seines Vaters David geben; und er wird regieren über das Haus Jakobs in Ewigkeit, und seines Reiches wird kein Ende sein. (Lk. 1:32-33) Der heilige Geist wird über dich kommen, und die Kraft des Höchsten wird dich überschatten. Darum wird auch das Heilige, das erzeugt wird, Sohn Gottes genannt werden.“ (Lk. 1:35) Heilige [Jungfrau], bete für uns, dass dein Sohn uns Seine Gnade erweist."
+          }
+        },
+        {
+          "section": 6,
+          "text": {
+            "en": null,
+            "am": "ከንጹሓን ይልቅ ንጽሕት የሆንሽ አንቺ ነሽ ከማይነቅዝ እንጨት እንደተሠራ በወርቅ እንደተጌጠና ዋጋው ብዙ በሆነ በሚያበራ ዕንቁ እንደተለበጠ ታቦት በቤት መቅደስ ውስጥ የኖርሽ የተመረጥሽ ድንግል ነሽ፡፡ እንዲህ ሆነሽ በቤተ መቅደስ ኖርሽ መላእክትም ዘወትር ምግብሽን ያመጡ ነበር መላእክት እየጐበኙሽ እንዲህ ዓሥራ ሁለት ዓመት ኖርሽ፡፡ መጠጥሽም የሕይወት መጠጥ ነበር ምግብሽም የሰማይ ኅብስት ነበር አባትሽ ዳዊት በመሰንቆ አመሰገነ በትንቢት መንፈስም በመንፈስ ቅዱስም በገና እየደረደረ እንዲህ ብሎ ዘመረ ልጄ ሆይ ስሚ እዪም ዦሮሽንም አዘንብዪ ሕዝብሽንና የአባትሽን ቤት እርሺ ንጉሡም ውበትሽን ይወዳል እርሱ ጌታሽ ነውና ለእርሱም ስገጅ ትሰግጃለሽ ቅድስት ሆይ ልጅሽ ይቅርታውን ያድለን ዘንድ ለምኝልን።",
+            "gez": "አንቲ ውእቱ ዘኮንኪ ጽርሐ ቅድሳት ወመቅደሰ ቅድስተ ቅዱሳን ወመንጦላዕተ ብርሃን፡ ወመንበረ ስብሐት ዘኢይተረጎም፡ አስተማሰልናኪ ኦ ቅድስት ማርያም በመቅደሰ ቅድስተ ቅዱሳን፡ በእንተ ቅዱስ መንፈስ ዘመጽአ ላዕሌኪ፡ ወኃይለ ልዑል ጸለለኪ፡ ወመንጦላዕተ ብርሃንሰ በእንተ ዘተሠወረ ቃለ አብ ኢየሱስ ክርስቶስ መድኃኒነ ውስተ ከርሥኪ፡ እግዚአ ኩሉ ዘመልዕልት፡ ዘይሴብሕዎ መላእክት ወሊቃነ መላእክት አጋእዝት ወሥልጣናት ኃይላት ወመናብርት ወመኳንንት። ወሶበ ወለድኪ ወልደኪ በዲበ ምድር በውስተ ጎል ከለሉኪ ኪሩቤል እለ ብዙኃት አዕይንቲሆሙ፡ ወሱራፌል እለ ስድስቱ ክነፊሆሙ፡ ወደመናተ ብርሃን ዖዱኪ፡ ሊቃነ መላእክት ወሠራዊተ መላእክት ወሐራ ሰማይ ቆሙ ቅድሜኪ በፍርሃት ወበረዓድ፡ ወበህየ በካልዕ ስብሐት ወደሱኪ ኪሩቤል ወሱራፌል ዘኢኮነ እምስብሐቲሆሙ ዘውስተ ሰማያት ወኢ እምስብሐቲሆሙ ዘትካት ወሶበ ርእዩ እግዚኦሙ ዘአስተጋብአ ኩሎ ፍጥረታተ እንዘ ይነብር ውስተ ሕፅንኪ፡ ወዘይሴሲ ለኩሉ ፍጥረት ይጠቡ ሀሊበኪ ከመ ሕፃን፡ ኅሠሥዎ ውስተ አርያም ወበህየ ረከብዎ ምስለ አቡሁ ወመንፈስ ቅዱስ ከመ ትካት፡ ወሶበ ርእዩ ትሕትናሁ ለእግዚእነ አልዐሉ አዕይንቲሆሙ ላዕለ ውስተ አርያም ሰፍሑ ክነፊሆሙ ወሰብሑ ለእግዚኦሙ እንዘ ይብሉ ስብሐት ለከ እግዚአ ኩሉ በሰማያት፡ ወዓዲ ርአዩኪ በውስተ በአት ለኪ ለባሕቲትኪ ምስለ ሕፃንኪ ወይቤሉ ሰላም በዲበ ምድር፡ ወሶበ ርእዩ እንዘ ይለብሱ ሥጋ ዚአነ ዘነሥአ እምኔኪ ሰገዱ እንዘ ይብሉ ለዕጓለ እመሕያው ሠምሮ። ዳዊት ነቢይ ተነበየ በመዝሙር እንዘ ይብል፡ እምሰማይ ሐወፀ እግዚአ ኩሉ ወእምድልው ጽርሐ መቅደሱ፡ ወርእየ ኩሎ ደቂቀ ዕጓለ እመሕያው፡ ፈተወ ንጉሥ ሥነኪ ወይቤ ዛቲ ይእቲ ምዕራፍየ ለዓለም፡ ዝየ አኅድር እስመ ኅረይክዋ፡ ወልድኪ ሣህሎ ይክፍለነ ሰአሊ ለነ ቅድስት።",
+            "de": "Du bist diejenige, die heilige Kammer wurde, und das Allerheiligste des Tempels, und der Vorhang des Lichtes, und der Sitz des Ruhmes, was nicht erklärt werden kann. Wir haben dich, Oh heilige Maria, mit dem Allerheiligsten des Tempels verglichen, den der Heilige Geist kam über dich, und die Macht des Allerhöchsten überschattete dich, und mit dem Vorhang des Lichtes, aufgrund des Wortes des Vaters, unser Erlöser Jesus Christus, der in deinem Leib verborgen war, Er ist Herr über alles, Er ist über allem, Den die Engel und Erzengel, die Herren und Gebieter, die Mächte und Throne und Herrscher lobpreisen. Und als du deinen Sohn auf der Erde in einem Stall gebarest umgaben dich die vieläugigen Cherubime und die sechs-flügligen Seraphime, und Wolken des Lichts umfingen dich; die Erzengel, Gruppen von Engeln und die himmlischen Heer- scharen standen vor dir, in Furcht und zitternd. Und dort, mit einer anderen Lobpreisung, ehrten dich die Cherubime und Seraphime, die nicht von ihrer Lobpreisung im Himmel war, oder von ihrer früheren Lobpreisung. Als sie ihren Herren sahen, Der all Seine Schöpfung versammelt hatte, al ser in deinem Leib weilte, und Der alle Schöpfung versorgte, während er deine Milch als ein Säugling trank, suchten sie Ihn im höchsten Himmel, und fanden Ihn mit dem Vater und dem Heiligen Geist wie zuvor. Und als sie die Unterwürfigkeit ihres Herren sahen, richteten sie ihre Augen nach dem höchsten Himmel, breiteten ihre Flügel aus, und lobpreisten ihren Herren, und sagten, “Ehre sei Dir, Herr aller im Himmel!”, und wiederum sahen sie dich in einer Höhle mit deinem Kind; zu dir allein sagten sie, “Friede auf Erden!” Und als sie Ihn in Menschengestalt sahen, die Er von dir angenommen hatte, verbeugten sie sich, und sagten, “Den Menschen ein Wohlgefallen!” Der Prophet David prophezeite in einem Psalm: “Der Herr hat herniedergeblickt von der Höhe seines Heiligtums, er hat herabgeschaut vom Himmel auf die Erde,” (Psa. 102:19), und sah all die Menschenkinder. Der König hat deine Schönheit begehrt, und sagte, “Dies ist meine Ruhestatt für immer, hier will ich wohnen, denn ich habe ihn begehrt.” (Psa. 132:14) Heilige [Jungfrau], bete für uns, dass dein Sohn uns Seine Gnade erweist."
+          }
+        },
+        {
+          "section": 7,
+          "text": {
+            "en": null,
+            "am": "ከንጹሓን ካልበደሉ መላእክት ወገን የሆነና በደል የሌለበት በሁሉ ጌታ ፊት የሚቆም ከደጋጐቹ መላእክት ወገን የሆነ መልአኩ ገብርኤል አበሠረሽ እንዲህም አለሽ ጸጋን ያገኘሽ ሆይ ደስ ይበልሽ እግዚአብሔር ካንቺ ጋር ነው ከሴቶች ይልቅ የተባረክሽ ነሽ የሁሉ ገዥ በሆነ እግዚአብሔር ዘንድ ባለሟልነትን አገኘሽ፡፡ እነሆ ትፀንሻለሽ ልጅም ትወልጃለሽ ስሙንም ኢየሱስ ትይዋለሽ እርሱ ታላቅ ነው የልዑል እግዚአብሔር ልጅ ይባላል እግዚአብሔር አምላክም የአባቱን የዳዊትን ዙፋን ይሰጠዋል ለዘላለሙ የያዕቆብን ወገን ይገዛል ለመንግሥቱም ፍጻሜ የለውም፡፡ መንፈስ ቅዱስ ያድርብሻል የልዑል ኃይልም ይጸልልሻል፡፡ ካንቺ የሚወለደውም ቅዱስ ነው ቅድስት ሆይ ካንቺ የተወለደው ይቅርታውን ያድለን ዘንድ ለምኝልን።",
+            "gez": "አስተማሰልናኪ ቅድስት ወብፅዕት፤ ስብሕት ወቡርክት፡ ክብርት ወልዕልት በመሶበ ዘወርቅ፡ ዘውስቴታ ኅብስተ ሕይወት ዘወረደ እምሰማያት፡ ወሀቤ ሕይወት ለኩሉ፡ ዘየአምን ኪያሁ ወይበልዕ እምኔሁ በአሚን ወበልብ ሥሙር ምስለ እለ በየማኑ። ወልድኪ ሣህሎ ይክፍለነ ሰአሊ ለነ ቅድስት።",
+            "de": "Wir haben dich, Oh heilige und würdevolle, gepriesene und gesegnete, verehrte und erhabene, mit dem goldenen Tablett vergrlichen, das das Brot des Lebens enthält, welches vom Himmel herab kam, und dem Spender des Lebens für alle, die mit einem bereitwilligen Herzen an Ihn glauben, und die auf seiner rechten Seite [sind]. Heilige [Jungfrau], bete für uns, dass dein Sohn uns Seine Gnade erweist."
+          }
+        },
+        {
+          "section": 8,
+          "text": {
+            "en": null,
+            "am": "የንጽሕና አዳራሽና ከተለዩ የተለየሽ መቅደስ አንቺ ነሽ፡፡ የብርሃን መጋረጃና የማይመረመር የክብር (የጌትነት) ዙፋን አንቺ ነሽ ቅድስት ማርያም ሆይ መንፈስ ቅዱስ መጥቶ ስላደረብሽና የልዑል ኃይል ስለጸለለብሽ ቅድስተ ቅዱሳን (ከተለዩ) የተለየች በሆነች መቅደስ መሰልንሽ የብርሃን መጋረጃ ነሽ ማለታችን ግን የአብ ቃል የሆነ መድኃኒታችን ኢየሱስ ክርስቶስ በማኅፀንሽ ስለተሠወረ ነው፡፡ ይኸውም በላይ ያለ የሁሉ ጌታ ነው፡፡ መላእክትና የመላእክት አለቆች መናብር ሥልጣናት አጋዕዝት ኃይላት ሊቃናት መኳንንት የሚያመሰግኑት ነው፡፡ ልጅሽንም በዚህ ዓለም በወለድሽው ጊዜ ዓይኖቻቸው ብዙዎች የሆኑ ኪሩቤልና ክንፎቻቸው ስድስት የሆኑ ሱራፌል በበረት ውስጥ ጋረዱልሽ፡፡ የብርሃን ደመናዎችም ከበቡሽ የመላእክት አለቆች የመላእክት ሠራዊትና የሰማይ ጭፍሮች በመፍራትና በመንቀጥቀጥ በፊትሽ ቆሙ፡፡ በዚህም ዓለም ኪሩቤልና ሱራፌል በሰማያት ካለው ምስጋናቸው ወይም ከቀድሞ ምስጋናቸው ወገን ባልሆነ በሌላ (በአዲስ) ምስጋና አመሰገኑሽ ፍጥረትን ሁሉ ሰብስቦ የያዘና ፍጥረቱን ሁሉ የሚመግብ ጌታቸው በብብትሽ (በክንድሽ) ተቀምጦ ጡትሽን እንደ ሕፃን ሲጠባ ባዩ በአርያም ፈለጉና በዚህ ዓለም እንደቀድሞው ከአባቱና ከመንፈስ ቅዱስ ጋር አገኙት የጌታ ትሕትናውን ባዩ ጊዜም ዓይኖቻቸውን ወደ ላይ ወደ አርያም ከፍ ከፍ አደረጉ ክንፋቸውንም ዘርግተው ለሁሉ ጌታ ላንተ በሰማይ ምስጋና ይገባሃል እያሉ ጌታቸውን አመሰገኑ፡፡ ዳግመኛም በዋሻ በጐል ውስጥ አንቺን ከሕጻንሽ ጋር አይተው በምድር ላይ ሰላም (ፍቅር አንድነት ሆነ) አሉ፡፡ ካንቺ የነሳውን የኛን ሥጋ ለብሶ ባዩት ጊዜም ሰውን ምንኛ ወደደው ብለው ሰገዱለት፡፡ ነቢዩ ዳዊትም እንዲህ ብሎ ትንቢት ተናገረ እግዚአብሔር በሰማይና በማደሪያው ቦታ ሆኖ በምድር ወደሚኖሩት ሁሉ ተመለከተ የሰውንም ልጆች ሁሉ አየ ንጉሥ ውበትሽን ወደደ፡፡ ዘለዓለም ማረፊያዬ ይህች ናት መርጫታለሁና በእርሷ አድራለሁ አለ፡፡ ቅድስት ሆይ ልጅሽ ይቅርታውን ያድለን ዘንድ ለምኝልን።",
+            "gez": "አንቲ ውእቱ ተቅዋም ዘወርቅ ዘኢገብራ እደ ኬንያ ዘሰብእ፡ ወኢያኅትው ውስቴታ ማኅቶተ፡ አላ ለሊሁ ብርሃን ዘእምብርሃን፡ መጽአ ኅቤኪ ወነበረ መልዕልቴኪ፡ ወአብርሃ በመለኮቱ ወስተ ኩሉ አጽናፈ ዓለም፡ ሰደደ ጽልመተ እምላዕለ ሰብእ፡ ወአድኅነነ በቃሉ ማሕየዊ እንዘ ይብል፡ አነ ውእቱ ብርሃኑ ለዓለም፡ እመኑ በብርሃኑ ወአንሶስው እንዘ ብክሙ ብርሃን፡ ወልድኪ ሣህሎ ይክፍለነ፡፡ ሰአሊ ለነ ቅድስት።",
+            "de": "Du bist der golden Kerzenständer, der nicht aus den Händen menschlicher Hand- werker entstand, und auf dem eine Lampe entzündet wird, die das Licht des Vaters ist. Das Licht aus Licht kam über dich, und verweilte in dir, und seine Gottheit wird über alle scheinen, bis zum Ende der Welt. Er hat die Dunkelheit von den Menschen ver- trieben, und uns durch seinen lebensspen- dendes Wort erlöst, indem er sagte, “Ich bin das Licht der Welt, glaube an das Licht, und gehe während du das Licht hast.” (Jn. 8:12; 12:36,35) Heilige [Jungfrau], bete für uns, dass dein Sohn uns Seine Gnade erweist."
+          }
+        },
+        {
+          "section": 9,
+          "text": {
+            "en": null,
+            "am": "የተለየሽና ደግ የሆንሽ የተመሰገንሽና የተባረክሽ የከበርሸና ከፍ ከፍ ያልሽ ሆይ የሕይወት ኅብስት ባለበት በወርቅ መሶብ መሰልንሽ፡፡ የሕይወት ኅብስትም (ይኸውም) በቀኙ ካሉ ጻድቃን ጋር ርሱን ለሚያምን በሃይማኖትም ፈቃደኛ በሆነ ልብ ከእርሱ ለሚበላም ሁሉ ሕይወትን የሚሰጥ ከሰማይ የወረደ ነው ቅድስት ሆይ ልጅሽ ይቅርታውን ያድለን ዘንድ ለምኝልን።",
+            "gez": "እግዚአ ኩሉ ዘእምእግዚአ ኩሉ፡ ብርሃን ዘእምብርሃን፡ እግዚእ ዘበአማን፡ ዘእምእግዚአ ኩሉ ዘበአማን፡ ዘተወልደ ወአኮ ዘተገብረ፡ ኅቡር ህላዌሁ ምስለ አቡሁ ዘቦቱ ኩሉ ኮነ፡ ዘበሰማይኒ ወዘበምድርኒ። ዘበእንቲአነ ለሰብእ ወበእንተ መድኃኒትነ ወረደ ወተሠገወ ወተሰብአ እማርያም እምቅድስት ድንግል፡ ወበምጽአቱ አብርሃ ላዕሌነ ወዜነወነ ትፍሥሕተ ወአቅረበነ ኅበ አቡሁ ወመርሐነ ፍኖተ ሕይወት ወወሀበነ ሕይወተ ዘለዓለም በአሚነ ዚአሁ። ኢሳይያስ ነቢይ እምትእዛዙ ለኢየሱስ አንከረ በትንቢት ወይቤ፡ ብርሃን ትእዛዝከ በዲበ ምድር። ዘካርያስ ካህን አረጋዊ ጻድቅ ወንጹሕ ዘይገብር ትእዛዞ ለእግዚአ ኩሉ፡ አንከረ ተደመ፡ ከሠተ አፍሁ ወይቤ፡ በሣህሉ ወበምሕረቱ ለአምላክነ ለዘሐወፀነ እምአርያም፡ ወሠረቀ ከመ ያርእዮሙ ብርሃኖ ለእለ ይነብሩ ውስተ ጽልመት ወጽላሎተ ሞት፡ ከመ ያርትዕ እገሪነ ውስተ ፍኖተ ሰላም ከመ ይምሐረነ፡ ወልድኪ ሣህሎ ይክፍለነ ሰአሊ ለነ ቅድስት።",
+            "de": "Herr aller vom Herren aller, Licht aus Licht, wahrer Herr vom wahren Herren, geboren, nicht erschaffen, von einer Beschaffenheit [Natur] mit dem Vater, durch den alle Dinge im Himmel und auf Erden erschaffen wurden. Für uns Menschen und für unsere Erlösung kam Er hinunter, nahm Menschengestalt an, und wurde Mensch durch die heilige Jungfrau Maria, und mit seinem Kommen scheinte er Licht auf uns, und erklärte Freude und Frohsinn, brachte uns dem Vater nahe, führte uns auf den Weg des Lebens, und gab uns ewiges Leben durch den Glauben der von Ihm ist. Der Prophet Isaiah wunderte sich über das Gebot Jesu, und sagte in einer Prophezeiung, “Dein Gebot ist Licht auf der Erde.” Zecharias, der Priester, ein rechtschaffener und reiner Gemeindeältester, der das Gebot des Herren aller ausführte, wunderte sich, und war erstaunt. Er öffnete seinen Mund und sagte, “Mit Mitleid und Gnade unseres Herrn, der auf uns vom höchsten Himmel herabschaut, und auferstanden ist, dass er Sein Licht denjenigen, die in Dunkelheit und dem Schatten des Todes weilen, zeigen möge; und er hat unseren Füßen die Richtung des Friedens gewiesen, möge er uns gnädig sein. Heilige [Jungfrau], bete für uns, dass dein Sohn uns Seine Gnade erweist."
+          }
+        },
+        {
+          "section": 10,
+          "text": {
+            "en": null,
+            "am": "የብልሃተኛ እጅ ያልሠራት በውስጧም መብራት የሚያበሩባት የወርቅ መቅረዝ አንቺ ነሽ ራሱ የአብ ብርሃን ያበራባታል እንጂ፡፡ ከብርሃን የተገኘ ብርሃን ወደ አንቺ መጥቶ አደረ በአምላክነቱም በዓለም ሁሉ አበራ፡፡ ጨለማን ከሰዎች ላይ አራቀ እኔ የዓለም ብርሃን ነኝ በብርሃኔ እመኑ ብርሃን ሳለላችሁ ተመላለሱ ብሎ በሚያድን ቃሉ አዳነን፡፡ ቅድስት ሆይ ልጅሽ ይቅርታውን ያድለን ዘንድ ለምኝልን።",
+            "gez": "ናስተማስለኪ ኦ እግእትነ ማርያም በማዕጠንት ዘወርቅ ዘውስተ እደዊሆሙ ለሊቃነ ካህናት ሰማያውያን እለ ይከውኑ ጸሎተ ኩሎሙ ቅዱሳን መሃይምናን እምዲበ ምድር በውስተ ማዕጠንቶሙ ከማሁ በስእለተ ስምኪ ያዐርጉ ስእለቶሙ ለዕጓለ እመሕያው ውስተ ማኅደረ ሥሉስ ቅዱስ አብ ወወልድ ወመንፈስ ቅዱስ፡ ወታስተሥርዪ ኃጢአተ ሕዝብኪ ተበውሀ ለኪ እምአብ ወወልድ ወመንፈስ ቅዱስ፡ ከመ ትኩኒ ተንከተመ ለውሉደ ሰብእ ለሕይወት ዘለዓለም፡ ለኪ ይደሉ ከመ ትኩኒ መድኃኒቶሙ ለመሃይምናን ሕዝብኪ ኦ መድኃኒተ ኩሉ ዓለም፡ ወልድኪ ሣህሎ ይክፍለነ ሰአሊ ለነ ቅድስት።",
+            "de": "Wir haben dich, Oh unsere Jungfrau, mit dem goldenen Weihrauch- gefäß verglichen, das sich in den Händen der himmlischen Hohe- priester befindet, in dem sie die Gebete der heiligen Gläubigen bewahren, die auf Erden sind. Ebenso, indem sie Deinen Namen ersuchen, erheben sie die Gebete der Menschenkinder zum Verweilort der heiligen Dreifaltigkeit hinauf, dem Vater, dem Sohn, und dem Heiligen Geist. Und du erhieltst die Authorität, die Sünden deines Volkes zu vergeben, von Vater, Sohn, und Heiligem Geist, damit du eine Brücke in das ewige Leben für die Menschenkinder sein mögest. Es ist recht dass du die Erlösung für dein gläubiges Volk sein sollst, Oh du Erlösung für die ganze Welt. Heilige [Jungfrau], bete für uns, dass dein Sohn uns Seine Gnade erweist."
+          }
+        },
+        {
+          "section": 11,
+          "text": {
+            "en": null,
+            "am": "ከሁሉ ጌታ የተገኘ የሁሉ ጌታ ከብርሃን የተገኘ ብርሃን በውነት የሁሉ ጌታ (የባሕርይ አምላክ) ከሆነ የተገኘ እውነተኛው የሁሉ ጌታ የተወለደ እንጂ የተፈጠረ ያይደለ በህልውና በአኗኗር ከአባቱ ጋር የተካከለ በሰማይና በምድር ያለው ሁሉ በእርሱ የተፈጠረ እኛን ሰዎችን ስለማዳን የወረደው፡፡ ክርስቶስ ከቅድስት ድንግል ማርያም ፈጽሞ ሰው ሆነ፡፡ በመምጣቱም አበራልን ፍጹም ደስታንም አበሠረን (ነገረን) ወደአባቱም አቀረበን (አስታረቀን) ወደ ሕይወት ጐዳናም መራን የዘለዓለም ሕይወትንም ሰጠን፡፡ ነቢዩ ኢሳይያስ እርሱን በማመን ከሕጉ የተነሣ በትንቢት እያደነቀ ሕግህ በምድር ላይ ብርሃን ነው አለ፡፡ አረጋዊ ካህንና የእግዚአብሔርን ትእዛዝ የጠበቀ ጻድቅና ንጹሕ ዘካርያስ ፈጽሞ አደነቀ መናገርም ጀመረና እንዲህ አለ አምላካችን በይቅርታውና በምሕረቱ በአርያም (በልዕልና) ሆኖ ጐበኘን፡፡ በጨለማና በሞት ጥላ ውስጥ ለሚኖሩትም ብርሃኑን ይገልጥላቸው ዘንድ ተወለደ ይቅር ይለን ይምረንም ዘንድ እግሮቻችንን ወደ ሰላም መንገድ አቀናልን ቅድስት ሆይ ልጅሽ ይቅርታውን ያድለን ዘንድ ለምኝልን፡፡",
+            "gez": "አንቲ ውእቱ ዕፅ ቡሩክ፡ ዕፀ ሕይወት ዕፀ መድኃኒት ህየንተ ዕፀ ሕይወት ዘውስተ ገነት፡ ዘኮንኪ ዕፀ ሕይወት በዲበ ምድር። ፍሬኪኒ ፍሬ ሕይወት ውእቱ፡ ወዘበልዐ እምኔሁ ሕይወተ ዘለዓለም የሐዩ። ጽጌ አስተርአየ እምኔኪ፡ ዘሠናየ መዓዛ ይምዕዝ በኅበ እለ የአምርዎ ውስተ ኲሉ አጽናፈ ዓለም፡ ዘበእንቲአሁ ተነበየ ዳዊት በመዝሙር እንዘ ይብል፡ ከርቤ ወሚዓ ወሰሊክ እምነ አልባስኪ፡ ሰሎሞን አቡኪ ተነበየ ወይቤ፡ ፄና አንፍኪ ከመ ፄና ስኂን፡ ገነት ዕፁት እኅትየ መርዓት፡ ገነት ዕፁት ዐዘቅት ኅትምት ፍናወ ዚአኪ፡ ገነት ምስለ ፍሬ አቅማሕ፡ ቆዕ ምስለ ናርዶስ፡ ናርዶስ ዘምስለ መጽርይ ቀጺመታት ወቀናንሞስ ምስለ ኩሉ ዕፀወ ሊባኖስ፡ ከርቤ ወዓልው ምስለ ኩሉ መቅድመ ዕፍረታት፡ ነቅዐ ገነት ዐዘቅተ ማየ ሕይወት ዘይውኅዝ እምሊባኖስ፡ ወልድኪ ሣህሎ ይክፍለነ ሰአሊ ለነ ቅድስት።",
+            "de": "Du bist der gesegnete Baum, der Baum des Lebens, der Baum der Erlösung, anstelle des Baumes des Lebens, der im Paradies steht. Du wurdest der Baum des Lebens auf Erden, deine Frucht ist die Frucht des Lebens, and wer immer auch davon isst, wird ewiges Leben haben. Eine Blume hat sich selbst enthüllt, die einen angenehmen Duft für diejenigen verbreitet, die bis ans Ende der Welt bekannt sind; David sprach eine Prophe- zeiung über Ihn in einem Psalm, und sagte, “Von Myrrhe, Aloe und Kassia duften all deine Gewänder.” (Psa. 45:8) Solomon, dein Vater, prophezeite und sagte, “und der Duft deiner Gewänder gleicht dem Duft des Libanon. Ein verschlossener Garten ist meine Schwester, meine Braut, ein verschlossener Born, eine versiegelte Quelle. Was dir entsproßt, ist ein Lustgarten von Granat- apfelbäumen samt köstlichen Früchten, Hennasträuchern samt Narden, Narde und Safran, Würzrohr und Zimt samt allerlei Weihrauchgewächsen, Myrrhe und Aloe samt allerbesten Balsam- sträuchern. Eine Gartenquelle bist du, ein Brunnen mit fließendem Wasser und Wasser, das vom Libanon strömt.” (Sol. 4:11-15) Heilige [Jungfrau], bete für uns, dass dein Sohn uns Seine Gnade erweist."
+          }
+        },
+        {
+          "section": 12,
+          "text": {
+            "en": null,
+            "am": "እመቤታችን ሆይ የቅዱሳንና የምእመናንን ሁሉ ጸሎት በማዕጠንታቸው ከምድር ወደ ሰማይ በሚያሳርጉ በሰማያውያን የካህናት አለቆች እጆች ውስጥ ባለ የወርቅ ማዕጠንት እንመስልሻለን፡፡ እንዲሁም ስምሽን በመጥራት የሰው ልጆችን ልመና ወደ ልዩ ሦስት አብ ወልድ መንፈስ ቅዱስ ያሳርጋሉ፡፡ የወገኖችሽንም ኃጢአት ታስተሠርይ ዘንድ ከአብ ከወልድ ከመንፈስ ቅዱስ ተፈቅዶልሻል ለሰዎች ልጆች የዘለዓለም ሕይወት ድልድይ ትሆኝ ዘንድ፡፡ የዓለም ሁሉ መድኃኒት ሆይ ለምእመናን መገኖችሽ መድኃኒታቸው ልትባይ ይገባሻል፡፡ ቅድስት ሆይ ልጅሽ ይቅርታውን ያድለን ዘንድ ለምኝልን፡፡",
+            "gez": "በትረ አሮን እንተ ሠረፀት ዘእንበለ ተክል ወኢሠቀይዋ ማየ በቤተ መቅደስ፡ ወረሰያ ድሉተ ለካህናት፡ ከማሃ አንቲኒ ነበርኪ ውስተ ቤተ መቅደስ በቅድስና ወበንጽሕ ወወፃእኪ እምቤተ መቅደስ በክብር ወበዓቢይ ፍሥሐ፡ ወሠረፀ እምኔኪ ፍሬ ሕይወት ዘበአማን እግዚእነ ወመድኃኒነ ኢየሱስ ክርስቶስ፤ ኦ ቅድስት ዘእንበለ ሩካቤ ረከብኪ ወልደ በከመ ተጠየቂዮ ለመልአክ ወይቤለኪ፡ መንፈስ ቅዱስ ይመጽእ ላዕሌኪ ወኃይለ ልዑል ይጼልለኪ፡ ወልድኪ ሣህሎ ይክፍለነ ሰአሊ ለነ ቅድስት።",
+            "de": "[Du bist] der Stab Aarons, der im Tempel erblühte, ohne gepflanzt oder gegossen worden zu sein, würdig gemacht für die Priester. So verweiltest du im Tempel in Heiligkeit und Reinheit, and du verliest den Tempel in Ehre und großer Freude, und aus dir entsprang die Frucht des wahren Lebens, wahrlich, unser Herr und Erlöser Jesus Christus. Oh du heilige ohne Befleckung, du hattest einen Sohn in dir, wie du es vom Engel erbeten hattest, und er sagte zu dir, \"Der Heilige Geist über dich kommen, und die Macht des Allerhöchsten wird dich überschatten.\" Heilige [Jungfrau], bete für uns, dass dein Sohn uns Seine Gnade erweist."
+          }
+        },
+        {
+          "section": 13,
+          "text": {
+            "en": null,
+            "am": "አንቺ የተባረክሽ ዕፅ ነሽ የሕይወትና የደኅንነት ዕፅ ነሽ የሕይወትና የደኅንነት ዕፅ ነሽ በገነት ውስጥ ባለው ዕፅ ሕይወት ፈንታ በዚህ ዓለም የሕይወት ዕፅ ሆንሽ ፍሬሽም የሕይወት ፍሬ ነው በሚወዱት (በሚያውቁት) በዓለም ሰዎች ዘንድ የሚሸት መልካም መዓዛ ያለው አበባ ካንች ታየ ይኸውም ከርቤ ሚዓ ሰሊክ የተባሉ ሽቶች በልብሶችሽ ላይ አሉ ብሎ በበገና ነቢዩ ዳዊት ትንቢት የተናገረልሽ ነው፡፡ አባትሽ ሰሎሞንም የአፍንጫሽ መዓዛ እንደ ነጭ ዕጣን መዓዛ ነው አለ እቴ መርዓት ሙሽራዬ ሆይ የታጠርሽ ተክል ነሽ መንገድሽ የታጠረች ተክል የታተመች ጉድጓድ ናት፡፡ ከሽቱ ቅመም ጋር ሽቱ አለሽ ቆዕ የሚባል ሽቱ ናርዶስ ከሚባል ሽቱ ጋር አለሽ ናርዶስ የሚባል ሽቱ መጽርይ ከሚባል ሽቱ ጋር አለሽ ቀጺመታት ቀናንሞስ የተባሉ ሽቶች ከደጋ ሽቶች ጋር አሉሽ፡፡ ከሽቶች ሁሉ የሚበልጡ ከርቤና ዐልው የሚባሉ ሽቶች ከነዚህ ሁሉ ሽቶች ጋር አሉሽ የገነት ፈሳሽ ሆይ ከደጋ የሚፈስ የሕይወት ውሃ መገናኛ ነሽ ቅድስት ሆይ ልጅሽ ይቅርታውን ያድለን ዘንድ ለምኝልን።",
+            "gez": "ለኪ ይደሉ ለአግብርትኪ ወለአእማትኪ ትስአሊ ለነ ኅበ ወልድኪ፡ ለእለ አመነ በስመ ወልድኪ፡ ኦ ምልእተ ጸጋ፡ ኦ ሙኃዘ ፍሥሐ፡ ፈድፋደ ብኪ ግርማ ራእይ ዘየዐቢ እምኪሩቤል እለ ብዙኃን አዕይንቲሆሙ ወሱራፌል እለ ስድስቱ ክነፊሆም፡ እልክቱ ይከድኑ ገጾሙ ወእገሪሆሙ በአርአያ ትእምርተ መስቀል፡ ከመ ይድኃኑ እምእሳት ዘይወፅእ እመለኮተ ወልድኪ፡ አንቲሰ ኮንኪ ማኅፈደ ለመለኮት፡ ወኢያውዐየኪ እሳተ መለኮት ፆርኪ ነበልባለ እሳት፡ ወኢያውዐየኪ ነበልባለ መለኮት፡ ተመሰልኪ ዕፀ ጳጦስ ዘእየ ሙሴ በነደ እሳት ወእፀታ ኢውዕየ፡ ከማሁ ኢያውዐየኪ እግዚአ ኃይላት ዘኩለንታሁ እሳት ፍጹም፡ አንቲ በአማን ዘኮንኪ ምክሐ ለዘመደ ክርስቲያን። ወብኪ ቅሩባነ ኮነ እምድር ለማኅደር ውስተ አርያም፡ በእንተ ተሠግዎቱ ለወልደ አምላክ እምኔኪ ሰአሊት ለነፍሳቲነ ሕይወተ ኦ ጸጋዊተ ምሕረት ለእለ የአምኑ በጸሎታ፡፡ ሰአሊ ለነ ኅበ እግዚእነ ወመድኃኔነ ኢየሱስ ክርስቶስ ያጽንዐነ በርትዕት ሃይማኖት ውስተ አሚነ ዚአሁ ወዘአቡሁ ወዘቅዱስ መንፈሱ፡ ይጸግወነ ሣህሎ ወምሕረቶ ሥረይ ኃጢአተነ በብዝኅ ምሕረቱ፡ ስብሐት ለኪ ኦ ወላዲተ እግዚአ ኩሉ አኮቴት ወክብር ለአብ ወወልድ ወመንፈስ ቅዱስ፡ ይእዜኒ ወዘልፈኒ ወለዓለም ዓለም አሜን ወልድኪ ሣህሎ ይክፍለነ፡ ሰአሊ ለነ ቅድስት። በእንተ ተሠግዋቱ ለወልደ አምላክ እምኔኪ፡ ወብኪ ቅሩባነ ኮነ እምድር ለማኅደር ውስተ አርያም፡ ብኪ ወበስመ ወልድኪ ቅሩባነ ኮነ። ጸሎታ ለማርያም ወስእለታ።",
+            "de": "Es ist recht für dich für uns zu beten, deine Diener und Dienerinnen, die an den Namen deines Sohnes glauben. Oh du voll der Gnade, Oh du voll der Freude, deine Erscheinung besitzt eine große Majestät die die der vieläugigen Cheru- bime und der sechs- flügligen Seraphime übertrifft. Sie bedecken ihre Gesichter und Füße in der Form des Kreuzes, damit sie nicht von dem Feuer, das von der Gottheit Deines Sohnes entspringt, verletzt warden. Du hingegen wurdest zum Vorhang für die Gottheit, und das göttliche Feuer verzehrte dich nicht. Du trugst die Flammen des Feuers, und sie verbrannten dich nicht. Du ähnelst dem Busch den Moses im lodernden Feuer gesehen hat, und dessen Blätter nicht verbrannten. Ebenso verbrannte der Herr der Mächte, der ein perfektes Feuer ist, dich auch nicht. Du bist wahrlich diejenige, die der Augenschmaus der christlichen Familie ist. Aufgrund der Inkarnation des Sohn Gottes von dir und in dir sind wir näher am Verweilort in der Höhe als zur Erde. [Du bist] diejenige, die für das Leben unserer Seelen eintritt, Oh du großzügige Gewährerin der Gnade für diejenigen, die an ihr Gebet glauben. Bete für uns zu unserem Herrn und Erlöser Jesus Christus, dass Er uns im richtigen Glauben stärken möge, im Glauben der von Ihm und von Seinem Vater und vom Heiligen Geist ist; dass er uns großzügigerweise Sein Mitleid und Seine Gnade schenkt. Ehre sei dir, Oh Mutter des Herrn über alle. Dank und Ehre sei dem Vater, dem Sohn, und dem Heiligen Geist, jetzt und für immer, Welt ohne Ende, Amen. Heilige [Jungfrau], bete für uns, dass dein Sohn uns Seine Gnade erweist."
+          }
+        },
+        {
+          "section": 14,
+          "text": {
+            "en": null,
+            "am": "ሳይተክሏትና ውሃ ሳያጠጧት የለመለመች የአሮን በትር በቤተ መቅደስ ነበረች ለካህናት ዝግጁ ያደረጋት ነበረች፡፡ አንችም በቅድስናና በንጽሕና ጸንተሽ እንደ እርስዋ በቤተ መቅደስ ኖርሽ ከቤተ መቅደስም በክብር በታላቅ ደስታ ወጣሽ። በእውነት የሕይወት ፍሬ የሆነ ጌታችንና መድኃኒታችን ኢየሱስ ክርስቶስም ካንቺ ተገኘ፡፡ ቅድስት ሆይ ከመልአኩ እንደ ተረዳሽው ከወንድ ያለመገናኘት ልጅን አገኘሽ መልአኩ መንፈስ ቅዱስ መጥቶ ያድርብሻል የልዑል ኃይልም ይጸልልብሻል ብሎ ነግሮሽ ነበርና፡፡ ቅድስት ሆይ ልጅሽ ይቅርታውን ያድለን ዘንድ ለምኝልን።",
+            "gez": null,
+            "de": null
+          }
+        },
+        {
+          "section": 15,
+          "text": {
+            "en": null,
+            "am": "ጸጋን የተመላሽና የደስታ መገኛ ሆይ በልጅሽ ስም ላመን ለእኛ ለወንዶችና ለሴቶች አገልጋዮችሽ ትለምኝልን ዘንድ ይገባሻል፡፡ ይልቁንም ዓይኖቻቸው ብዙዎች ከሆኑ ከኪሩቤልና ክንፎቻቸው ስድስት ከሆኑ ከሱራፌል ግርማ የሚበልጥ የመወደድ ግርማ አለሽ እነዚያ ፊታቸውን ይሸፍናሉ፡፡ እግሮቻቸውም የትእምርተ መስቀል አምሳያዎች ናቸው፡፡ ከልጅሽ መለኮት ከሚወጣው እሳት ይድኑ ዘንድ አንቺ ግን ለመለኮት ማደሪያ ሆንሽ፡፡ የመለኮት ባሕርይ አላቃጠለሽም የእሳት ነበልባልን ተሸከምሽ የመለኮት ባሕርይም አላቃጠለሽም፡፡ ሙሴ እንጨትነቷ በእሳት ሳይቃጠል ያያት ዕፀ ጳጦስን መሰልሽ፡፡ ሁለንተናው ፍጹም እሳት የሆነ የኅይላት ጌታ እንደ ዕፀ ጳጦስ አላቃጠለሽም ለክርስቲያን ወገኖች በእውነት መመኪያ የሆንሽ አንቺ ነሽ የአምላክ ልጅ ካንቺ ሰው ስለመሆኑም ባንቺ ከምድር ወደ አርያም የቀረብን ሆንን በጸሎትሽ ለሚያምኑ ምሕረትን የምትሰጪ ሆይ ለነፍሳችን ሕይወትን የምትለምኝ ነሽ ወደ ጌታችንና መድኃኒታችን ኢየሱስ ክርስቶስ ለምኝልን እርሱን አባቱን መንፈስ ቅዱስን በማመን በቀናች ሃይማኖት ያጸናን ዘንድ፡፡ ይቅርታውንና ምሕረቱን ይሰጠን ዘንድ፡፡ በምሕረቱ ብዛት ኃጢአታችንን ያስተሰርይልን ዘንድ የሁሉን ጌታ የወለድሽ ሆይ ምስጋና ይገባሻል፡፡ ዛሬም ዘወትርም ለዘለዓለምም ምስጋናና ክብር ለአብ ለወልድ ለመንፈስ ቅዱስ ይገባል አሜን፡፡ ቅድስት ሆይ ልጅሽ ይቅርታውን ያድለን ዘንድ ለምኝልን።",
+            "gez": null,
+            "de": null
+          }
+        },
+        {
+          "section": 16,
+          "text": {
+            "en": null,
+            "am": "በቅዱስ ኤፍሬምና በኢትዮጵያዊው ቅዱስ ያሬድ ላይ ያደረ አምላክን የወለደች የእመቤታችን ድንግል ማርያም ልመናዋ ክብሯ የልጅዋ ቸርነት ከወዳጅዋ ____________ ጋር ለዘለዓለም ይኑር አሜን።",
+            "gez": null,
+            "de": null
+          }
+        }
+      ]
+    },
+    {
+      "chapter": "yiwedswea_melaekt",
+      "chapter_name": {
+        "en": "Yiwedsewa Melaekt",
+        "am": "ይዌድስዋ መላእክት",
+        "gez": "ይዌድስዋ መላእክት",
+        "de": "Die Engel Lobpreisten Maria Innerhalb des Vorhanges [des Tempels] und Sagten zu Ihr, \"gegrüßet Seist Du, Maria, das Junge Lamm.”"
+      },
+      "sections": [
+        {
+          "section": 1,
+          "text": {
+            "en": null,
+            "am": "ይዌድስዋ መላእክት መላእክት ማርያምን በመንጦላዕት ውስጥ ያመሰግንዋታል ሓዳስ ጣዕዋ ለአንቺ ክብር ምስጋና ይገባሻል እያሉ መልአክ ማርያምን ቃልን ተቀበዪው አላት። ከአንቺ ዘንድ ይመጣልና በማኅፀንሽም ያድራል እንዴት ከድኃ ቤት አደረ እንደ ምስኪን ከሰማያት ወርዶ የእርስዋን ባሕርይ ባሕርይ አድርጎ ተወለደ።",
+            "gez": "ይዌድስዋ መላእክት ለማርያም በውስተ ውሣጤ መንጦላዕት ወይብልዋ በሀኪ ማርያም ሐዳስዩ ጣዕዋ።",
+            "de": "Der Engel sagte zu Maria, \"empfange das Wort, Er soll zu dir kommen und in deinem Leib verweilen\". [Oh] wie er vom Himmel herabstieg, und im Haus der Armut verweilte wie ein Bedürftiger, ihre Schönheit begehrte, und von ihr geboren wurde. Und im sechsten Mond ward der Engel Gabriel gesandt von GOtt in eine Stadt in Galiläa, die heißt Nazareth, zu einer Jungfrau, die vertrauet war einem Manne mit Namen Joseph vom Hause David; und die Jungfrau hieß Maria. (Lk. 1:26-27) Und der Engel kam zu ihr hinein und sprach: Gegrüßet seiest du, Holdselige! Der Herr ist mit dir, du Gesegnete unter den Frauen. Da sie aber ihn sah, erschrak sie über seine Rede und gedachte: Welch ein Gruß ist das? Und der Engel sprach zu ihr: Fürchte dich nicht, Maria; du hast Gnade bei Gott funden. Siehe; du wirst schwanger werden im Leibe und einen Sohn gebären, dem sollst du den Namen Jesus geben. Der wird groß und ein Sohn des Höchsten genannt werden, und Gott der Herr wird ihm den Thron seines Vaters David geben. Und er wird ein König sein über das Haus Jakob ewiglich, und seines Königreichs wird kein Ende sein. Da sprach Maria zu dem Engel: Wie soll das zugehen, zumal ich von keinem Manne weiß? Der Engel antwortete und sprach zu ihr: Der Heilige Geist wird über dich kommen, und die Kraft des Höchsten wird dich überschatten.“ (Lk. 1:28- 35) “Deshalb wird auch das Kind heilig und Sohn Gottes genannt werden. Auch Elisabeth, deine Verwandte, hat noch in ihrem Alter einen Sohn empfangen; obwohl sie als unfruchtbar galt, ist sie jetzt schon im sechsten Monat. Denn für Gott ist nichts unmöglich. Da sagte Maria: Ich bin die Magd des Herrn; mir geschehe, wie du es gesagt hast.” (Lk. 1:35-38) Der Engels sagte zu ihr, „Friede sei mit dir.“ Gabriel sagte zu ihr, „Friede sei mit dir. [Oh] Jungfrau Maria, Friede sei mit dir. Mutter Gottes, Friede sei mit dir. Heilige Maria, Friede sei mit dir. Geliebte Maria, Friede sei mit dir. Reine Maria, Friede sei mit dir. Gesegnete Maria, Friede sei mit dir. Verehrte Maria, Friede sei mit dir. Verweilort der Gottheit, Friede sei mit dir. [Oh] vollständiges Tabernakel, Friede sei mit dir. Schwester der Engel, Friede sei mit dir. Und Mutter aller Menschen, Friede sei mit dir. Unsere Jungfrau Maria, Friede sei mit dir. [Oh] friedfertige, Friede sei mit dir. Geheiligt als der Verweilort des Höchsten, Friede sei mit dir. Der Vater erwählte dich und hielt dich in höchsten Ehren, Sein Verweilort zu sein, Friede sei mit dir. [Oh] du geschmückt mit goldenen Kleidern, Friede sei mit dir. [Du] Flügel einer Taube, bedeck mit Silber, Friede sei mit dir. [Oh] wunderschöne Maria, flankiert von goldenem Spalier, Friede sei mit dir. Tür des Ostens und Mutter des Lichtes, Friede sei mit dir. [Oh] du [die] heller als die Sonne scheint, und [die] über die Berge erhoben ist, Friede sei mit dir. [Oh] Maria, die glorreiche und verehrte, Friede sei mit dir. Bete für uns zu unserem Herrn und Erlöser Jesus Christus, dass E runs erretten mögen, wenn Er mit Seinen heiligen Engeln und der Ehre des Vaters kommt, wenn er die Schafe auf Seine rechte und die Ziegen auf Seine linke Seite setzt. Möge er uns auf die rechte Seite setzen, mit Stefan dem Martyrer und Johannes dem Täufer, und all den Heiligen und Martyrern, für immer und immer, Amen."
+          }
+        },
+        {
+          "section": 2,
+          "text": {
+            "en": null,
+            "am": "በ፮ኛው ወር ገብርኤል መልአክ ከእግዚአብሔር አብ ዘንድ ተላከ ከአንዲት አገር ናዝሬት ገሊላ ከምትባል ለዮሴፍ እጮኛ ከሆነች ከድንግል ዘንድ የዚች የድንግል ስሟ ማርያም ነው።። መልአክ ወደ እርስዋ ገብቶ እንዲህ አላት ደስታ ይገባሻል እግዚአብሔር ከሥጋሽ ሥጋ ከነፍስሽ ነፍስ ነስቶ ከአንቺ ሰው ሆኗልና ከሴቶች ይልቅ አንቺ ቡርክት ነሽ። ከቃሉ አነጋገር አይታ ደነገጠች እንዲህም አለች እንዲህ ያለ የምስጋና እጅ መንሻ ይደረግልኛል? መልአክ እንዲህ አላት ማርያም ሆይ አትፍሪ ከእግዚአብሔር ዘንድ ባለሟልነትን አግኝተሻልና እነሆ ትፀንሻለሽ ትወልጃለሽ ስሙንም ኢየሱስ ትይዋለሽ እርሱም ታላቅ የእግዚአብሔር ልጅ ይባላል እግዚአብሔር አምላክም የዳዊት የአባቱን ዙፋን ይሰጠዋል እርሱም ለያዕቆብ ወገን ለዘለዓለሙ ይነግሣል መንግሥቱም አያልፍም። ማርያም መልአኩን እንዲህ አለችው ይህ ነገር እንደምን ይሆንልኛል? እንዘ ኢየአምር ብእሴ። መልአኩም እንዲህ አላት መንፈስ ቅዱስ ይጠብቅሻል የልዑል ኃይልም ያድርብሻል ይህ የሚወለደውም ከሦስቱ ቅዱስ አንዱ ቅዱስ ነው እነሆ ኤልሳቤጥ ከአንቺ ወገን የምትሆን ከሸመገለች ከአረጀች በኋላ ፀነሰች ልጅም አገኘች እነሆ ይህ ስድስት ወር ሆነ መካን ሲሏት ለእግዚአብሔር የሚሳነው ነገር የለምና። ማርያምም መልአኩን እንደ ቃልህ ይደረግልኝ እነሆ እኔ ለእግዚአብሔር ባሪያው ነኝ አለችው።",
+            "gez": "ይቤላ መልአክ ለማርያም ተወከፊዮ ለቃል ኅቤኪ ይመጽእ ወበማኅፀነ ዚአኪ የኅድር እፎ ቤተ ነዳይ ኅደረ ከመ ምስኪን እምሰማያት ወረደ ላዕሌሃ ፈቲዎ ሥነ ዚአሃ ወተወልደ እምኔሃ።",
+            "de": null
+          }
+        },
+        {
+          "section": 3,
+          "text": {
+            "en": null,
+            "am": "መልአኩ ገብርኤል ማርያም ድንግል ለአንቺ ክብር ምስጋና ይገባሻል አላት ወላዲተ አምላክ ምስጋና ይገባሻል ቅድስት ነሽና ምስጋና ይገባሻል የመለኮት ማደሪያ ነሽና ምስጋና ይገባሻል የተሸለመች ድንኳን ነሽና ምስጋና ይገባሻል የመላእክት እኅት የሕዝቡ ሁሉ እናት ነሽና ምስጋና ይገባሻል የሁሉ እመቤት ማርያም ምስጋና ይገባሻል የሁሉ ፍቅረኛ ማርያም ምስጋና ይገባሻል ልዑል ማደሪያው ትሆኝ ዘንድ መርጦሻልና ምስጋና ይገባሻል በወርቅ የተሸለምሽ የርግብ ክንፍ በብር ያጌጥሽ ምስጋና ይገባሻል ጎኖችሽ በወርቅ አመልማሎ የተሸለሙ ለአንች ምስጋና ይገባሻል የምሥራቅ ደጃፍ የብርሃን እናቱ ለአንች ምስጋና ይገባሻል ከፀሐይ ሰባት እጅ የምታበሪ ክብርሽ ከአድባራቱ ሁሉ ከፍ ከፍ ያለ ለአንች ምስጋና ይገባሻል ማርያም ሆይ ከተመረጡ የተመረጥሽ ከተከበሩ የተከበርሽ ለአንች ምስጋና ይገባሻል",
+            "gez": "ወበሳድስ ወርኅ ተፈነወ ገብርኤል መልአክ እምኅበ እግዚአብሔር ኅበ አሐቲ ሀገር ዘገሊላ እንተ ስማ ናዝሬት ኅበ ድንግል እንተ ተፍህረት ለብእሲ ዘስሙ ዮሴፍ ዘእምቤተ ዳዊት ወስማ ለይእቲ ድንግል ማርያም ቦአ መልአክ ኅቤሃ ወይቤላ ተፈሥሒ ፍሥሕት ኦ ምልእተ ጸጋ እግዚአብሔር ምስሌኪ ቡርክት አንቲ እምአንስት ወርእያ ደንገፀት እምቃሉ ወሐለየት ወትቤ እፎኑ ከመዝኑ እንጋ አምኃ ይትአምኁ ወይቤላ መልአክ ኢትፍርሂ ማርያም እስመ ረከብኪ ሞገሰ በኅበ እግዚአብሔር ወናሁ ትፀንሲ ወትወልዲ ወልደ ወትሰምዩዮ ስሞ ኢየሱስ ውእቱ ዐቢይ ወይሰመይ ወልደ እግዚአብሔር ልዑል ወይሁቦ እግዚአብሔር አምላክ መንበረ ዳዊት አቡሁ ወይነግሥ ለቤተ ያዕቆብ ለዓለም ወአልቦ ማኅለቅት ለመንግስቱ ትቤሎ ማርያም ለመልአክ እፎኑ ይከውነኒ ዝንቱ እንዘ ኢየአምር ብእሴ እፎኑ ይከውነኒ አውሥአ መልአክ ወይቤላ መንፈሰ እግዚአብሔር ቅዱስ ይመጽእ ላዕሌኪ ወኃይለ ልዑል ይጼልለኪ ዘኒ ይትወለድ እምኔኪ ቅዱስ ውእቱ ወይሰመይ ወልደ እግዚአብሔር ልዑል ወናሁ ኤልሳቤጥኒ እንተ እምአዝማድኪ ይእቲኒ ፀንሰት ወረከበት ወልደ በልሕቃቲሃ ወበርስዐቲሃ ወናሁ ሳድስ ዝንቱ ወርኅ ለእንተ ይብልዋ መካን እስመ አልቦ ነገር ዘአይሰአኖ ለእግዚአብሔር ትቤሎ ማርያም ለመልአክ ነየ አመቱ ለእግዚአ ኩሉ ነየ አመቱ ይኩነኒ በከመ ትቤለኒ።",
+            "de": null
+          }
+        },
+        {
+          "section": 4,
+          "text": {
+            "en": null,
+            "am": "ከጌታችን ከመድኃኒታችን ከኢየሱስ ክርስቶስ ዘንድ ለምኝልን ያድነን ዘንድ በአባቱ ምስጋና ከቅዱሳን መላእክቶቹ ጋር በመጣ ጊዜ ጻድቃንን በቀኙ ኃጥአንን በግራው ባቆመ ጊዜ እኛን ከሰማ ዕቱ እስጢፋኖስ ከመጥምቁ ዮሐንስና ከሁሉ ቅዱሳን ከሰማ ዕታትም ጋር ያቆመን ዘንድ ለምኝልን ለዓለመ ዓለም አሜን ለዘለዓለሙ ይቅር ይበለን።",
+            "gez": "ይቤላ መልአክ ሰላም ለኪ ይቤላ ገብርኤል ሰላም ለኪ ማርያም ድንግል ሰላም ለኪ ወላዲተ አምላክ ሰላም ለኪ ማርያም ቅድስት ሰላም ለኪ ማርያም ውድስት ሰላም ለኪ ማርያም ንጽሕት ሰላም ለኪ ማርያም ፍሥሕት ሰላም ለኪ ማርያም ብፅዕት ሰላም ለኪ ማርያም ቡርክት ሰላም ለኪ ማኅደረ መለኮት ሰላም ለኪ ደብተራ ፍጽምት ሰላም ለኪ እኅተ መላእክት ሰላም ለኪ ወእመ ኩሉ ሕዝብ ሰላም ለኪ እግዝእትነ ማርያም ሰላም ለኪ ሰላማዊት ሰላም ለኪ ቀደሰኪ ለማህደሩ ልዑል ሰላም ለኪ አብደረኪ ወኅረየኪ ከመ ትኩኒዮ ማኅደሮ ሰላም ለኪ በአልባሰ ወርቅ ዑጽፍት ወኁብርት ሰላም ለኪ ክንፈ ርግብ በብሩር ዘግቡር ሰላም ለኪ ወገበዋቲሃኒ በሐመልማለ ወርቅ ማርያም ሥርጉት ሰላም ለኪ ኆኅተ ምሥራቅ ወእሙ ለብርሃን ሰላም ለኪ ትበርሂ እምፀሐይ ወትትሌዐሊ እምአድባር ሰላም ለኪ ማርያም ኅርት ወክብርት ሰላም ለኪ ሰአሊ ለነ ኅበ እግዚእነ ወመድኃኒነ ኢየሱስ ክርስቶስ ከመ ያድኅነነ እመ ይመጽእ በስብሐተ አቡሁ ምስለ መላእክቲሁ ቅዱሳን አመ ያቀውም አባግአ በየማኑ ወአጣሌ በፀጋሙ ያቁመነ በየማኑ ምስለ እስጢፋኖስ ሰማዕት ወዮሐንስ መጥምቅ ወምስለ ኩሎሙ ቅዱሳን ወሰማዕት ለዓለመ ዓለም አሜን።",
+            "de": null
+          }
+        },
+        {
+          "section": 5,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ጸሎታ ለማርያም ወስእለታ ያድኅነነ እመዓተ ወልዳ ጸሎታ ለማርያም ወስእለታ ለርእሰ ሊቃነ ጳጳሳት .......... ይዕቀቦ እመዓተ ወልዳ ጸሎታ ለማርያም ወስእለታ ለመፍቅሬ አምላክ ........... ይዕቀቦ እመዓተ ወልዳ ጸሎታ ለማርያም ወስእለታ ለሕዝበ ክርስቲያን ይዕቀቦሙ እመዓተ ወልዳ ጸሎታ ለማርያም ወስእለታ ለሀገሪትነ ኢትዮጵያ ይዕቀባ እመዓተ ወልዳ።",
+            "de": null
+          }
+        }
+      ]
+    },
+    {
+      "chapter": "melka_mariam",
+      "chapter_name": {
+        "en": "Melka Mariam",
+        "am": "መልክዐ ማርያም",
+        "gez": "መልክዐ ማርያም",
+        "de": "Melka Mariam"
+      },
+      "sections": [
+        {
+          "section": 1,
+          "text": {
+            "en": null,
+            "am": "ይቅርታ! በዚህኛው እትም አልተካተተም፡፡ እግዚአብሔር ቢፈቅድ ለሚቀጥለው እትም እናቀርባለን፡፡",
+            "gez": "ማርያምሰ ኃርየት መክፈልተ ሠናየ ዘኢየኅይድዋ ይእቲ ፀዓዳ ዘእምነገደ ይሁዳ ሠረገላተ አሚናዳብ ንብረታ። በኅዳር ጽዮን \\\"ሙሴኒ ይቤላ\\\" በል።",
+            "de": null
+          }
+        },
+        {
+          "section": 2,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ሰላም ለዝክረ ስምኪ ሐዋዝ፡ እምነ ከልበኔ ወቍስጥ ወእምነ ሰንበልት ምዑዝ፡ ማርያም ድንግል ለብሲተ ዐቢይ ትእዛዝ፡ ይሥቅየኒ ለለጽባሑ ወይነ ፍቅርኪ አዚዝ፡ ከመ ይሠቅዮ ውኂዝ ለሠናይ አርዝ። ሰላም ለሥዕርተ ርእስኪ ዘተንእደ ፅፍሮሁ፡ ለአቡኪ በከናፍሪሁ፡ ማርያም ድንግል ለእግዚአብሔር ጽርሑ፡ ለገብርኪ እግዚእትየ ኢትኅድግኒ እላሁ፡ ከመ ኢይበሉኒ ፀር አይቴኑመ ምክሑ።",
+            "de": null
+          }
+        },
+        {
+          "section": 3,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለርእስኪ በቅብዐ ቅዳሴ ርሑስ፡ አኮ አኮ በቅብዐ ደነስ፡ ማርያም ድንግል ንጽሕተ ሥጋ ወነፍስ፡ ያንጽሐኒ እምነ ርኩስ በፍሕመ ቍርባኑ ቅዱስ፡ አዝዚዮ ለሱራፊ ዘሰማይ ቀሲስ።",
+            "de": null
+          }
+        },
+        {
+          "section": 4,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለገስኪ ዘጥቀ ይልሂ፡ እምሥነ ከዋክብት ወወርኅ ወእምሥነ ፀሐይ መብርሂ፡ ማርያም ድንግል ፍናዋትየ ሠርኂ፡ በመዓልት ወበሌሊት ኢይርከበኒ ጸናሒ፡ መሥገርተ አበሳ ዘይጠፍር ወግበ ዘይደሂ። ሰላም ለቀራንብትኪ ደመናተ ብካይ እለ ኮና፡ ከመ አመ አሕመመ ወልደኪ ቅንአተ ቀያፍ ወሐና፡ ማርያም ድንግል ለባሲተ ንጽሕ ወቅድስና፡ አስምዕኒ ነገረ ጽድቅ ዘያስተፌሥሕ ሕሊና፡ ከመ አስተፍሥሐኪ ጥቀ ዘመልአክ ዜና።",
+            "de": null
+          }
+        },
+        {
+          "section": 5,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአዕይንትኪ ዘተመሰላ አብያዘ፡ እለ ይፌጽማ ትእዛዘ፡ ማርያም ድንግል እንተ ኢተአምሪ ጋዕዘ፡ ናዝዝኒ በንባብኪ እመ ልብየ ተከዘ፡ በሐብለ ሰቆቃው ጽኑዕ ኢይኩን እኁዘ።",
+            "de": null
+          }
+        },
+        {
+          "section": 6,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአዕዛንኪ እለ ሰምዓ ቃሎ፡ እግዚአብሔር እግዚእ ሶበ ለገብርኤል ተመስሎ። ማርያም ድንግል ጽሕቅት ለተሣህሎ፡ ሶበ ለልብየ እሳተ ኅዘን አሕለሎ፡ ያፅምአኒ እላ ነገርየ ኩሎ።",
+            "de": null
+          }
+        },
+        {
+          "section": 7,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለመላትሕኪ በእሳተ አንብዕ እለ ውዕያ፡ ጊዜ ሰቀሉ በኩረኪ ውሉደ ራኄል ወልያ፡ ማርያም ድንግል ለነብስየ ደብረ ምስካያ፡ አድኅነኒ እምአፍ ደም ዘአናብስተ ሐቅል አርአያ፡ ከመ ማኅፈር ጠቢብ ወምእመን ኬንያ።",
+            "de": null
+          }
+        },
+        {
+          "section": 8,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአዕናፍኪ መሳክወ ሠናይ መዓዛ፡ ይኄይስ ፈድፋደ እምፄና ስኂን ዘጠረጴዛ፡ ማርያም ድንግል ለሕይወትየ ምርጉዛ፡ ሰዋስው ዘምድረ ሎዛ እንተ ርእየኪ ወሬዛ፡ አመ ዕለተ ፍዳ ኩንኒ ቃውመ ወቤዛ።",
+            "de": null
+          }
+        },
+        {
+          "section": 9,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለከናፍርኪ ከመ ፍሕሶ ቀይሕ፡ ቅድሴ ወንጽሕ፡ ማርያም ድንግል ኆኃተ ጽባሕ፡ ባልሕኒ እምነ ወይሌ ወአንግፍኒ እምላህ፡ እስመ ለልብየ ኅዘኑ ብዙኅ፡፡ ሰላም ለአፍኪ ዘሰዐመ ርስነ፡ እንዘ አበ አዕሩግ ውእቱ በጊዜ ኮነ ሕፃነ፡ ማርያም ድንግል ዘትፄንዊ ስኅነ፡ ኅፍረተ አበሳ ሶበ ገጽየ ተከድነ፡ ለናዝዞትየ እሙ ብጽሒ ፍጡነ።",
+            "de": null
+          }
+        },
+        {
+          "section": 10,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአስናንኪ ሐሊበ ዕጐልት ዘተዛወጋ፡ ወመራዕየ ቅሩፃተ እለ እምሕፃብ ዐርጋ፡ ማርያም ድንግል ለደብተራ ስምዕ ታቦተ ሕጋ፡ አፍቅርኒ እንበለ ንትጋ ለብእሴ ደም ወሥጋ፡ ዘየዐቢ እምዝ ኢየኅሥሥ ጸጋ።",
+            "de": null
+          }
+        },
+        {
+          "section": 11,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለልሳንኪ ሙኃዘ ሐሊብ ወመዓር፡ ዘተነብዮ ወፍቅር፡ ማርያም ድንግል ወለተ ድኁኃን፡ አድባር፡ ኅብእኒ እምዐይነ ፀር ወአንጽሕኒ እምነውር፡ እስመ ተስፋየ አንቲ በሰማየ ወምድር። ሰላም ለቃልኪ እምአስካለ ወይን ጥዑም፡ ወእምድምፀ ናብሊስ አዳም ዘያረስዖ ለሕማም፡ ማርያም ድንግል ዘብርሃነ ሕይወት ተቅዋም፡ እመ ተሀውከ በላዕለየ ማዕበለ ዝንቱ ዓለም፡ ከመ ያርምም ገሥፂዮ መሐሪት እም።",
+            "de": null
+          }
+        },
+        {
+          "section": 12,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለእስትንፋስኪ ዘመዓዛሁ ሕይወት፡ ከመ መዐዛ ዕፅ ኅሩይ ዘውስተ ገነት፡ ማርያም ድንግል ቤተ ቅድሳት፡ጽንሕኒ ውስተ ሠናይ ወሠውርኒ እሞት፡ በአክናፍኪ ርግብየ ኅሪት።",
+            "de": null
+          }
+        },
+        {
+          "section": 13,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለጉርዔኪ ሠናይ እምወይን፡ በከመ ይቤ ሰሎሞን፡ ማርያም ድንግል ለባሲተ ዐቢይ ብርሃን፡ ክድንኒ ገርዜነ ጸጋ ኢያዕፅበኒ ዕርቃን፡ ዘኢአነምዎ ጠቢባን በኪን።",
+            "de": null
+          }
+        },
+        {
+          "section": 14,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለክሳድኪ ቃማ ንጽሕ ዘዐነቀ፡ ከመ አዋልድ አኮ ብሩረ ወወርቀ፡ ማርያም ድንግል ዘተመሰልኪ ማዕነቀ፡ ሕይወትየ በንዝህላል እመ ተሠልጠ ወኅልቀ፡ ወስክኒ ክራማተ እስከ እገብር ጽድቀ።",
+            "de": null
+          }
+        },
+        {
+          "section": 15,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለመታክፍትኪ እለ ግኁሣት እማንቱ፡ ለጌጋይ እምነ አርዑቱ፡ ማርያም ድንግል ለሆሤዕ ሠርጐ ትርሲቱ፡ በልኒ እግዝእትየ ጸሕቀ ሕሊናየ ዝንቱ፡ ፍኖተ የማን ይምራሕከ ወተአኰት ቦቱ።",
+            "de": null
+          }
+        },
+        {
+          "section": 16,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለዘባንኪ እምዘባነ ኪሩብ ዘዐብየ፡ ሐዚሎ እሳተ ወእምርስነ ነዱ ኢውዕየ፡ ማርያም ድንግል ፈጻሚተ ኩሉ ጻሕቅየ፡ ሀብኒ እግዝእትየ ዘተመነይኩ ሠናየ፡ እንበለ አፅርዖ ፍጡነ በጺሐኪ ዝየ።",
+            "de": null
+          }
+        },
+        {
+          "section": 17,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለእንግድዓኪ ለእሳተ መለኮት ምርፋቁ፡ ማርያም ድንግል ለነዳይ ንዋየ ወርቁ፡ እመ ነገደ ርኅቀ ወሖረ ዕራቁ፡ ኢያኅዝኖ ሲሳይ እስመ አንቲ ስንቁ።",
+            "de": null
+          }
+        },
+        {
+          "section": 18,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለኅፅዊተ ለጥበበ ሰማይ ምዕራፋ፡ ዘኢትረከብ ሱታፋ፡ ማርያም ድንግል ጸጋዊተ ሰላም ወተስፋ፡ ኩንኒ እግዚእተየ ቅድመ ፀርየ ሐገፋ፡ ከመ ዖፍ አፍኅርቲሃ ትሤውር በክንፋ።",
+            "de": null
+          }
+        },
+        {
+          "section": 19,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአእዳውኪ እሳተ መለኮት እለ ገሠሣ፡ አውቃፈ ብሩረ ወወርቅ ለሥርጋዌሆን ኢኅሠሣ፡ ማርያም ድንግል ለመካን ህንባበ ከርሣ፡ አንጽሕኒ እግዝእትየ ለፍትወተ ዓለም እምርኩሳ፡ በዲበ ሥጋየ ኢትንበር ነጊሣ።",
+            "de": null
+          }
+        },
+        {
+          "section": 20,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለመዛርዕኪ ዘተረሰያ ኃይለ፡ ከመ ይፁራ ነበልባለ፡ ማርያም ድንግል እንተ ኅጣእኪ መምሰለ፡ ኃጢአትየ ለገብርኪ ከመ ፈድፈደ ተለዐለ፡ ከመ ጥቅም ዘባቢል ረስዩ ንኁለ።",
+            "de": null
+          }
+        },
+        {
+          "section": 21,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም እብል ለኩርናዕኪ እዌድሶ፡ ለእሳተ መለኮት በላዒ አምጣነ ኮነ ትርአሶ፡ ማርያም ድንግል ምዕዝት ዘእምአንክሶ፡ ህልዊ ደርገ ምስሌየ እንዘ አልብኪ ተግኅሦ፡ ለሕሊና ልብየ ወትረ እንግርኪ ማኅሠሣ።",
+            "de": null
+          }
+        },
+        {
+          "section": 22,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለእመታትኪ እለ ጸንዓ ይፍትላ፡ ሜላተ ወወርቀ በናዝሬት ወበገሊላ፡ ማርያም ድንግል ለዮዲት ጥበበ ቃላ፡ ብጽሒ በሠረገላ ንትመሐል መሐላ፡ ከመ ታኅድርኒ በብሔር ዘተድላ።",
+            "de": null
+          }
+        },
+        {
+          "section": 23,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለእራኃትኪ እለ ስፋሐት ለመጥዎ፡ ማርያም ድንግል እስእለኪ በተስፋዎ፡ ከመ እክሀል በበ ፆታሁ ስብሐታተኪ ዜንዎ፡ ለገብርኪ ዓብድ ምልእኒ ለብዎ።",
+            "de": null
+          }
+        },
+        {
+          "section": 24,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአፃብዕኪ እምእራኃ እዴኪ እለ ሠረፃ፡ እምኁልቈ ሠላድ ወስብዕ እንዘ ኢየሐፃ፡ ማርያም ድንግል ደብረ ኤልያስ ነቢየ ፋጻ፡ ዕቀብኒ በረድኤትኪ እምነ እርዌ ዘኆፃ፡ ህየንተ ሠናይ ለሰብእ ዘይሁብ ዐመፃ።",
+            "de": null
+          }
+        },
+        {
+          "section": 25,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአፅሁብ እዴኪ መልዕልተ አፃብዕ እለ ሠረቃ፡ በበሕቅ ዘልፈ እንዘ ይልኅቃ፡ ማርያም ድንግል ማኅቶትየ በውስተ ጣቃ፡ ኢትሰድኒ ለገበርኪ ለዓመትየ በንፍቃ፡ ዝንቱ ውእቱ ለልብየ ጻሕቃ።",
+            "de": null
+          }
+        },
+        {
+          "section": 26,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአጥባትኪ እለ አውኃዛ ፍጽመ፡ ድንግልናዌ ሐሊበ ውስተ አፈ አምላክ ቅድመ፡ ማርያም ድንግል እንተ አምጻእኪ ሰላመ፡ ኅክታመ፡ ዘእንበሌኪ ኢየኅሥሥ እመ።",
+            "de": null
+          }
+        },
+        {
+          "section": 27,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለገቦኪ ዘሐመልማለ ወርቅ ክዳኑ፡ በከመ ዳዊት ይዜኑ፡ ማርያም ድንግል ለያቆብ ሞገሰ ሥኑ፡ በልኒ እግዝእትየ አፈቅረከ አኮኑ፡ እንዘ ረዳኢትከ አነ ዘይክለከ መኑ።",
+            "de": null
+          }
+        },
+        {
+          "section": 28,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለከርሥኪ ዘአፈድፈደ ተበፅዖ፡ እምታቦተ ሙሴ ነቢይ ለጽሌ ትእዛዝ ዘየኅብኦ፡ አምርያም ድንግል ጊዜ ጽዋዕኩኪ በአስተብቍዖ፡ ለፀርየ ብእሴ ዐመፃ ኃይለ ዚአኪ ይጽብዖ፡ እስከነ ያስቆቁ ጥቀ ድኅሪተ ገቢኦ።",
+            "de": null
+          }
+        },
+        {
+          "section": 29,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለልብኪ እምነ በቀል ርኅቅ፡ እምጥነ ዐረብ ወሠርቅ፡ ማርያም ድንግል ገነት ኅሩያን ደቂቅ፡ ክድንኒ ልብሰ ከብካብ ለቅኑይኪ ዕሩቅ፡ ከመ ጽጌሁ ዘወርቅ።",
+            "de": null
+          }
+        },
+        {
+          "section": 30,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም እብል ለኩልያትኪ ክልኤ፡ ዘቅብዐ ክህነት ቀርን ወዘወይነ ትፍሥሕት ግምዔ፡ ማርያም ድንግል ብልኒ ቅድመ ጉባኤ፡ ሕፃንየ በእንቲአየ ይከውነከ ረዳኤ፡ እመራደ ፀርከ ሕቀ ኢትፍራህ ትንሣኤ።። ሰላም ለሕሊናኪ ሐልዮ ሠናያት ልማዱ፡ ወገበረ ምሕረት መፍቅዱ፡ ማርያምን ድንግል ለዳዊት ወለተ ወልዱ፡ ንዝሕኒ በአዛብኪ ዘይትረከብ ዘመዱ፡ ወበማየ ሕይወት ሕፀብኒ እምበረደ እፃዕዱ።",
+            "de": null
+          }
+        },
+        {
+          "section": 31,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአማዑትኪ ነበልባለ ኅዘን ዘአውዐየ፡ እመ ወዐለ ወልዲኪ ስቄለ በቀራንዮ፡ ማርያም ድንግል ፀምረ ጠለ ዘተነበዩ፡ ጌጋይየ አስተርአዮ እንተ አልብኪ ተፈልዮ፡ በሥርዐተ ካህን ላዕሌየ አንኂ ጸልዮ።",
+            "de": null
+          }
+        },
+        {
+          "section": 32,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለንዋየ ውሥጥኪ አምሳለ ንዋያ ለደብተራ፡ ስብሐተ ልዑል ዘይሤውራ፡ ማርያም ድንግል ትምክሕተ ደቂቃ ለሣራ፡ ባልሕኒ ወለተ ቅስራ ለዓለመ ጽልመት እምፃዕራ፡ እስመ መቅዓን ወጠዋይ ምሕዋራ።",
+            "de": null
+          }
+        },
+        {
+          "section": 33,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለንዋየ ውሥጥኪ አምሳለ ብዋያ ለመቅደስ፡ ንዋይኪሰ ኢየሱስ ክርስቶስ፡ ማርያም ድንግል ዘገዳመ ሲና ጳጦስ፡ ከመ ያነቅሖ ለልበ ዘፋኒ ናብሊስ፡ ፍቅርኪ ያንቅሐኒ በሥጋ ውነፍስ።",
+            "de": null
+          }
+        },
+        {
+          "section": 34,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለኅንብርቲኪ ከመ ማዕከክ ርእየቱ፡ ዘኢየዓርቅ እምቱስሕቱ፡ ማርያም ድንግል ለካህን ዕፀ ኅርየቱ፡ ከመ ኢይኩን ፅሩዐ ንባበ አፍየ ዝንቱ፡ በጽዋዐ ኪሩብ ደዩዮ ወሡጢዮ ሎቱ።",
+            "de": null
+          }
+        },
+        {
+          "section": 35,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለማኅፀንኪ ለእግዚአብሔር ማኅፈዱ፡ ዘሐነፀኪ የማነ እዱ፡ ማርያም ድንግል ማዕዝት ዘእምናርዱ፡ ኅቤኪ ያንቀዐዱ ለረኪበ ኩሉ ምፍቅዱ፡ ምስለ ካልኡ ዐይንየ አሐዱ።",
+            "de": null
+          }
+        },
+        {
+          "section": 36,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለማዕፀንኪ ለእግዚአብሔር ዘውጉ፡ ብዑድ ሥርዐቱ ወፍሉጥ ሕጉ፡ ማርያም ድንግል ለአስካለ ሕይወት ሐረጉ፡ በልኒ እግዝእትየ ኃጢአተከ ኅደጉ፡ ወመኃልየከ ስማየ አዕረጉ።",
+            "de": null
+          }
+        },
+        {
+          "section": 37,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም እብል ለድንግልናኪ ዕፅው፡ እንተ እምኔሁ ሠረቀ ፀሐየ መለኮት ኅትው፡ ማርያም ድንግል ዘሥነ ንጽሕኪ ፍትው፡ ለኅዲር በበፍናው በአህጉር ወበድው፡ ዕቀኒ ወለቶሙ ለኄራን አበው።",
+            "de": null
+          }
+        },
+        {
+          "section": 38,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለሐቌኪ በትረ ሌዋዊ ሣውዕ፡ ዘኢሐፀነኪ ጠል ወዘኢ ሠቀየኪ ነቅዕ ፡ ማርያም ድንግል እግእእተ መላእክት ወሰብእ፡ ሰድኒ ብሔረ ፍግዕ በትንባሌኪ ባቍዕ፡ ምስለ ኅሩያንኪ ደርገ አበሉ በስንዕ።",
+            "de": null
+          }
+        },
+        {
+          "section": 39,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአቍያጽኪ እለ ይነብራ ድርገተ፡ እምነ አብራክኪ ላዕለ ወእምነ ሐቌኪ ታሕተ፡ ማርያም ድንግል እንተ ኢተአምሪ ርስሐተ፡ ጽባሐ ወምሴተ ኩሎ ዕለተ፡ ዘይስማዕ ምሕረተኪ ግብሪ ሊተ።",
+            "de": null
+          }
+        },
+        {
+          "section": 40,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአብራክኪ በስብሐተ ልዑል ዘአስተብረካ፡ እምአመ ወሀቡኪ ብፅዐ ውስተ አሪታዊት ታዕካ፡ ማርያም ድንግል መንበር ዘአብነ ፔካ፡ ግዜ ስደቶሙ ለኃጥአን እምዐፀደ ዐባይ ፋሲካ፡ ፄውውኒ መንገሌኪ እኩንኪ ምህርካ።",
+            "de": null
+          }
+        },
+        {
+          "section": 41,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአእጋርኪ እለ ፃመዋ በረዊፅ፡ እምቤተ ልሔም ዘይሁዳ እስከ ምድረ ግብጽ፡ ማርያም ድንግል ሥርዓተ ነበልባል ዕፅ፡ ለኅዲር በቤተ ናሕስ እንተ መልዕልተ ኰኩሕ ህኑጽ፡ አጥብብኒ በተግሣፅ ወሡቅኒ እምዳኅፅ።",
+            "de": null
+          }
+        },
+        {
+          "section": 42,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም እብል ለዘዚአኪ ሰኰና፡ ዘኢድኅፀ በውስተ ፍና፡ ማርያም ድንግል ትእምርተ ኪዳን ቀስተ ደምና፡ አምዕዝኒ በዕፍረትኪ ወጸግውኒ ጥዒና፡ በከመ ትገብር እም ለንኡስ ሕፃና።",
+            "de": null
+          }
+        },
+        {
+          "section": 43,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለምከየድኪ እለ ረከቦን መከራ፡ እምፍርሃተ ቀተልት ሐራ፡ እንበለ አሣእን አመ ሖራ፡ ማርይም ድንግል ታቦተ ቃለ ጽድቅ መንፈቀ ዕሥራ፡ ዕጐላት እምዕጐሊሆን ከመ ኪያኪ አፍቀርኩኪ አፍቅርኒ እምይእዜ ለግሙራ።",
+            "de": null
+          }
+        },
+        {
+          "section": 44,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም እብል ዘአእጋርኪ አፃብዐ፡ ሐሳበ ኁልቆን ዘኮነ ምስለ ስድስ ርብዐ፡ ማርያም ድንግል ዘተሰመይኪ ምሥዋዐ፡ በረዊፅ ወብጉጉአ አፍጥኒ መጺአ፡ ሶብ አፋየ ስመኪ ስውዐ።",
+            "de": null
+          }
+        },
+        {
+          "section": 45,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአፅፋረ እግርኪ ዘኢፈቀዳ ለሥርጋዌ፡ ጥምዐታተ ሕምር ምድራዌ፡ ማርያም ድንግል ሐውልተ ስምዕ ዘወልደ ነዌ፡ ሡቅኑ እምትንታኔ ወባልሕኒ እምአርዌ፡ ላዕለ እምየ ዘአምጽአ ደዌ።",
+            "de": null
+          }
+        },
+        {
+          "section": 46,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለቆምኪ በቀልተ ዘተመስለ፡ ኅበ ሙኅዘ ማይ ዘበቈለ፡ ማርያም ድንግል እስእለኪ ስኢለ፡ ኢይረድ ታሕቲተ ምጥቅኒ ላዕለ፡ ኢረከብኩ በርኅራኄ ከማኪ ዘብዕለ።",
+            "de": null
+          }
+        },
+        {
+          "section": 47,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለመልክዕኪ ዘተሠርገወ አሜረ፡ ዘያበርህ ወትረ፡ ፍቅርትየ አንቲ እንተ ታበድሪ ፍቅረ፡ አርእይኒ ገጸ ዚአኪ ማርያም ምዕረ፡ ዘኢይሰምዖ ካልእ እንግርኪ ነገረ።",
+            "de": null
+          }
+        },
+        {
+          "section": 48,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለፀአተ ንፍስኪ እንበለ ፃዕር ወፃማ፡ ለነቢር ዘልፈ በየማነ ወልድኪ ፌማ፡ ማርያም ድንግል ክልልተ ሞገሰ ወግርማ፡ አጽንዒ በረድኤትኪ ለሕይወትየ ድካማ፡ እምሕይወተ ኄራን አበው ኢታሕ ጽጺ ዐቅማ።",
+            "de": null
+          }
+        },
+        {
+          "section": 49,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም እብል በድነ ሥጋኪ ጽሩየ፡ ዘተመሰለ ባሕርየ፡ አርያም ድንግል ዐፀደ ወይንየ፡ ንስቲተ ለዕበይኪ እንተ አቅረብኩ ግናየ፡ ኢይትኅደግ ዲበ ምድር ምሥጢ ሰማየ።",
+            "de": null
+          }
+        },
+        {
+          "section": 50,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለግንዘተ ሥጋኪ በእደ ሐዋርያት አርጋብ፡ በአፈወ ዕፍረት ቅድው ዘሐሳበ ሤጡ ዕፁብ፡ ማርያም ድንግል ወለተ ኅሩያን ሕዝብ፡ ረሰይኩኪ እግዝእትየ ህየንተ እም ወአብ፡ ይኅፅነኒ ከመ ጥብ ፍቅርኪ ሐሊብ።",
+            "de": null
+          }
+        },
+        {
+          "section": 51,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለመቃብርኪ ለጌቴሴማኒ በመርኅባ፡ እንተ ይእቲ ለኢየሩ ሳሌም ቅሩባ፡ ማርያም ድንግል ለሀገረ መንግሥት ርግባ፡ ትትሜጦ ወርቅ እምአፌር ወጸበለ አፈው እምበሳ፡ ጌቴሴማኒ ለሥጋኪ ምስካባ።",
+            "de": null
+          }
+        },
+        {
+          "section": 52,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለመቃብርኪ ለኢየሩ ሳሌም በአድያማ፡ እንተ ይእቲ ጌቴሴማኒ ስማ፡ ማሪያም ሰንበተ ዕረፍተ ጽዑራን እምፃማ፡ አመኅደረ ላዕለኪ ፀሐየ ቅዱሳን ዘራማ፡ ኃይለ ልይለ ጸለለኪ በመንክር ግርማ።",
+            "de": null
+          }
+        },
+        {
+          "section": 53,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለፍልሰተ ሥጋኪ መካነ ፍሥሐ ምጡቀ፡ በአእባነ ባሕርይ በተነድቀ፡ ማርያም ድብተራ እንተ ኢትትከደኒ ሠቀ፡ ጽሒፈ ውዳሴኪ እምኪ ኅልቀ ሶበ ኮነ ጥቀ፡ ዝናመ ክረምት ቀለመ ወሰማይ ረቀ።",
+            "de": null
+          }
+        },
+        {
+          "section": 54,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለፍልሰተ ሥጋኪ ወለተ ንጉሥ ይሁዳ፡ ወለተ ሌዊ እኁሁ ዘሀብተ ክህነቱ አግዳ፡ ማርያም ድንግል ምዕዝት ዘእምስጌ ረዳ፡ በጽሒፍ ኢይፌጽሞ ለስብሐትኪ እንግዳ፡ እመ ኮነ በቅድሜየ ስፍሐ ምድር ሠሌዳ።",
+            "de": null
+          }
+        },
+        {
+          "section": 55,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለፍልሰተ ሥጋኪ ደባትረ ብርሃን ኅበ ተተክሉ፡ ለገነተ ጽባሕ በማእክሉ፡ ውድስት አንቲ ወስብሕት በአፈ ኩሉ፡ እምነ ጻድቃን ዘታሕቱ ወእምትጉሃን ዘላዕሉ፡ ማርያም ለኪ ስብሐተ አደሉ።",
+            "de": null
+          }
+        },
+        {
+          "section": 56,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "በዝንቱ ቃለ ማኅሌት ወበዝንቱ ይባቤ፡ ለዘይስእለኪ ብእሲ ጊዜ ረከቦ ምንዳቤ፡ ማርያም ዕንቁየ ክርስቲሎቤ፡ ወምዕዝተ ምግባር እምከርቤ፡ ዘጸገየ ማኅፀንኪ አፈወ ነባቢ።",
+            "de": null
+          }
+        },
+        {
+          "section": 57,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ስብሐት ለኪ ማርያም በኁልቈ ኩሉ ሥዕርትየ፡ ስብሐት ለኪ ማርያም በኁልቈ ኩሉ ዘተርአየ፡ ስብሐት ለኪ ንግሥትየ በኁልቈ ኩሉ ዘኢያስተርአየ፡ ስብሐተ ድንግልናኪ ዘልፈ ይነግር አፍየ።",
+            "de": null
+          }
+        },
+        {
+          "section": 58,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "እግዚአብሔር ኅቤኪ ፈነወ ቃሎ፡ ገብርኤልሃ አስተማሲሎ፡ ማርይም አምላክ ዘወለድኪ በተደንግሎ፡ ሰላም ሰላም ወሰላም እብሎ፡ ለመልክዕኪ ፈጺምየ ኩሎ።",
+            "de": null
+          }
+        },
+        {
+          "section": 59,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ለዘኢያፈቅረኪ እግዚትየ ማርያም ውኩፈ ኢይኩን ጽሎቱ፡ ይትገዘም ኑኅ ዓመቱ ወይጥፋእ በከንቱ፡ በአፈ መላእክት ወስብእ ይትረገም ለለሰዓቱ፡ ዘአስተማሰሎ በተውኔት ለማኅሌተ ንግሥኪ ዝንቱ፡ ጌጋዩ ወኃጢአቱ ኢይትኃደግ ሎቱ።",
+            "de": null
+          }
+        },
+        {
+          "section": 60,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ኦ እግዝእትየ ማርያም ዕቀብኒ ወአድኅንኒ እመከራ ሥጋ ወነፍስ ሊተ ለገበርኪ፡ ሊተ ለአመትኪ።",
+            "de": null
+          }
+        }
+      ]
+    },
+    {
+      "chapter": "melka_eyesus",
+      "chapter_name": {
+        "en": "Melka Eyesus",
+        "am": "መልክዐ ኢየሱስ",
+        "gez": "መልክዐ ኢየሱስ",
+        "de": "Melka Eyesus"
+      },
+      "sections": [
+        {
+          "section": 1,
+          "text": {
+            "en": null,
+            "am": "ይቅርታ! በዚህኛው እትም አልተካተተም፡፡ እግዚአብሔር ቢፈቅድ ለሚቀጥለው እትም እናቀርባለን፡፡",
+            "gez": "ኢየሱስ ኢየሱስ ኢየሱስ ክርስስቶስ ዘሠረፅከ ኢምቤተ ሌዌ፡ ኮሬባዊ መለኮታዊ፡ ቃል ሰማያዊ እም ድንግል ተወልደ።",
+            "de": null
+          }
+        },
+        {
+          "section": 2,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለዝክረ ስምከ ስመ መሐላ ሰኢይሔሱ፡ ዘአንበረ ቅድመ እግዚአብሔር በአትሮንሱ፡ ኢየሱስ ክርስቶስ ለዳዊት ባሕርየ ከርሡ፡ አክሊለ ስምከ እንዘ ይትቄጸል በርእሱ፡ አህጉረ ፀር ወረሰ ኢያሱ።",
+            "de": null
+          }
+        },
+        {
+          "section": 3,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለሥዕርተ ርእስከ ዘሥሙር አብቋሉ፡ ወጽፋቅ ጥቀ ለአርዘ ሊባኖስ አምሳለ ቄጽሉ፡ ኢየሱስ ክርስቶስ ሊቀ ካህናት ዘላዕለ ኩሉ፡ ይጸሐፍ በልሳንየ ለውዳሴከ ፈደሉ፡ ኢይትኃደግ ዲበ ምድር ንባቡ ወቃሉ።",
+            "de": null
+          }
+        },
+        {
+          "section": 4,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለርእሰከ በመንበረ ክሳድ ዘተሣረረ፡ እንዘ ማእሰ ሥጋ ይለብስ ወእንዘ ይትገለበብ ጸጉረ፡ ኢየሱስ ክርስቶስ ከመ ቃልከ ነገረ፡ ይወርሱ በእንቲአከ ንዳያነ ዓለም ክብረ፡ ወቀደምትኒ ይከውኑ ድኅረ።",
+            "de": null
+          }
+        },
+        {
+          "section": 5,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለገጽከ እም ሥነ ኦርይሬስ ስቡሕ፡ ወፍሡሕ ከመ ወርኅ ዘአሜገሃህ፡ ኢየሱስ ክርስቶስ ታቦተ ሕይወቱ ለኖኅ፡ ኅብአኒ እግዚኦ በውሣጤከ ስፋሕ፡ ማየ ኩነኔ አመ ዘንመ አይኅ። ሰላም ለቀራንብቲከ ከመ ክልኤ ክንፈ ኪሩብ፡ እለ ይጸልላ ወትረ አዕይንቲከ ዘርግብ፡ ኢየሱስ ክርስቶስ እደ መዝራእቱ ለአብ፡ አስተጋበ ውስተ ልብየ አቅማሐተ ኩሉ ጥበብ፡ ከመ ጽጌያተ ዘገዳም ያስተጋብእ ንህብ።",
+            "de": null
+          }
+        },
+        {
+          "section": 6,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአዕይንቲከ ከመ ምሉእ ምዕቃለ ማይ፡ እለ ይትረአያ ወትረ በመንበረ መጽሔት ርሡይ፡ ኢየሱስ ክርስቶስ መስተሥርየ ኩሉ ጌጋይ፡ ንዝኅኒ እግዚኦ በአዛብከ ሠናይ፡ ወአፃዕድወኒ እምበረድ ጽሩይ።",
+            "de": null
+          }
+        },
+        {
+          "section": 7,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአዕዛኒከ ጽልዋተ እለ ኮና፡ አምኅ ነገር ያብአ ለመኮንነ ውሥጥ ሕሊና፡ ኢየሱስ ክስቶስ ዘያዕቆብ ዓምደ ደመና፡ ምርሐኒ እግዚኦ ኅበ ይትፈቀድ ፍና፡ በዓመተ ርስዐን ወድካም ኢይርአይ ሙስና።",
+            "de": null
+          }
+        },
+        {
+          "section": 8,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለመላትሒከ እለ ይፈርያ አፈዋተ፡ ከመ ርኄ አፈው ዘይፄኑ ርኁቀ ፍኖተ፡ ኢየሱስ ክርስቶስ እስመ አበ ንፍስየ አንተ በሎሙ ለመላእክት ተፈሥሑ ሊተ፡ ረከብክዎ ለወልድየ በከንቱ ዘሞተ።",
+            "de": null
+          }
+        },
+        {
+          "section": 9,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአዕናፈከ መሳክወ ፄና ወአናቅጽ፡ እለ ውዱዳት እማንቱ ማእከለ ክልኤ አብይጽ፡ መልአከ ሕይወትየ ክርስስቶስ አስተሪየኒ በገጽ፡ ናሁ ተመሠጥኩ በጣዕመ መስቀልከ ዕፅ፡ ወተነደፍኩ በፍቅርከ ሐጽ።",
+            "de": null
+          }
+        },
+        {
+          "section": 10,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለከናፍሪከ ሙኃዛተ ከርቤ ሐዋዝ፡ እምጽጌ ገዳማት ኩሎን ዘፄናሆን ምዑዝ፡ ኢየሱስ ክርስቶስ በግዐ ይስሐቅ እኁዝ፡ ይተከዐው ውስተ አፋየ ከመ አዜባዊ ውኂዝ፡ ነቅዐ ገቦከ በኩናት ርጉዝ።",
+            "de": null
+          }
+        },
+        {
+          "section": 11,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአፍከ ለዮሐንስ ዘስዐሞ፡ ንጽሐ ሕሊናሁ ወልቡ ለዓይነ ፍትወትከ ሶበ አደሞ፡ ኢየሱስ ክርስቶስ መፍቀሬ የዋሃት እምሃት እምተ ቀይሞ፡ ጸግወኒ ማዕፆ አፍ እንተ ይእቲ አርምሞ፡ ለትዕግሥትካ ከመ አእምር ዐቅሞ።",
+            "de": null
+          }
+        },
+        {
+          "section": 12,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአስናኒከ አይተ አዕናቍ እለ ተሰክዓ፡ በፈትለ ሥጋ ወደም እስከ ሥረዊሆን ጸንቦ፡ ኢየሱስ ክርስቶስ ዘተሰመይከ ምሥዋዐ ከርስየ ርኅበ ኢግዚኦ ወውሣጤ ጉርዔየ ጸምአ ፡ እንበለ ኩነኔ ሀበኒ ሥጋከ መብልዐ። ሰላም ለልሳንከ በደብረ ታቦር ዘአልኆሰስ፡ ለብርሃን ዐቢይ እስከ ጽላሎቱ ተሐውሰ፡ ነበልባለ እሳት ክርስስቶስ ዘተዋሐድከ ጳጦስ፡ በዋዕየ ፍቅርከ ከመ ሥጋወ አእዋም የብሰ፡ ውሣጤ ሕሊናየ ነደ ወልብየ ጤስ።",
+            "de": null
+          }
+        },
+        {
+          "section": 13,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለቃልከ እማእሠሪሁ ዘፈትሖ፡ ለፍቅር አልአዛር ኃይለ ሥልጣን ሞት ድኅረ ሞቅሖ፡ ኢየሱስ ክርስቶስ ንጉሥ ሰላም ወተራኅርኆ፡ አባ ወአቡየ እሴብሐከ ሰብሖ፡ ለአንቀጽከ ጸግወኒ መርኆ።",
+            "de": null
+          }
+        },
+        {
+          "section": 14,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለእስትንፋስከ እስትንፋስ ላህብ ምውቅ፡ ጊዜ ፍና ሠርክ ዘነፍሐ ገነተ ኅሩያን ደቂቅ፡ ኢየሱስ ክርስቶስ ጠፈረ ሃይማኖት ወጽድቅ ይትወኅውኁ ከዋክብት በአየርከ ምጡቅ፤ ወያንበሰብሱ ደመናት በዐረብ ወሠርቅ።",
+            "de": null
+          }
+        },
+        {
+          "section": 15,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለጉርዔከ በጽምአ ፍቅረ ሰብእ ሐማሚ፡ እስከ ስቴ ሐሞት ጥዕመ ወዘወይነ ትፍሥሕት ከራሚ፡ ኢየሱስ ክርስቶስ መምህረ ጳውሎስ ዘብንያሚ፡ አመ ነሥአ ማኅተመ ጸጋ እንዘ ስመከ ይሰሚ፡ አልቦ አይሁድ ወአልቦ አረሚ።",
+            "de": null
+          }
+        },
+        {
+          "section": 16,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለክሣድከ ግብረ መንፈስቅዱስ ኬኒያ፡ አዳም ሥና ወመንክር ላህያ፡ ኢየሱስ ክርስቶስ ነቢይ ወሐዋርያ፡ አመ ወፅአ ስሙዓቲከ በአድያመ ኩሉ ሶርያ፡ ብፁዓት አዕይንት ኪያከ ሶርያ፡ ብፁዓት አዕይንት ኪያከ ዘርእያ። ሰላም ለመትከፍትከ ከመ ልብሰ ክህነት ለጉዮ፡ ጊዜ ፀአተ ፍትሕ ዘፆረ አርዑተ መስቀል በቀራንዮ፡ ኢየሱስ ክርስቶስ በግዐ መድኅኒት ወአስተሥርዮ፡ አስተዳሎከ ለርእስከ ውስተ ዐፀደ ግፍዕ ተርእዮ፡ ወኩሎ በዘይደሉ አቅደምከ ሐልዮ።",
+            "de": null
+          }
+        },
+        {
+          "section": 17,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለዘባንከ እመለኮቱ ዘኢተዐርቀ፡ እንዘ በአፍአሁ ይትዌከፍ ጥብጣቤ ሕማማት መጽዕቀ፡ ጉንደ ሐረገ ወይን ክርስቶስ እንተ ትፀውር አዕፁቀ፡ በቤተ ከብካብ ጊዜ ትገብር ምርፋቀ፡ ለአስካልከ ረስየኒ ዝቀ።",
+            "de": null
+          }
+        },
+        {
+          "section": 18,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለእንግድዓከ ቀላየ ልቡና ወአእምሮ፡ በሐመረ ፍትወት ወጻሕቅ ልበ ጠቢባን ዘኢሰፈሮ፡ ኢየሱስ ክርስስቶስ ኂሩት ወተፋቅሮ፡ ሶበ ይገሥሥ ሕልናየ ለመንዲልከ ዘፈሮ፡ ንቅዐ ኅጢአትየ ለገበርከ እምድሩ ይሠሮ።",
+            "de": null
+          }
+        },
+        {
+          "section": 19,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለኅፅንከ ምርፋቀ በረከት ወሣህል፡ ዘአስመከ ቦቱ ወልደ ዘበዴዎስ ድንግል፡ ኢየሱስ ክርስቶስ ሃይማኖትየ ወንጌል፡ ከመዕፀ ሐምል ስፍሕተ አዕፅቅ ወቄጽል፡ ብዙኅተ አዕዋፈ አጽልሎተ ትክል።",
+            "de": null
+          }
+        },
+        {
+          "section": 20,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአኢዳዊከ ጽቡረ እለ ገብራ፡ በምራቀ አፍከ ቅዱስ አዕይንተ ዕውር ይፍጥራ፡ ትምህርተ ኅቡአት ክርስቶስ ዘትትነገር ኢምጵርስፎራ፡ ነገስታት በእንቲአከ ይገድፋ ጌራ፡ ወዕጠቆሙ ይፈትራ።",
+            "de": null
+          }
+        },
+        {
+          "section": 21,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለመዛርዒከ ከመ ቀስተ ብርት ጽኑዕ፡ እለ ያነትዓ ፀረ አመ ዕለተ መንፈስ ወጸብዕ። ኢየሱስ ክርስቶስ ጠረጴዛየ ምሥዋዕ፡ አስስትየኒ ማየ ሕይወት ኢመስቀልከ ጽዋዕ፡ ዘእንበሌሁ ኢይድኅን ሰብእ።",
+            "de": null
+          }
+        },
+        {
+          "section": 22,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለኩርናዕከ ኩርናዐ ክቡድ አንበሳ፡ ዘቀጥቀጠ ኩሎ አርእስተ ሥቡሐን እንስሳ፡ ኢየሱስ ክርስቶስ ሞገሰ ዳንኤል ነቢየ ሱሳ፡ ድኅረ ተፈጸመ ሱባዔ ሰንበታት ስሳ፡ በምጽአትከ ተኅትመ አበሳ።",
+            "de": null
+          }
+        },
+        {
+          "section": 23,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለእመትከ መስፈርተ መዛርዕ ወእድ፡ እስከ ጽንፈ መስቀል በሐብል ዘስሐብዎ አይሁድ፡ ኢየሱስ ክርስቶስ እምነ አእላፍ ውሉድ፡ ኅድፈኒ ብጥበብከ እምተሠጥሞ ጌጋይ ክቡድ፡ ናሁ በላዕሌየ ተንሥኤ ሞገድ።",
+            "de": null
+          }
+        },
+        {
+          "section": 24,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለእራኅከ መክፈልተ ሕማማት ሱቱፍ፡ ወቅንዋቲሁ እኤምኅ በአፍ፡ ኢየሱስ ክርስቶስ በላዕለ ቅዱሳን ዕሩፍ፡ ይፀንስ ውስተ ከርሥየ ዘርአ ቃልከ መጽሐፍ፡ ፀዳለ እምፀዳል ከመ ትፀንስ ዖፍ።",
+            "de": null
+          }
+        },
+        {
+          "section": 25,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአፃብዒከ አፃብዐ አዳም ዘተኬነዋ፡ ወነቀላ ዐፅመ በእንተ ሕይወታ ለሔዋን፡ ኢየሱስ ክርስቶስ አመ ተለዐልከ እምድረ ፄዋ፡ ለገነተ ጽድቅ ዘእደ ሱራፈ ዐፀዋ፡ ቤዛ ኅጥአን ኩሎሙ ደምከ አርኅዋ።",
+            "de": null
+          }
+        },
+        {
+          "section": 26,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአፅፋረ እዴከ ዘኅበሪሆን ፀዐዳ፡ በምግባር ወግእዝ እለ ይትዋሐዳ፡ ኢየሱስ ክርስቶስ ምስፍና አባሉ ለይሁዳ፡ ለመንግሥትከ ስፋኒት እንዘ ይትመሐለሉ ዐውደ፡ ሰብአ ሰገል አወፈዩ ጋዳ።",
+            "de": null
+          }
+        },
+        {
+          "section": 27,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለገቦከ ዐዘቅተ ሥጋዌ ፍሉሕ፡ እንተ እምኔሁ ተውህበ ፈልፈለ ቅዱሳት ወንጽሕ፤ ኢየሱስ ክርስቶስ ዘኢሳይያስ መካሕ፡ አመ አስትርአይከ በልብሰ ባሦር ቀይሕ፡ መልአከ ሞት ተሠጥመ በላህ።",
+            "de": null
+          }
+        },
+        {
+          "section": 28,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለከርሥከ ዘኢትፈተን መዝገቡ፡ ም ዕመቁ ወሚ ራኅቡ፡ ኢየሱስ ክርስቶስስ ለወንጌል ንግሥከ ባሕር አስትአ በረከት ወሀቡ፡ ወእለ የኅድሩ ዲበ የብስ አምኅ አቅረቡ። ሰላም ለልብከ ቅሩበ ኩልያት ምንታዌ፡ እንተ ያንሰሐስሕ ቦቱ መንፈስ ሕሊናከ ኅበ ህላዌ፡ ኢየሱስ ክርስቶስ ፍጹመ ትስብእት ወሥጋዌ፡ በቃለ እንቲአከ አመ ትትፍታህ ነነዌ፡ ውስተ መቅደስከ ረስየኒ ሠርዌ።",
+            "de": null
+          }
+        },
+        {
+          "section": 29,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለሕሊናከ ዘይሔሊ ሠናያተ፡ ለውሉደ ሰብእ ምሕረተ፡ ክርስቶስ ብርሃን ዘአስሰልከ ጽልመተ፡ ላዕለ ኪሩቤል ነቢረከ ዘትሬኢ ቀላያተ፡ ስብሕኒ ወልዑል አንተ።",
+            "de": null
+          }
+        },
+        {
+          "section": 30,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለኅንብርትከ ማእከለ ጠባይዕ ዘተመልአከ፡ በኩሉ ቱስሕቱ እንዘ ይትሜስል ማእከከ፡ መንግሥተ ሰማያት ክራስቶስ ከመ ዮሐንሰ ሰበከ፡ በሐፍ ወበድካም እለ አሥመሩ ኪያከ፡ ዲናረ ሃይማኖት ነሢኦሙ የአትው ሠርከ።",
+            "de": null
+          }
+        },
+        {
+          "section": 31,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለሐቌከ እንዘቦ ልዕልና፡ ከመ ገብር ድኩም ዘቀነተ ሐብለ ትሕጥና፡ ኅብስተ ሕይወቶሙ ክርስቶስ ለእለ ይነሥኡ ስመ ክርስትና፡ አኮአ ኅብስተ እስራኤል መና፡ ዘዕሤተ ሞት ፈደየ በሲና።",
+            "de": null
+          }
+        },
+        {
+          "section": 32,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአቍያጺከ አዕማድ ያቁም ወበለዝ፡ እለ ይፀወራ ቦቶን መልክዐተ ኩሉ ትእዛዝ፡ ኢየሱስ ክርስቶስ ምጽላለ ሕይወትየ አርዝ፡ ተበአሶ በጽላሎትከ ለአርዌ ዐመፃ ወሕምዝ፡ ኢይሳነነኒ ለገብርከ ዳግመ እምዝ።",
+            "de": null
+          }
+        },
+        {
+          "section": 33,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአብራኪከ እለ አውተራ ስግደተ፡ እንዘ የዓርጋ ላዕለ ወእንዘ ይወርዳ ታሕተ፤ ጊዜ ተቀባዕከ ክርስቶስ ዘአልቦስጥሮስ ዕፍረተ፡ ገብርከሰ እምፈተውኩ አሜሃ ዕለተ፡ ማርያምሃ ትኩነኒ እኅተ።",
+            "de": null
+          }
+        },
+        {
+          "section": 34,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአእጋሪከ እለ ጠብዓ ለቀዊም፡ ቅድመ ጲላጦስ ፈታሂ መስፍነ ይሁዳ ወሮም፡ ኢየሱስ ክርስቶስ ዘትማልም ወዮም፡ ኅበወረደ ወነጠበ ዝናመ አእጋሪከ ደም፡ ለመስቀልከ በሰጊድ ሰላም።",
+            "de": null
+          }
+        },
+        {
+          "section": 35,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለስኰናከ እንተ ይስተጋብእ ኩሎ፡ ኅበ ኅደገ ወቀጽዐ ውስተ ሠሌዳ ኰኩሕ ሥዕሎ፡ ኢየሱስ ክርስቶስ ለመልአከ ዓለም ዘትትቤቀሎ፡ ስብሐቲከ እርአይ እግዚኦ እምቅድመ ዓለማት ዘሀሎ፡ መንጦላዕተ ዓይንየ ቅላዕ ወአብርህ ጸዳሎ።",
+            "de": null
+          }
+        },
+        {
+          "section": 36,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለመከየድከ አሐዱ አሐዱ፡ ውስተ ቤተ መቅደስ ለምህሮ እለ ገይሠ ለመዱ፡ ኢየሱስ ክርስቶስ ዘመዓዛ ፍቅርከ ዕቍረ ናርዱ፡ አኅዊክ ስማዕታት ቈላተ ሕማማት ወረዱ፡ ወጻድቃኒከ ገዳማተ ዖዱ።",
+            "de": null
+          }
+        },
+        {
+          "section": 37,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአፃብዒከ እምጉንደ እልኤ አእጋር፡ እለ አሕመልመላ ደርገ አርአያ አዕፁቅ ዓሥር፡ ኢየሱስ ክርስቶስ ወልደ ኢግዚአብሔር፡ በዘባነ ባሕር ከመ ትትለሃይ ሐመር፡ መንክር ተላህያ በዘለከ ፍቅር።",
+            "de": null
+          }
+        },
+        {
+          "section": 38,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለአፅፋረ እግርከ በደመ ቅንዋት እለ ተጠምዓ፡ እስከ ጽዕዳዌሆን ለብሰ ልብሰተ ጠባይዕ ካልአ፡ ኢየሱስ ክርስቶስ ዘተሰቀልከ በአፍአ፡ ከመ እዜኑ ኂሩተከ ወእከውን ስምዐ፡ መምህረ ረሰይኩከ ረስየኒ ረድአ።",
+            "de": null
+          }
+        },
+        {
+          "section": 39,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለቆምከ ሐመልማለ ቀይሕ ሥጋ፡ ክርስቶስ ቀዲሜ ጸጋ፤ ናሁ ሰፈነት ወሰፈፈት ኢንበለ ንትጋ፡ ለባሕረ ሣህልከ ዘኢይነጽፍ ፈለጋ፡ ውስተ ሕሊናየ አስተጋብእ አይጋ። ሰላም ለመልክዕከ መልክዐ ክቡር አምላክ፡ እለ ይቴሐታ ሎቱ አሪስተ ሰኰና ወብርክ፡ ኢየሱስ ክርስቶስ ሐዋርያነ መልአክ፡ ይትመላሕ እምሕሊናየ በተግሣፅከ ቡሩክ፡ ኅጠተ ደዌ ዘበቄለ ሦክ።",
+            "de": null
+          }
+        },
+        {
+          "section": 40,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለፀኦተ ነፍስከ ኅይለ ሥልጣነ ሞት ዘቀነየ፡ ጽዋዐ ፕሲካ ምሉአ ድኅረ ሠለጥከ ሰትየ፡ ጥዑመ ከናፍር ክርስቶስ እንተ ትነብር ሰደየ፡ በሞት ወበሕይወት አማኅፀንኩ ነፍስየ፡ ውስተ እዴከ ዘገብረ ሰማየ።",
+            "de": null
+          }
+        },
+        {
+          "section": 41,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለበድነ ሥጋከ እመለኮቱ ዘኢተፈልጠ፡ ለሰዓት አሕቲ ከመ ቅጽበተ ዐይን ኅዳጠ፡ መዝገበ ባሕርይ ክርስቶስ ዘኢተአምር ተውላጠ፡ ኢኮ ዘሐይቅ ጽጌረዳ ወዘባሕር ሰግላጠ፡ ባሕቱ ሃይማኖትየ እሁበከ ሤጠ።",
+            "de": null
+          }
+        },
+        {
+          "section": 42,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለግንዘተ ሥጋከ በአፈው ወከርቤ ሕውስ፡ ወበልብሰ ገርዜን ንጽሕ ዘኅበሪሆን ፒሦስ፡ መርዓዌ ሥርግወ አመ ትመጽእ ክርስቶስ ዐሥረኒ ለቀበላከ በማኅቶተ ምግባር ውዱስ፡ ከመ ድናግል ጠባባት ዘኁልቆን ኃምስ።",
+            "de": null
+          }
+        },
+        {
+          "section": 43,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለመቃብርከ መካነ ምሥጢር ጎልጎታ፡ ቀዳሚ አዳም ዘኢተቀብረ በውስቴታ፡ ኢየሱስ ክርስቶስ በረከተ ኤልይስ ዘሰራጵታ፡ ሣህልከ ወምሕረትከ ይመግበኒ በዖታ፡ ከመ ሐገፋ ወሥሙር ወልታ።",
+            "de": null
+          }
+        },
+        {
+          "section": 44,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለትንሣኤከ እምድኅረ ዕለታት ክልኤ፡ ዐቀብተ መቃብር አፍላፍ እንበለ ይስምዑ ቀርነ ጽዋዔ፡ ወበእንተዝ ይብሉከ ክርስቶስ በኩረ ትንሣኤ፡ ተአመንኩ ቅድመ ገጸ ኩሉ ጉባኤ፡ ኪያከ አበ ወኪያከ ረዳኤ።",
+            "de": null
+          }
+        },
+        {
+          "section": 45,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለትንሣኤከ እንተ ተጠየቀ ቦቱ፡ ዜና ትንሣኤሆም በክብር ለቁዱሳን ዘሞቱ፡ ኢየሱስ ክርስቶስ ለዳዊት ቀርነ መንግሥትሱ፡ በዓለ ትንሣኤ ፋሲካነ ዝንቱ፡ እስመ ሥርዓቱ ለእስራኤል ውእቱ።",
+            "de": null
+          }
+        },
+        {
+          "section": 46,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ለዕርገትከ ዘኢይትረከብ መጠኑ፡ ወለንብረትከ ሰላም ለአቡከ ውስተ የማኑ፡ ኢየሱስ ክርስቶስ እለ ኢያከ ተአመኑ፡ ቅዱሳነ ዘእምኅቤከ ወንጹሐነ ይኩኑ፡ ጰራቅሊጦስሃ መንፈስከ ፈኑ።",
+            "de": null
+          }
+        },
+        {
+          "section": 47,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም እምብ ለምጽአትከ ከዋላ፡ በደመና ሰማይ ብርህት እንተ ትፀድል እምሥነ ዕብላ፤ አመ ትመጽእ በስብሐት ክርስቶስ ርእሰ መሐላ፡ ጸውዐነ ለአግብርቲከ ውስተ ዐፀደ ፍግዕ ወተድላ፡ ናንሶሱ ምስሌከ በሐዳስ ቀጸላ።",
+            "de": null
+          }
+        },
+        {
+          "section": 48,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "እምሥራቀ ፀሐይ እስከነ ዐረብ ይትአኮት ስሙ ለእግዚአብሔር አምላክነ፡ ኢያከ ወልደ ዘፈነወ ለነ፡ ኢየሱስ ክርስቶስ ሊቀ ካህናቲነ፡ አስተጋብአነ ኅበ ትረፍቅ መካነ፡ እስመ ዝርዋን አግብርቲከ ንሕነ።",
+            "de": null
+          }
+        },
+        {
+          "section": 49,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ስብሐት ለከ አምላክየ በኁልቄ ኩሉ ሥዕርትየ፡ ስብሐት ለከ አምላክየ በኁልቄ ኩሉ ዘተርአየ፡ ስብሐት ለከ አምላክየ በኁልቄ ኩሉ ዘኢያስተርአየ፡ ስብሐተ ሥላሴከ ወትረ ይነግር አፍየ። እምክሉ ይኄይስ በሥላሴከ ተአምኖ፡ ወበወላዲትከ ተማኅፅኖ፡ ኢየሱስ ክርስቶስ እምቤተ መንግሥት ወተክህኖ፡ ተሰብኦተከ እመቦ ዘያስተሐቅር መኒኖ፡ ይንኰ ርኩር ታሕተ ደይን ግዱፈ ከዊኖ።",
+            "de": null
+          }
+        },
+        {
+          "section": 50,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "ሰላም ሰላም ለኩሎን መልክዕከ፡ አምሳለ መልክዑ ለአቡከ፡ ኢየሱስ ክርስቶስ ሕማማተ መስቀል ዘፆርከ፡ ኅብአኒ እምገጸ ሞት በእንተ ማርያም እምከ፡ አምላኪየ አምላኪየ ኢይጽናዕ ልብከ።",
+            "de": null
+          }
+        },
+        {
+          "section": 51,
+          "text": {
+            "en": null,
+            "am": null,
+            "gez": "አምላክ ምድረ ወሰማያት፡ አማላከ ባሕር ወቀላያት፡ ወአምላከ ኩሉ ፍጥረት፡ አምላኮሙ አንተ ለአበው ቀደምት፡ አምላኮሙ ለነቢያት፡ አምላኮሙ ለሐዋርያት፡ አምላከ ጻድቃን ወሰማዕት፡ መሐረነ ለነ አምላክነ እስመ ግብረ እደከ ንሕነ፡ ወኢትዝክር ኩሎ አበሳነ። ኦ እግዚእየ ኢየሱስ ክርስቶስ ዕቀበኒ ወአድኅነኒ እመከራ ሥጋ ወነፍስ ሊተ ለገብርከ፡ ሊተ ለአመትከ።",
+            "de": null
+          }
+        }
+      ]
+    },
+    {
+      "chapter": "melka_edom",
+      "chapter_name": {
+        "en": "Melka Edom",
+        "am": "መልክዐ ኤዶም",
+        "gez": "መልክዐ ኤዶም",
+        "de": "Melka Edom"
+      },
+      "sections": [
+        {
+          "section": 1,
+          "text": {
+            "en": null,
+            "am": "ይቅርታ! በዚህኛው እትም አልተካተተም፡፡ እግዚአብሔር ቢፈቅድ ለሚቀጥለው እትም እናቀርባለን፡፡",
+            "gez": "ይቅርታ! በዚህኛው እትም አልተካተተም፡፡ እግዚአብሔር ቢፈቅድ ለሚቀጥለው እትም እናቀርባለን፡፡",
+            "de": null
+          }
+        }
+      ]
+    }
+  ]
+}
