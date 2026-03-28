@@ -1,0 +1,231 @@
+The JSON contains all 11 prayer sections, each keyed by the transliteration title taken from the second part of the heading (e.g. "A'atib Getsye" from "1. አትብ ገ$የ - A'atibGetsye - I cross my Face"). Here's a summary of what's included:
+KeyPrayerA'atib GetsyeI cross my Facebe-Qidist SilassieIn the Name of the Holy TrinityNiakutekeWe Thank YouAbune zebeSemayatOur Father Prayerbe-selam Qidus Gabriel MelakIn Peace of ArchAngel Gabriel (Hail Mary)TselotHaimanotThe Orthodox CreedQidus Qidus QidusHoly Holy HolyEseged leAbI bow to the FatherSelam lechiPeace unto youTselotEgzi'itine Mariam Dingil Weladite AmlakPrayer of the Virgin Mary (Magnificat)Sibhat leAbGlory to the Father
+The values are arrays of transliteration lines as they appear in the PDF, with PDF line-wraps joined where they clearly belong together.Tselot transliterationCode · JSON Show in Folder Sonnet 4.6
+
+
+
+
+{
+  "1": [
+    "A'atib getsye wekulu entinaye be-ti'imrte Mesqel beSim Ab weWeld weMenfesQidus Ahadu Amlak Amen. beQidist Silassie inze a'amin we'itmehatsen ikehedike saytan beqidme zati Emye Qidist beteChristian inte-yiite Simye Mariam Tsion le-alem alem amen"
+  ],
+  "2": [
+    "Niakuteke Egzio wene-siebihake Nibarekeke Egzio wenit-ameneke Nisi'ilke Egzio wenastebequake Nigenileke Egzio wenitqeney leSimike Qidus Nisegid-leke O zeleke, ysegid kulu birk weleke yitqeney kulu lisan Ante wi'itu, Amlak Amalikt, weEgzia Egaist, weNigus negest Amlak ante le'kulu -siga ze wele-kulu ze'nefs Wene-tsewi'ake nihne bekeme meharene Qidus weldike inze yibil: “Antemu se, sobe ti'tseliyu kemezi belu…”"
+  ],
+  "3": [
+    "Abune zebeSemayat yitQedes simik timtsa Mengistik we-yikun fiqadik bekeme beSemay kemahu bemidi sisayene zelele-ileten habene yo hidig-lene abesane we-gegayen keme nih'neni ni-hidi leze abeselen eta'biane Egzio wist mensut ala-adhinene we-balihane, imkulu iqu isme ziake yiit Mengist, Hayle weSibha le-alem alem amen. be-selam Qidus Gabriel melak O Igzitye Mariam, Selam lechi Dingil be'hilinachi, weDingil be-sigachi Eme Egziabhare Tsebaot, Selam lechi Birukt anti em-anist, we-biruk firi'aykersichi te'fesihi fesiht O Milite Tsega Egziabihare mislechi se'ali we'tseli, mihret be'inti ane habe Fiqur Weldichi Eyesus Christos keme yisray lene haTe we'ine Amen."
+  ],
+  "4": [
+    "Tselot haimanot ne-amin be-ahadu Amlak Igziabhare Ab ahazye kulu gebarie Semayat we-midr Zeyaster'ee weze - eeyaster'ee Wene-amin be'ahadu Egzi Eyesus Christos Weld Ab Wahid ze-hulu misleyehu imqidme' yitfeTer alem Birhan ze'imberhan Amlak ze'im Amlak zebe aman zetewelde we'ako zetegebre ze-iruy misle Ab be-melekotu zebotu kulu kone weze-inbeliehuse albo zekone we-imenteni, zebe Semayeni weze-bemidreni zebe'inti ane leseb webeinte Medhanitine werede imsemayat tesebA wetesegewe imMenfes Qidus we'im Mariam imQidist Dingil kone bi'ise wete'seqle be'inte ane bemewa-ile Peelatos Pentenawi hame we mote we teqebre we-tensiA imutan ame salist ilet bekeme tsihuf wuste Qidusat metsahift arge be-sibhat wuste Semayat wenebere be-yemane Abuhu dagime yimetsi bisibhat yikonen hiyawane wemutane we-albo mahileqt le-Mengistu wene amin be-Menfes Qidus Egzi Mahiyawi zeseretse im-Ab nisegd wene-sebiho misle Ab weWeld zenebebe benebiyat wene Amin be-ahati Qidist BeteChristian inte la-ile kulu guba'e zeHawariat wene amin be-ahati Timqet lesiryeTe haTiyat Weni-sefo tinsa'e imutan wehiwete zeyimetsi le-aleme alem Amen"
+  ],
+  "5": [
+    "Qidus, Qidus, Qidus Egziabhare tseba'ot fitsum mulu Semayat we-midre Qidesat sebhatike Niseged leke Christos misle Abuke hierr semayawi wemenfesike Qidus maheyewi isme metsa'ikeweadhankene"
+  ],
+  "6": [
+    "Eseged le'Ab weWeld weMenfes Qidus ahate segdet (3 gize) Enze ahadu selestu we-inze selestu ahadu Yesielesu be'akalat, weyiTewahdu bemelekot Eseged leEgitene Mariam Dingil, Weladite Amlak Eseged leMesqel Egzi'ine Eyesus Christos zeteQedese bedemu kibur Mesqel Hailine Mesqel Tsinene Mesqel Beyzane Mesqel Medhanite Nesfine Aihud kihidu, nehnese amene we'ile amene behaile Mesqelu dihine"
+  ],
+  "7": [
+    "Sibhat leab sbhat leWeld sbhat leMenfes Qidus (3 gize) -ydelwomu leAb leweld weleMenfes Qidus sbhat egzi-etne mariam Dingil Weladite Amlak - ydelwa Egzi-etne Mariam Dengl Weladite Amlak sbhat leMesqele Egzine Eyesus kristos - ydelwo leMesqele Egzine Eyesus Christos Christos bemhretu yzekrene - amen webedagme metsa'itu iyastahafrene - amen lesibhotu Simu yanqhane - amen webe-amlikotu yatsne'ane - amen Egzitne Mariam Dingl Weladite Amlak, a'argi tselotne - amen we-astesri kulo hatiatne - amen qidme menberu le-Egzine - amen lezeable'ane zente hbste - esme lealem mhretu welezeasteyene zente tswa-e - esme lealem mhretu welezeser'alene sisayene we arazene - esme lealem mhretu wlezetageselene kulo hatiatine - esme lealem mhretu welezewhabene Sigahu Qeduse weDemu Kibure - esme lealem mhretu wele ze-abtsehane eske zati se'at - esme lealem mhretu nehab lotu sibhat weako-tiet le-Egziabhier liul weleWeladitu Dingil weleMesqelu Kibur yitakot weysebah smu le-Egziabhier wetre bekulu gzie webe kulu se'at."
+  ],
+  "8": [
+    "“Selam we lechi” inze nisegid neblechi Mariam Emene, nastebe'quachi Em-arwie Ne'awi temahatsen bichi Beinte Hannah Emichi, weEyaqem Abuchi Mahberene yom Dingil, barichi"
+  ],
+  "9": [
+    "Tselot Egzitine Mariam Dingil Weladite Amlak: “Te'abyo Nefsiye leEgziabhare wet'tit-hasey menfesiye BeAmlachiye weMedhaniye Esme re'iye himama leAmetu Nahu emye'zese yastebetsiuni kwulu twlid Esme Gebre leete Hayl abiyate weQidus simu Wesahluni leTwulde twulid Le'lile yiferihiwo weGebre Hayl bemezra'itu wezerewomu le'ele ya'abyu hilina l'bomu we-nesetomu lehayalan emena'brtihomu A'ebeyomu le'tehutan we-atsgebomu embereketu le'rhuban wefenewomu e'raqomu le'beulan we-tewekfo leIsrael Qul'eyhu wetezekere Sahlo zeyibielomu leAbewine leAbraham welezeru iske le-alem”"
+  ]
+}
+
+
+A’atib Getsye – I cross my Face
+A’atib Getsye wekulentaye be’araya beti’imrte Mesqel
+(I cross my  face and all of myself in the symbol of the Cross)
+Be’Sime Ab – In the Name of the Father
+Be’Sime Ab we Weld we Menfes Qidus. Ahadu Amlak
+BeQedist Selassie
+inze a’amin we’itmehatsen 
+ikih’deke saytan beqidme zati imiye Qidist Bete Kiristiyan 
+inte yi’iti simiye Mariam Tsion
+le’aleme alem; Amen.
+(In the Name of the Father and the son and the Holy Spirit. One God.
+In the Name of the Holy Trinity, that I believe and entrust myself
+I rebuke you Satan before my Mother the Holy church
+And my witness St. Mary Zion
+Forever and ever.)
+Neakuteke – We Thank You
+Neakuteke Egzio wenesiebihake
+Nibarekeke Egzio wentiameneke
+Nisieleke Egzio wenastebequake
+Nigeni leke Egzio wenitqeney leSimike Qidus
+Nisegid leke
+O zeleke
+Yisegid kulu birk
+Weleke yitqeney kulu lisan
+Ante wi’itu Amlake amalikit
+We’Egzia agaizt
+WeNiguse negest
+Amlake ante le’kulu ze’siga
+Wele kula zenefs
+Wenitsiewi’ake nihne
+Bekeme meharene Qidus weldike
+Inze yibil “Antimuse, sobe ti’tseliyu kemezi belu……
+(We thank you Lord and we praise you
+We bless you Lord and we believe in you
+We plead you Lord and we beseech you
+We come to you and serve Your Holy Name
+We bow to you, to whom to you, to whom all knees bow
+And all tongues worship
+You are Lord of Lords, God of Gods, King of Kings
+You are God of all Flesh and Spirit
+We call out, Your Name as Your Holy Son, taught us saying;
+“In this manner therefore pray…”
+Abbatachin Hoy Besemay Yemetenor
+Our Father who art in Heaven 
+Semeh Yekedes
+Hallowed Be Thy Name
+Mengisteh Temta
+Thy Kingdom come
+Fekadeh Besemay Endehonech
+Thy Will Be Done 
+Endihum Bemder Tehun
+On Earth As It Is In Heaven
+Ye Ilet Enjerachenen Seten Zare
+Give Us This Day Our Daily Bread
+Bedelachenenem Yiker Belen
+And Forgive Us Our Trespasses 
+Egnam Yebedelunen Yiker Endemenel
+As We Forgive Those Who Trespass Against Us
+Wodefetenem Atagban 
+And Lead Us Not Into Temptation 
+Kekifu whulu Adenen Enji 
+But Deliver Us From Evil
+Mengist Yante Natena Hailem Mesganem
+For Thine Is The Kingdom And The Power And The Glory
+Lezelalemu 
+For Ever 
+Amen. 
+Imebietie Mariam Hoy BeMemalaku
+Be Qidus Gabriel 
+Selamta Selam Elishalehu. 
+Beasabish Dingil nesh. 
+Bessegashim Dingil nesh.
+Yashenafu Ye Igziabher Inat Hoy; 
+Lanchi Selamta Yigebashal;
+Kesietoch hulu teleyitesh anchi Yetebarekshnesh
+Yemahitseneshimfrie 
+Yetebareke new
+Tsegan yetemelash hoy;
+Des yibelish 
+Igziabher kanchi gara Nuwna 
+Kristos zend yikertan lemegnilin;
+Ketewededew Lijish kagetachin Kemedhanitachen 
+Ke yesus kristos zend yikertan lemegnilin 
+Hataiatachinin yasteseriyilin zend.
+Amen.
+My Lady Mary I Salute thee with the Salutation of the Archangel Gabriel. 
+Thou art virgin with Thy thought and body.
+Mother of the Almighty God, Salutation is due to thee.
+Blessed art thou among women and blessed is the fruit of thy womb Jesus.
+Hail Thou that are highly favored the Lord is with thee. 
+Pray for mercy to Thy Beloved son our Lord and Savior Jesus Christ. 
+To cleanse us from our sins and all unrighteousness. Amen.)
+The Creed or Prayer of Faith
+We believe in one God, the Father Almighty, maker of heaven and earth and all things visible and invisible.  
+And, we believe in one Lord Jesus Christ, the Only Begotten Son of the Father, Who was with Him before the creation of the world; light from light, true God from true God, begotten, not made, of one essence with the Father, by Whom all things were made, and without Him was not anything in heaven or earth made; 
+Who for us men and for our salvation came down from heaven, was made man and was incarnate from the Holy Spirit and from the Holy Virgin Mary; became man, was crucified for our sakes in the days of Pontius Pilate, suffered, died, was buried, and rose from the dead on the third day, as was written in the Holy Scriptures; ascended in glory into heaven, sat at the right hand of His Father and will come again in glory to judge the living and the dead.  There is no end of His reign.  
+And we believe in the Holy Spirit, the life-giving God Who proceedeth from the Father.  We worship and glorify Him with the Father and the Son, Who spoke by the prophets.  
+And we believe in One, Holy, Universal, Apostolic Church.  
+And we believe in one Baptism for the remission of sins, and wait for the resurrection from the dead and the life to come, world without end.  AMEN.
+Qidus, Qidus, Qidus Egziabher tseba’ot,
+Fitsum milu’e Semayeate we’midre Qidisate sibhatike,
+Nisegid leke Kristos misle Abuke hier semayawi we’menfesike Qidus
+Mahiyewi isme metsa’ike weadhankene
+(Holy, Holy, Holy Lord of Hosts,
+The Heavens and the Earth are completely filled with your Glory
+We bow to you Lord Christ with Your Merciful and Heavenly Father
+And with Your Holy Spirit, the Giver of Life
+Because you came and saved us.)
+Eseged le’Ab we Weld we Menfes Qidus ahate segdete. (Sost gizie bel)
+(I bow to the Father, and the Son and the Holy Spirit in one prostration. (3 times)
+Inze Ahadu Selestu we’inze selestu ahadu Y’sielesu be’akalat,
+Weyitewahadu be Melekot
+(Being One He is Three and in Three He is One,
+They are Three in persons and One in Godhead)
+Isegid le’Egz’itine  Maryam Dingil Weladite Amlak
+(I bow to our lady Mary Virgin Mother of God)
+Iseged le Mesqel Egz’ine Iyesus Kristos zeteQedese bedemu kibur
+(I bow to the Cross of Our Lord Jesus Christ which was consecrated with
+His Holy Blood.)
+Mesqel Hayline
+Mesqel TsinEne
+Mesqel Biezane,
+Mesqel Medhanite Nefsine
+Ayhud kihidu nehenese amene, we’ile amene behayle Mesqelu dihine
+(The Cross is our strength, The Cross is our might, the Cross is our ransom, the Cross is the healing of our souls, the Jews denied but we believe, and those who believe, are saved by the
+Strength of His Cross)
+Sibhat le Ab, Sibhat le Weld Sibhat le Menfes Qidus (Sost gizie bel)
+[Glory to the Father, Glory to the Son, Glory to the Holy Spirit (3 times)]
+Yidelwomu le Ab le Weld le Menfes Qidus
+(Glory is due to the Father, to the Son, to the Holy Spirit)
+Sibhat le’Igzi’tine Maryam Dingil Weladite Amlak
+(Glory to our Lady Mary Virgin Mother of God)
+Yidelwo le’Igzi’tine Maryam Dingil Weladite Amlak
+(Glory is due to our Lady Mary Virgin Mother of God)
+Sibhat le’Mesqele Igzi’ine Iyesus Kristos
+(Glory to the Holy Cross of our Lord Jesus Christ)
+Kiristos bemihiretu yizekerene Ame dagimi mitsiatu iyastehafirene
+(May Christ remember Us in His Mercy and in His Second Coming)
+Le sebhote simu yankihane Webeamlikotu yatsenane
+(May the Lord grant us to glorify His name and May He strengthen Us to worship Him)
+Igzitine Mariam arigi tselotene Weaseteiriyu hatiatene kidime meniberu le igzi'ine 
+(Our Lady Mary, intercede for Us to Our Lord before His throne, That He may forgive Our sins)
+Le zeabliane zente hibste
+(For He gives us the Host to eat)
+Welezeasteyene zente tsiwa
+(And the Chalice to drink)
+Welezeserealene sisayene wearazene
+(And blessing and clothing)
+Welezetagese lene kwulo hatiatene
+(And He endures Our Sins)
+Weleze wehabene sigahu kidus wedemu kibure
+(And He gives Us His Holy Grace and His Precious blood)
+Weleze habtsehane leszati se'at
+(And brings Us to this hour.)
+Nihab lotu sibihat we'akotet Le Igziabiher Leul we'le weladitu Dingil welemeskelu kibur
+(Let us give praise and thanks for God the Prince, His Mother the Virgin, and His holy Cross)
+Yit'akot Weysibah simu le Igziabiher Wetre Bekulu gize webekulu seat
+(May His name be praised and glorified in all the time and all the hours.)
+Selam leki inze nisegid nebleki Maryam Imene, nastebe’quaki Im-arwie Ne’awi temahitsene biki Beinte Hannah Emiki, we'Eyaqem Abuki Mahberene yom Dingil, bariki.
+(Peace unto you, we say as we bow to you Mary our Mother, we ask you From the predatory animals we entrust ourselves to you For the Sake of Hannah your Mother, and Joachim your Father Our Congregation today O Virgin, bless.)
+Tselot Egzi’tene Maryam Dingil Weladite Amlak
+(Prayer of Our Holy Lady Mary Virgin Mother of God)
+Te’abyo Nefsiye le’Egziabher
+Wetit’hasey menfesiye
+BeAmlakiye we Medhaniye
+Isme r’iye himama leametu
+Nahu imyi’eze yaste’betsi’uni
+Kulu tewlid isme gebre lite
+Hayle abiyate we Qidus simu
+Wesahiluni le Tiwulide tewulid
+Le’lile yiferihiwo
+Wegebre hayle bemezra’itu,
+Wezerewomu le’ele ya’abiyu
+Hilina libomu, we’nesetomu
+Lehayalan imena’birtihomu
+A’ebeyomu le’tehutan,
+We’atsegebomu im’bereketu
+Le’rhuban, wefenewomu
+E’raqomu le’beulan
+We’tewekfo le Israel qul’iehu,
+Wetezekere sahilo zeyibielomu le Abewine
+Le Abraham welezeru iske le’aleme Alem Amen.
+(And Mary said, My soul doth magnify the Lord,
+And my spirit hath rejoiced in God my Savior.
+For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed.
+For he that is mighty hath done to me great things; and holy is his name.
+And his mercy is on them that fear him from generation to generation.
+He hath shewed strength with his arm; he hath scattered the proud in the imagination of their hearts.
+He hath put down the mighty from their seats, and exalted them of low degree.
+He hath filled the hungry with good things; and the rich he hath sent empty away.
+He hath helped his servant Israel, in remembrance of his mercy;
+As he spake to our fathers, to Abraham, and to his seed for ever.)
+Yetebareke simih yiqedes (May your Blessed Name be glorified)

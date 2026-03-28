@@ -1,9 +1,10 @@
 # Widase Mariam Data
 
-### Scripts
+### Scripts to run in order.
 
 ```
 python3 scripts/convert_xml_to_json.py
+python3 scripts/add_transliteration.py
 python3 scripts/minify_json.py
 ```
 
